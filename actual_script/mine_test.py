@@ -10,8 +10,8 @@ warnings.filterwarnings("ignore")
 HERE = Path(__file__).resolve().parent
 MIN_SUPPORT, MIN_CONF = 0.02, 0.3
 
-ds1 = json.load(open(HERE / "ds1.json"))
-ds2 = {d["item_id"]: d for d in json.load(open(HERE / "ds2.json"))}
+ds1 = json.load(open(HERE / "ds_train1.json"))
+ds2 = {d["item_id"]: d for d in json.load(open(HERE / "ds2_new.json"))}
 ID = {d["name"]: i for i, d in ds2.items()}
 nm = lambda i: ds2[i]["name"]
 

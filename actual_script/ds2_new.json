@@ -1,0 +1,1149 @@
+[
+ {
+  "item_id": "OB_1001",
+  "name": "Whole Milk",
+  "category": "milk",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "tea, coffee, cereal"
+ },
+ {
+  "item_id": "OB_1002",
+  "name": "Skimmed Milk",
+  "category": "milk",
+  "labels": [
+   "dairy",
+   "veg",
+   "low_fat"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "tea, coffee, cereal"
+ },
+ {
+  "item_id": "OB_1003",
+  "name": "Oat Milk",
+  "category": "milk",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free",
+   "low_fat"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "coffee, cereal, baking"
+ },
+ {
+  "item_id": "OB_1004",
+  "name": "Soy Milk",
+  "category": "milk",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "coffee, cereal, baking"
+ },
+ {
+  "item_id": "OB_1005",
+  "name": "Almond Milk",
+  "category": "milk",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 120,
+  "storage": "ambient",
+  "common_uses": "coffee, smoothies"
+ },
+ {
+  "item_id": "OB_1006",
+  "name": "White Bread",
+  "category": "bread",
+  "labels": [
+   "veg"
+  ],
+  "shelf_life_days": 5,
+  "storage": "ambient",
+  "common_uses": "toast, sandwiches"
+ },
+ {
+  "item_id": "OB_1007",
+  "name": "Wholemeal Bread",
+  "category": "bread",
+  "labels": [
+   "veg"
+  ],
+  "shelf_life_days": 5,
+  "storage": "ambient",
+  "common_uses": "toast, sandwiches"
+ },
+ {
+  "item_id": "OB_1008",
+  "name": "Sourdough",
+  "category": "bread",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 4,
+  "storage": "ambient",
+  "common_uses": "toast, sandwiches"
+ },
+ {
+  "item_id": "OB_1009",
+  "name": "Gluten-Free Bread",
+  "category": "bread",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "gluten_free"
+  ],
+  "shelf_life_days": 7,
+  "storage": "ambient",
+  "common_uses": "toast, sandwiches"
+ },
+ {
+  "item_id": "OB_1010",
+  "name": "Salted Butter",
+  "category": "butter",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 60,
+  "storage": "chilled",
+  "common_uses": "spreading, baking"
+ },
+ {
+  "item_id": "OB_1011",
+  "name": "Fat-Free Butter",
+  "category": "butter",
+  "labels": [
+   "dairy",
+   "veg",
+   "low_fat"
+  ],
+  "shelf_life_days": 45,
+  "storage": "chilled",
+  "common_uses": "spreading"
+ },
+ {
+  "item_id": "OB_1012",
+  "name": "Vegan Butter",
+  "category": "butter",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 120,
+  "storage": "chilled",
+  "common_uses": "spreading, baking"
+ },
+ {
+  "item_id": "OB_1013",
+  "name": "Corn Flakes",
+  "category": "cereal",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 300,
+  "storage": "ambient",
+  "common_uses": "breakfast"
+ },
+ {
+  "item_id": "OB_1014",
+  "name": "Granola",
+  "category": "cereal",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 200,
+  "storage": "ambient",
+  "common_uses": "breakfast, snacks"
+ },
+ {
+  "item_id": "OB_1015",
+  "name": "Greek Yogurt",
+  "category": "yogurt",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "breakfast, dessert"
+ },
+ {
+  "item_id": "OB_1016",
+  "name": "Coconut Yogurt",
+  "category": "yogurt",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 21,
+  "storage": "chilled",
+  "common_uses": "breakfast, dessert"
+ },
+ {
+  "item_id": "OB_1017",
+  "name": "Spaghetti",
+  "category": "pasta",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 700,
+  "storage": "ambient",
+  "common_uses": "dinner"
+ },
+ {
+  "item_id": "OB_1018",
+  "name": "Gluten-Free Penne",
+  "category": "pasta",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "gluten_free"
+  ],
+  "shelf_life_days": 700,
+  "storage": "ambient",
+  "common_uses": "dinner"
+ },
+ {
+  "item_id": "OB_1019",
+  "name": "Tomato & Mascarpone Sauce",
+  "category": "sauce",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1020",
+  "name": "Creamy Carbonara Sauce",
+  "category": "sauce",
+  "labels": [
+   "dairy",
+   "meat"
+  ],
+  "shelf_life_days": 120,
+  "storage": "chilled",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1021",
+  "name": "Vegan Pesto",
+  "category": "sauce",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 90,
+  "storage": "chilled",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1022",
+  "name": "Parmesan",
+  "category": "cheese",
+  "labels": [
+   "dairy"
+  ],
+  "shelf_life_days": 90,
+  "storage": "chilled",
+  "common_uses": "pasta, salads"
+ },
+ {
+  "item_id": "OB_1023",
+  "name": "Vegan Parmesan",
+  "category": "cheese",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "pasta, salads"
+ },
+ {
+  "item_id": "OB_1024",
+  "name": "Eggs",
+  "category": "eggs",
+  "labels": [
+   "veg",
+   "egg"
+  ],
+  "shelf_life_days": 21,
+  "storage": "chilled",
+  "common_uses": "breakfast, baking"
+ },
+ {
+  "item_id": "OB_1025",
+  "name": "Strawberry Jam",
+  "category": "spread",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "toast"
+ },
+ {
+  "item_id": "OB_1026",
+  "name": "Bananas",
+  "category": "fruit",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 6,
+  "storage": "ambient",
+  "common_uses": "snack, cereal"
+ },
+ {
+  "item_id": "OB_1027",
+  "name": "Semi-Skimmed Milk",
+  "category": "milk",
+  "labels": [
+   "dairy",
+   "veg",
+   "low_fat"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "tea, coffee, cereal"
+ },
+ {
+  "item_id": "OB_1028",
+  "name": "Lactose-Free Milk",
+  "category": "milk",
+  "labels": [
+   "dairy",
+   "veg",
+   "lactose_free"
+  ],
+  "shelf_life_days": 10,
+  "storage": "chilled",
+  "common_uses": "tea, coffee, cereal"
+ },
+ {
+  "item_id": "OB_1029",
+  "name": "Coconut Milk Drink",
+  "category": "milk",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "coffee, cereal"
+ },
+ {
+  "item_id": "OB_1030",
+  "name": "Barista Oat Drink",
+  "category": "milk",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 120,
+  "storage": "ambient",
+  "common_uses": "coffee"
+ },
+ {
+  "item_id": "OB_1031",
+  "name": "Rye Bread",
+  "category": "bread",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "high_fibre"
+  ],
+  "shelf_life_days": 7,
+  "storage": "ambient",
+  "common_uses": "toast, sandwiches"
+ },
+ {
+  "item_id": "OB_1032",
+  "name": "Bran Loaf",
+  "category": "bread",
+  "labels": [
+   "veg",
+   "high_fibre",
+   "low_fat"
+  ],
+  "shelf_life_days": 5,
+  "storage": "ambient",
+  "common_uses": "toast"
+ },
+ {
+  "item_id": "OB_1033",
+  "name": "Lactose-Free Butter",
+  "category": "butter",
+  "labels": [
+   "dairy",
+   "veg",
+   "lactose_free"
+  ],
+  "shelf_life_days": 60,
+  "storage": "chilled",
+  "common_uses": "spreading, baking"
+ },
+ {
+  "item_id": "OB_1034",
+  "name": "Honey Granola",
+  "category": "cereal",
+  "labels": [
+   "veg",
+   "contains_honey",
+   "high_fibre"
+  ],
+  "shelf_life_days": 200,
+  "storage": "ambient",
+  "common_uses": "breakfast, snacks"
+ },
+ {
+  "item_id": "OB_1035",
+  "name": "Muesli",
+  "category": "cereal",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "high_fibre"
+  ],
+  "shelf_life_days": 240,
+  "storage": "ambient",
+  "common_uses": "breakfast"
+ },
+ {
+  "item_id": "OB_1036",
+  "name": "Bran Flakes",
+  "category": "cereal",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "high_fibre",
+   "low_fat"
+  ],
+  "shelf_life_days": 270,
+  "storage": "ambient",
+  "common_uses": "breakfast"
+ },
+ {
+  "item_id": "OB_1037",
+  "name": "Chocolate Puffs",
+  "category": "cereal",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 270,
+  "storage": "ambient",
+  "common_uses": "breakfast, snacks"
+ },
+ {
+  "item_id": "OB_1038",
+  "name": "Low-Fat Yogurt",
+  "category": "yogurt",
+  "labels": [
+   "dairy",
+   "veg",
+   "low_fat"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "breakfast, dessert"
+ },
+ {
+  "item_id": "OB_1039",
+  "name": "Lactose-Free Yogurt",
+  "category": "yogurt",
+  "labels": [
+   "dairy",
+   "veg",
+   "lactose_free"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "breakfast, dessert"
+ },
+ {
+  "item_id": "OB_1040",
+  "name": "Egg Tagliatelle",
+  "category": "pasta",
+  "labels": [
+   "veg",
+   "egg"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "dinner"
+ },
+ {
+  "item_id": "OB_1041",
+  "name": "Fresh Egg Fusilli",
+  "category": "pasta",
+  "labels": [
+   "veg",
+   "egg"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "dinner"
+ },
+ {
+  "item_id": "OB_1042",
+  "name": "Wholewheat Fusilli",
+  "category": "pasta",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "high_fibre"
+  ],
+  "shelf_life_days": 700,
+  "storage": "ambient",
+  "common_uses": "dinner"
+ },
+ {
+  "item_id": "OB_1043",
+  "name": "Tomato Basil Sauce",
+  "category": "sauce",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1044",
+  "name": "Beef Bolognese",
+  "category": "sauce",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1045",
+  "name": "Vegan Bolognese",
+  "category": "sauce",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1046",
+  "name": "Four Cheese Sauce",
+  "category": "sauce",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1047",
+  "name": "Chicken Arrabbiata",
+  "category": "sauce",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1048",
+  "name": "Lentil Ragu",
+  "category": "sauce",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "high_fibre"
+  ],
+  "shelf_life_days": 365,
+  "storage": "ambient",
+  "common_uses": "pasta"
+ },
+ {
+  "item_id": "OB_1049",
+  "name": "Vegetarian Hard Cheese",
+  "category": "cheese",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 120,
+  "storage": "chilled",
+  "common_uses": "pasta, salads"
+ },
+ {
+  "item_id": "OB_1050",
+  "name": "White Burger Bun",
+  "category": "bun",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 5,
+  "storage": "ambient",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1051",
+  "name": "Brioche Bun",
+  "category": "bun",
+  "labels": [
+   "veg",
+   "egg",
+   "dairy"
+  ],
+  "shelf_life_days": 4,
+  "storage": "ambient",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1052",
+  "name": "Seeded Bun",
+  "category": "bun",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 5,
+  "storage": "ambient",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1053",
+  "name": "Gluten-Free Bun",
+  "category": "bun",
+  "labels": [
+   "veg",
+   "egg",
+   "gluten_free"
+  ],
+  "shelf_life_days": 6,
+  "storage": "ambient",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1054",
+  "name": "Beef Patty",
+  "category": "patty",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 3,
+  "storage": "chilled",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1055",
+  "name": "Chicken Patty",
+  "category": "patty",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 3,
+  "storage": "chilled",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1056",
+  "name": "Veggie Bean Patty",
+  "category": "patty",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1057",
+  "name": "Plant-Based Patty",
+  "category": "patty",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1058",
+  "name": "Turkey Patty",
+  "category": "patty",
+  "labels": [
+   "meat",
+   "low_fat"
+  ],
+  "shelf_life_days": 3,
+  "storage": "chilled",
+  "common_uses": "burgers"
+ },
+ {
+  "item_id": "OB_1059",
+  "name": "Egg Mayonnaise",
+  "category": "mayo",
+  "labels": [
+   "veg",
+   "egg"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "burgers, sandwiches"
+ },
+ {
+  "item_id": "OB_1060",
+  "name": "Eggless Vegan Mayo",
+  "category": "mayo",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "egg_free",
+   "dairy_free"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "burgers, sandwiches"
+ },
+ {
+  "item_id": "OB_1061",
+  "name": "Light Mayonnaise",
+  "category": "mayo",
+  "labels": [
+   "veg",
+   "egg",
+   "low_fat"
+  ],
+  "shelf_life_days": 180,
+  "storage": "ambient",
+  "common_uses": "burgers, sandwiches"
+ },
+ {
+  "item_id": "OB_1062",
+  "name": "Soft White Roll",
+  "category": "roll",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 4,
+  "storage": "ambient",
+  "common_uses": "breakfast, hot dogs"
+ },
+ {
+  "item_id": "OB_1063",
+  "name": "Milk Roll",
+  "category": "roll",
+  "labels": [
+   "veg",
+   "dairy"
+  ],
+  "shelf_life_days": 4,
+  "storage": "ambient",
+  "common_uses": "breakfast, hot dogs"
+ },
+ {
+  "item_id": "OB_1064",
+  "name": "Vegan Seeded Roll",
+  "category": "roll",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 5,
+  "storage": "ambient",
+  "common_uses": "breakfast, hot dogs"
+ },
+ {
+  "item_id": "OB_1065",
+  "name": "Gluten-Free Roll",
+  "category": "roll",
+  "labels": [
+   "veg",
+   "gluten_free"
+  ],
+  "shelf_life_days": 6,
+  "storage": "ambient",
+  "common_uses": "breakfast, hot dogs"
+ },
+ {
+  "item_id": "OB_1066",
+  "name": "Pork Sausage",
+  "category": "sausage",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 5,
+  "storage": "chilled",
+  "common_uses": "breakfast, grill"
+ },
+ {
+  "item_id": "OB_1067",
+  "name": "Chicken Sausage",
+  "category": "sausage",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 5,
+  "storage": "chilled",
+  "common_uses": "breakfast, grill"
+ },
+ {
+  "item_id": "OB_1068",
+  "name": "Vegetarian Sausage",
+  "category": "sausage",
+  "labels": [
+   "veg",
+   "egg"
+  ],
+  "shelf_life_days": 10,
+  "storage": "chilled",
+  "common_uses": "breakfast, grill"
+ },
+ {
+  "item_id": "OB_1069",
+  "name": "Vegan Sausage",
+  "category": "sausage",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 12,
+  "storage": "chilled",
+  "common_uses": "breakfast, grill"
+ },
+ {
+  "item_id": "OB_1070",
+  "name": "Vegan Chorizo Sausage",
+  "category": "sausage",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 12,
+  "storage": "chilled",
+  "common_uses": "grill"
+ },
+ {
+  "item_id": "OB_1071",
+  "name": "Veggie Cheese Sausage",
+  "category": "sausage",
+  "labels": [
+   "veg",
+   "dairy"
+  ],
+  "shelf_life_days": 10,
+  "storage": "chilled",
+  "common_uses": "breakfast, grill"
+ },
+ {
+  "item_id": "OB_1072",
+  "name": "Back Bacon",
+  "category": "side",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "breakfast"
+ },
+ {
+  "item_id": "OB_1073",
+  "name": "Vegan Bacon Rashers",
+  "category": "side",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 30,
+  "storage": "chilled",
+  "common_uses": "breakfast"
+ },
+ {
+  "item_id": "OB_1074",
+  "name": "Classic Pizza Base",
+  "category": "pizza_base",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1075",
+  "name": "Cauliflower Pizza Base",
+  "category": "pizza_base",
+  "labels": [
+   "veg",
+   "egg",
+   "gluten_free"
+  ],
+  "shelf_life_days": 10,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1076",
+  "name": "Wholemeal Pizza Base",
+  "category": "pizza_base",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "high_fibre"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1077",
+  "name": "Garlic Flatbread Base",
+  "category": "pizza_base",
+  "labels": [
+   "veg",
+   "dairy"
+  ],
+  "shelf_life_days": 10,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1078",
+  "name": "Pepperoni",
+  "category": "topping",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 21,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1079",
+  "name": "Mushrooms",
+  "category": "topping",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 6,
+  "storage": "chilled",
+  "common_uses": "pizza, stir fry"
+ },
+ {
+  "item_id": "OB_1080",
+  "name": "Vegan Chorizo Slices",
+  "category": "topping",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 30,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1081",
+  "name": "Ham",
+  "category": "topping",
+  "labels": [
+   "meat"
+  ],
+  "shelf_life_days": 7,
+  "storage": "chilled",
+  "common_uses": "pizza, sandwiches"
+ },
+ {
+  "item_id": "OB_1082",
+  "name": "Spinach and Ricotta",
+  "category": "topping",
+  "labels": [
+   "veg",
+   "dairy"
+  ],
+  "shelf_life_days": 5,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1083",
+  "name": "Roasted Peppers",
+  "category": "topping",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 14,
+  "storage": "chilled",
+  "common_uses": "pizza, salads"
+ },
+ {
+  "item_id": "OB_1084",
+  "name": "Mozzarella",
+  "category": "pizza_cheese",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 25,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1085",
+  "name": "Vegan Mozzarella",
+  "category": "pizza_cheese",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg",
+   "dairy_free"
+  ],
+  "shelf_life_days": 60,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1086",
+  "name": "Cheddar Blend",
+  "category": "pizza_cheese",
+  "labels": [
+   "dairy",
+   "veg"
+  ],
+  "shelf_life_days": 60,
+  "storage": "chilled",
+  "common_uses": "pizza"
+ },
+ {
+  "item_id": "OB_1087",
+  "name": "Tea Bags",
+  "category": "noise",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 540,
+  "storage": "ambient",
+  "common_uses": "hot drinks"
+ },
+ {
+  "item_id": "OB_1088",
+  "name": "Orange Juice",
+  "category": "noise",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 12,
+  "storage": "chilled",
+  "common_uses": "drinks"
+ },
+ {
+  "item_id": "OB_1089",
+  "name": "Basmati Rice",
+  "category": "noise",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 720,
+  "storage": "ambient",
+  "common_uses": "dinner"
+ },
+ {
+  "item_id": "OB_1090",
+  "name": "Apples",
+  "category": "noise",
+  "labels": [
+   "plant",
+   "vegan",
+   "veg"
+  ],
+  "shelf_life_days": 20,
+  "storage": "chilled",
+  "common_uses": "snack"
+ }
+]

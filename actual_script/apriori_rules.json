@@ -1,0 +1,3312 @@
+[
+  {
+    "antecedents": [
+      "OB_1055"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.06666666666666667,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1054"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.051111111111111114,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1082"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.04111111111111111,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1068"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.04,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1052"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.03666666666666667,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1066"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.03611111111111111,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1071"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.035,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1019"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.030555555555555555,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1051",
+      "OB_1055"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.02666666666666667,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1064",
+      "OB_1068"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.023333333333333334,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1052",
+      "OB_1055"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.021111111111111112,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1062",
+      "OB_1066"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.019444444444444445,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1077",
+      "OB_1083"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.019444444444444445,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1055"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.01888888888888889,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1051",
+      "OB_1054"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.018333333333333333,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1062",
+      "OB_1071"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.017777777777777778,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1064",
+      "OB_1071"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.017222222222222222,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1054"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.017222222222222222,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1063",
+      "OB_1068"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1063",
+      "OB_1066"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1077",
+      "OB_1082"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1081"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.01611111111111111,
+    "confidence": 1.0,
+    "lift": 19.35483870967742
+  },
+  {
+    "antecedents": [
+      "OB_1076",
+      "OB_1081"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.01611111111111111,
+    "confidence": 1.0,
+    "lift": 19.35483870967742
+  },
+  {
+    "antecedents": [
+      "OB_1046"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.015555555555555555,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1052",
+      "OB_1054"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.015555555555555555,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1074",
+      "OB_1079"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.013888888888888888,
+    "confidence": 1.0,
+    "lift": 20.0
+  },
+  {
+    "antecedents": [
+      "OB_1074",
+      "OB_1082"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.012777777777777779,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1076",
+      "OB_1082"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.011666666666666667,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1008"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.011111111111111112,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1008",
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.011111111111111112,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1006"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.010555555555555556,
+    "confidence": 1.0,
+    "lift": 25.35211267605634
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1043"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.010555555555555556,
+    "confidence": 1.0,
+    "lift": 31.03448275862069
+  },
+  {
+    "antecedents": [
+      "OB_1009",
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.009444444444444445,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1019"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.008888888888888889,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1041",
+      "OB_1047"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.008888888888888889,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1019"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1019",
+      "OB_1040"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1027",
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1041",
+      "OB_1046"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1007"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.0077777777777777776,
+    "confidence": 1.0,
+    "lift": 25.35211267605634
+  },
+  {
+    "antecedents": [
+      "OB_1007",
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.0077777777777777776,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1031"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 25.35211267605634
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1013"
+    ],
+    "consequents": [
+      "OB_1015"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 40.90909090909091
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1009"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1007"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 25.35211267605634
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1005",
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1045"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 31.03448275862069
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1046"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1021",
+      "OB_1041"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1008"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1030",
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1047"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1020",
+      "OB_1041"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1028",
+      "OB_1031"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1041",
+      "OB_1043"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1006"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1005",
+      "OB_1013"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1027",
+      "OB_1032"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1047"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1043"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 1.0,
+    "lift": 31.03448275862069
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1032"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1006",
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1014",
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1020"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1027",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1028",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1039"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 45.0
+  },
+  {
+    "antecedents": [
+      "OB_1028",
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1039"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 45.0
+  },
+  {
+    "antecedents": [
+      "OB_1054",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1009"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.005,
+    "confidence": 1.0,
+    "lift": 25.35211267605634
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1015"
+    ],
+    "support": 0.005,
+    "confidence": 1.0,
+    "lift": 40.90909090909091
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1007"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.005,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1019",
+      "OB_1041"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.005,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1068"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.005,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1031"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1014"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1009"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1032"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1014",
+      "OB_1030"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1020",
+      "OB_1040"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1040",
+      "OB_1045"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1055",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1055",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1013"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1005",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1015"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 1.0,
+    "lift": 40.90909090909091
+  },
+  {
+    "antecedents": [
+      "OB_1005",
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 1.0,
+    "lift": 16.513761467889907
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1071"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1052",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1054",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1028",
+      "OB_1032"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1030",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1015"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 40.90909090909091
+  },
+  {
+    "antecedents": [
+      "OB_1020",
+      "OB_1025"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1054"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1055"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1083"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1082"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1051",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1055",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1056",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 38.29787234042553
+  },
+  {
+    "antecedents": [
+      "OB_1069",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 37.5
+  },
+  {
+    "antecedents": [
+      "OB_1078",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 19.35483870967742
+  },
+  {
+    "antecedents": [
+      "OB_1082",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1032",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1025"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1047"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1071",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1052"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1052"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1055"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1066"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1027",
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 16.822429906542055
+  },
+  {
+    "antecedents": [
+      "OB_1051",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1052",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1054",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1082",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 28.57142857142857
+  },
+  {
+    "antecedents": [
+      "OB_1032",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 17.475728155339805
+  },
+  {
+    "antecedents": [
+      "OB_1019",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 14.634146341463415
+  },
+  {
+    "antecedents": [
+      "OB_1020",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.126050420168069
+  },
+  {
+    "antecedents": [
+      "OB_1043",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 31.03448275862069
+  },
+  {
+    "antecedents": [
+      "OB_1068",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1068",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1071",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 12.949640287769785
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1056"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 38.29787234042553
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1066"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1078"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 19.35483870967742
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1054"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1069"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 37.5
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1079"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 20.0
+  },
+  {
+    "antecedents": [
+      "OB_1052",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1055",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 8.333333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1066",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1066",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1066",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.929203539823009
+  },
+  {
+    "antecedents": [
+      "OB_1069",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 37.5
+  },
+  {
+    "antecedents": [
+      "OB_1069",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 37.5
+  },
+  {
+    "antecedents": [
+      "OB_1069",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 37.5
+  },
+  {
+    "antecedents": [
+      "OB_1078",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 19.35483870967742
+  },
+  {
+    "antecedents": [
+      "OB_1082",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1082",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 1.0,
+    "lift": 15.384615384615383
+  },
+  {
+    "antecedents": [
+      "OB_1032"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.027777777777777776,
+    "confidence": 0.9803921568627451,
+    "lift": 17.133066818960593
+  },
+  {
+    "antecedents": [
+      "OB_1056"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.026111111111111113,
+    "confidence": 0.9791666666666666,
+    "lift": 37.49999999999999
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1056"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.026111111111111113,
+    "confidence": 0.9791666666666666,
+    "lift": 37.49999999999999
+  },
+  {
+    "antecedents": [
+      "OB_1077",
+      "OB_1078"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 0.967741935483871,
+    "lift": 18.730489073881373
+  },
+  {
+    "antecedents": [
+      "OB_1079"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.03166666666666667,
+    "confidence": 0.9661016949152542,
+    "lift": 19.322033898305083
+  },
+  {
+    "antecedents": [
+      "OB_1047"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.03,
+    "confidence": 0.9642857142857143,
+    "lift": 14.585834333733494
+  },
+  {
+    "antecedents": [
+      "OB_1064",
+      "OB_1069"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.015,
+    "confidence": 0.9642857142857143,
+    "lift": 36.160714285714285
+  },
+  {
+    "antecedents": [
+      "OB_1063",
+      "OB_1067"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.014444444444444444,
+    "confidence": 0.9629629629629629,
+    "lift": 15.339233038348082
+  },
+  {
+    "antecedents": [
+      "OB_1067"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.02666666666666667,
+    "confidence": 0.96,
+    "lift": 15.292035398230087
+  },
+  {
+    "antecedents": [
+      "OB_1069"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.02666666666666667,
+    "confidence": 0.96,
+    "lift": 35.99999999999999
+  },
+  {
+    "antecedents": [
+      "OB_1064",
+      "OB_1067"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.012222222222222223,
+    "confidence": 0.9565217391304348,
+    "lift": 15.236629472874183
+  },
+  {
+    "antecedents": [
+      "OB_1078"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.035555555555555556,
+    "confidence": 0.9552238805970149,
+    "lift": 18.488204140587385
+  },
+  {
+    "antecedents": [
+      "OB_1062",
+      "OB_1069"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.011666666666666667,
+    "confidence": 0.9545454545454546,
+    "lift": 35.79545454545455
+  },
+  {
+    "antecedents": [
+      "OB_1020"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.022222222222222223,
+    "confidence": 0.9523809523809523,
+    "lift": 14.40576230492197
+  },
+  {
+    "antecedents": [
+      "OB_1076",
+      "OB_1078"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.01888888888888889,
+    "confidence": 0.9444444444444444,
+    "lift": 18.279569892473116
+  },
+  {
+    "antecedents": [
+      "OB_1076",
+      "OB_1079"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.017777777777777778,
+    "confidence": 0.9411764705882353,
+    "lift": 18.823529411764703
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1032"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 0.9375,
+    "lift": 16.383495145631066
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1031"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 0.9375,
+    "lift": 26.785714285714285
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1021"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 0.9375,
+    "lift": 29.094827586206897
+  },
+  {
+    "antecedents": [
+      "OB_1041",
+      "OB_1044"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.0077777777777777776,
+    "confidence": 0.9333333333333333,
+    "lift": 14.11764705882353
+  },
+  {
+    "antecedents": [
+      "OB_1044"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.013888888888888888,
+    "confidence": 0.9259259259259259,
+    "lift": 14.00560224089636
+  },
+  {
+    "antecedents": [
+      "OB_1058"
+    ],
+    "consequents": [
+      "OB_1061"
+    ],
+    "support": 0.020555555555555556,
+    "confidence": 0.925,
+    "lift": 45.0
+  },
+  {
+    "antecedents": [
+      "OB_1051",
+      "OB_1058"
+    ],
+    "consequents": [
+      "OB_1061"
+    ],
+    "support": 0.020555555555555556,
+    "confidence": 0.925,
+    "lift": 45.0
+  },
+  {
+    "antecedents": [
+      "OB_1014",
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1039"
+    ],
+    "support": 0.006666666666666667,
+    "confidence": 0.9230769230769231,
+    "lift": 41.53846153846154
+  },
+  {
+    "antecedents": [
+      "OB_1074",
+      "OB_1083"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.018333333333333333,
+    "confidence": 0.9166666666666666,
+    "lift": 18.333333333333332
+  },
+  {
+    "antecedents": [
+      "OB_1004",
+      "OB_1013"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 0.9166666666666666,
+    "lift": 15.137614678899082
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1044"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.006111111111111111,
+    "confidence": 0.9166666666666666,
+    "lift": 13.865546218487395
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 0.9090909090909091,
+    "lift": 15.293118096856414
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 0.9090909090909091,
+    "lift": 15.293118096856414
+  },
+  {
+    "antecedents": [
+      "OB_1009",
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 0.9090909090909091,
+    "lift": 15.88702559576346
+  },
+  {
+    "antecedents": [
+      "OB_1030",
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 0.9090909090909091,
+    "lift": 15.012510425354462
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.005,
+    "confidence": 0.9,
+    "lift": 15.14018691588785
+  },
+  {
+    "antecedents": [
+      "OB_1013",
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.005,
+    "confidence": 0.9,
+    "lift": 15.14018691588785
+  },
+  {
+    "antecedents": [
+      "OB_1013",
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1039"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 0.8888888888888888,
+    "lift": 39.99999999999999
+  },
+  {
+    "antecedents": [
+      "OB_1040",
+      "OB_1047"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 0.8823529411764706,
+    "lift": 13.346515076618884
+  },
+  {
+    "antecedents": [
+      "OB_1005",
+      "OB_1014"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 0.8571428571428571,
+    "lift": 14.154652686762777
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1064"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 0.8571428571428571,
+    "lift": 11.099691675231243
+  },
+  {
+    "antecedents": [
+      "OB_1018",
+      "OB_1020"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.005555555555555556,
+    "confidence": 0.8333333333333334,
+    "lift": 12.605042016806724
+  },
+  {
+    "antecedents": [
+      "OB_1008",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.8333333333333334,
+    "lift": 23.809523809523807
+  },
+  {
+    "antecedents": [
+      "OB_1041",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.8333333333333334,
+    "lift": 12.605042016806724
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1063"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.8333333333333334,
+    "lift": 13.274336283185841
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1083"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.8333333333333334,
+    "lift": 12.820512820512821
+  },
+  {
+    "antecedents": [
+      "OB_1077",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.8333333333333334,
+    "lift": 12.820512820512821
+  },
+  {
+    "antecedents": [
+      "OB_1083",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.8333333333333334,
+    "lift": 12.820512820512821
+  },
+  {
+    "antecedents": [
+      "OB_1005"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.020555555555555556,
+    "confidence": 0.8222222222222222,
+    "lift": 13.577981651376145
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1077"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.005,
+    "confidence": 0.8181818181818182,
+    "lift": 12.587412587412588
+  },
+  {
+    "antecedents": [
+      "OB_1030"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 0.8108108108108109,
+    "lift": 13.389536325316142
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.8,
+    "lift": 13.980582524271846
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.8,
+    "lift": 24.827586206896555
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1041"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.8,
+    "lift": 12.100840336134455
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.8,
+    "lift": 22.857142857142858
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.8,
+    "lift": 6.666666666666667
+  },
+  {
+    "antecedents": [
+      "OB_1051",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.8,
+    "lift": 6.666666666666667
+  },
+  {
+    "antecedents": [
+      "OB_1083",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 0.75,
+    "lift": 11.538461538461538
+  },
+  {
+    "antecedents": [
+      "OB_1077",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 0.7272727272727273,
+    "lift": 11.188811188811188
+  },
+  {
+    "antecedents": [
+      "OB_1043"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 0.7142857142857143,
+    "lift": 22.167487684729064
+  },
+  {
+    "antecedents": [
+      "OB_1034",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.7142857142857143,
+    "lift": 12.016021361815755
+  },
+  {
+    "antecedents": [
+      "OB_1076",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.7142857142857143,
+    "lift": 13.824884792626728
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1077"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 0.7,
+    "lift": 10.769230769230768
+  },
+  {
+    "antecedents": [
+      "OB_1077",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 0.7,
+    "lift": 10.769230769230768
+  },
+  {
+    "antecedents": [
+      "OB_1051"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.04666666666666667,
+    "confidence": 0.6942148760330579,
+    "lift": 5.785123966942149
+  },
+  {
+    "antecedents": [
+      "OB_1074"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.03222222222222222,
+    "confidence": 0.6904761904761905,
+    "lift": 13.809523809523808
+  },
+  {
+    "antecedents": [
+      "OB_1077"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.03666666666666667,
+    "confidence": 0.6875,
+    "lift": 10.576923076923077
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 0.6666666666666666,
+    "lift": 25.531914893617017
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1026"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.6666666666666666,
+    "lift": 20.689655172413794
+  },
+  {
+    "antecedents": [
+      "OB_1036",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.6666666666666666,
+    "lift": 11.214953271028037
+  },
+  {
+    "antecedents": [
+      "OB_1040",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.6666666666666666,
+    "lift": 9.75609756097561
+  },
+  {
+    "antecedents": [
+      "OB_1063",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.6666666666666666,
+    "lift": 10.619469026548671
+  },
+  {
+    "antecedents": [
+      "OB_1063",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.6666666666666666,
+    "lift": 10.619469026548671
+  },
+  {
+    "antecedents": [
+      "OB_1063"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.03111111111111111,
+    "confidence": 0.6436781609195402,
+    "lift": 10.253280439426304
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1064"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0038888888888888888,
+    "confidence": 0.6363636363636364,
+    "lift": 8.240680183126226
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.625,
+    "lift": 5.208333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1050",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.625,
+    "lift": 5.208333333333334
+  },
+  {
+    "antecedents": [
+      "OB_1045"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.007222222222222222,
+    "confidence": 0.6190476190476191,
+    "lift": 19.211822660098523
+  },
+  {
+    "antecedents": [
+      "OB_1008"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.017777777777777778,
+    "confidence": 0.6153846153846154,
+    "lift": 17.58241758241758
+  },
+  {
+    "antecedents": [
+      "OB_1064",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 0.6153846153846154,
+    "lift": 7.969009407858329
+  },
+  {
+    "antecedents": [
+      "OB_1064"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.041666666666666664,
+    "confidence": 0.6048387096774194,
+    "lift": 7.832443722441402
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0033333333333333335,
+    "confidence": 0.6,
+    "lift": 10.093457943925234
+  },
+  {
+    "antecedents": [
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.02722222222222222,
+    "confidence": 0.5975609756097561,
+    "lift": 10.052427627080009
+  },
+  {
+    "antecedents": [
+      "OB_1050"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.03666666666666667,
+    "confidence": 0.584070796460177,
+    "lift": 4.867256637168142
+  },
+  {
+    "antecedents": [
+      "OB_1035"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.019444444444444445,
+    "confidence": 0.5737704918032787,
+    "lift": 9.475109038953226
+  },
+  {
+    "antecedents": [
+      "OB_1001",
+      "OB_1025"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5714285714285714,
+    "lift": 14.486921529175051
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1090"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5714285714285714,
+    "lift": 9.612817089452603
+  },
+  {
+    "antecedents": [
+      "OB_1003",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5714285714285714,
+    "lift": 16.326530612244895
+  },
+  {
+    "antecedents": [
+      "OB_1017",
+      "OB_1025"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5714285714285714,
+    "lift": 17.73399014778325
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5714285714285714,
+    "lift": 9.612817089452603
+  },
+  {
+    "antecedents": [
+      "OB_1076",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5714285714285714,
+    "lift": 11.059907834101383
+  },
+  {
+    "antecedents": [
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.035,
+    "confidence": 0.5675675675675677,
+    "lift": 16.216216216216218
+  },
+  {
+    "antecedents": [
+      "OB_1017"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.026111111111111113,
+    "confidence": 0.5595238095238095,
+    "lift": 17.364532019704434
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1050"
+    ],
+    "consequents": [
+      "OB_1059"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.5555555555555556,
+    "lift": 4.62962962962963
+  },
+  {
+    "antecedents": [
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.020555555555555556,
+    "confidence": 0.5441176470588235,
+    "lift": 9.153380978559648
+  },
+  {
+    "antecedents": [
+      "OB_1041"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.027777777777777776,
+    "confidence": 0.5434782608695652,
+    "lift": 7.953340402969247
+  },
+  {
+    "antecedents": [
+      "OB_1007"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.015,
+    "confidence": 0.54,
+    "lift": 13.690140845070424
+  },
+  {
+    "antecedents": [
+      "OB_1001"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.03111111111111111,
+    "confidence": 0.5384615384615384,
+    "lift": 13.651137594799566
+  },
+  {
+    "antecedents": [
+      "OB_1083"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.021111111111111112,
+    "confidence": 0.5352112676056338,
+    "lift": 8.234019501625134
+  },
+  {
+    "antecedents": [
+      "OB_1076"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.035,
+    "confidence": 0.525,
+    "lift": 10.161290322580646
+  },
+  {
+    "antecedents": [
+      "OB_1006"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.011666666666666667,
+    "confidence": 0.525,
+    "lift": 9.174757281553399
+  },
+  {
+    "antecedents": [
+      "OB_1040"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.013888888888888888,
+    "confidence": 0.5208333333333334,
+    "lift": 7.621951219512196
+  },
+  {
+    "antecedents": [
+      "OB_1002"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.02388888888888889,
+    "confidence": 0.5180722891566265,
+    "lift": 9.053690490115804
+  },
+  {
+    "antecedents": [
+      "OB_1021"
+    ],
+    "consequents": [
+      "OB_1023"
+    ],
+    "support": 0.008333333333333333,
+    "confidence": 0.5172413793103449,
+    "lift": 16.05231866825208
+  },
+  {
+    "antecedents": [
+      "OB_1003"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.015555555555555555,
+    "confidence": 0.5,
+    "lift": 14.285714285714285
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1063"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.5,
+    "lift": 6.474820143884893
+  },
+  {
+    "antecedents": [
+      "OB_1026",
+      "OB_1063"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.002777777777777778,
+    "confidence": 0.5,
+    "lift": 7.964601769911504
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1025"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5,
+    "lift": 8.737864077669903
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1025"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5,
+    "lift": 8.411214953271028
+  },
+  {
+    "antecedents": [
+      "OB_1027",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5,
+    "lift": 8.737864077669903
+  },
+  {
+    "antecedents": [
+      "OB_1027",
+      "OB_1087"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.5,
+    "lift": 8.411214953271028
+  },
+  {
+    "antecedents": [
+      "OB_1021"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.0077777777777777776,
+    "confidence": 0.4827586206896552,
+    "lift": 7.064760302775443
+  },
+  {
+    "antecedents": [
+      "OB_1040"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.012777777777777779,
+    "confidence": 0.4791666666666667,
+    "lift": 7.247899159663866
+  },
+  {
+    "antecedents": [
+      "OB_1014"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.012222222222222223,
+    "confidence": 0.4782608695652174,
+    "lift": 7.897885919425608
+  },
+  {
+    "antecedents": [
+      "OB_1006"
+    ],
+    "consequents": [
+      "OB_1010"
+    ],
+    "support": 0.010555555555555556,
+    "confidence": 0.475,
+    "lift": 12.04225352112676
+  },
+  {
+    "antecedents": [
+      "OB_1031"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.012777777777777779,
+    "confidence": 0.46938775510204084,
+    "lift": 13.411078717201166
+  },
+  {
+    "antecedents": [
+      "OB_1083"
+    ],
+    "consequents": [
+      "OB_1085"
+    ],
+    "support": 0.018333333333333333,
+    "confidence": 0.4647887323943662,
+    "lift": 9.295774647887324
+  },
+  {
+    "antecedents": [
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.01611111111111111,
+    "confidence": 0.4603174603174603,
+    "lift": 7.74365821094793
+  },
+  {
+    "antecedents": [
+      "OB_1002"
+    ],
+    "consequents": [
+      "OB_1038"
+    ],
+    "support": 0.021111111111111112,
+    "confidence": 0.4578313253012048,
+    "lift": 7.701835378898772
+  },
+  {
+    "antecedents": [
+      "OB_1041"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.023333333333333334,
+    "confidence": 0.45652173913043476,
+    "lift": 6.90537084398977
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1050"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.4444444444444444,
+    "lift": 17.02127659574468
+  },
+  {
+    "antecedents": [
+      "OB_1036"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 0.4411764705882353,
+    "lift": 7.285483000539665
+  },
+  {
+    "antecedents": [
+      "OB_1018"
+    ],
+    "consequents": [
+      "OB_1022"
+    ],
+    "support": 0.018333333333333333,
+    "confidence": 0.4342105263157895,
+    "lift": 6.567890314020346
+  },
+  {
+    "antecedents": [
+      "OB_1004"
+    ],
+    "consequents": [
+      "OB_1012"
+    ],
+    "support": 0.019444444444444445,
+    "confidence": 0.4268292682926829,
+    "lift": 12.19512195121951
+  },
+  {
+    "antecedents": [
+      "OB_1018"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.017777777777777778,
+    "confidence": 0.42105263157894735,
+    "lift": 6.161745827984595
+  },
+  {
+    "antecedents": [
+      "OB_1050"
+    ],
+    "consequents": [
+      "OB_1060"
+    ],
+    "support": 0.026111111111111113,
+    "confidence": 0.415929203539823,
+    "lift": 15.929203539823007
+  },
+  {
+    "antecedents": [
+      "OB_1002",
+      "OB_1089"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.4,
+    "lift": 6.990291262135923
+  },
+  {
+    "antecedents": [
+      "OB_1009"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.012777777777777779,
+    "confidence": 0.39655172413793105,
+    "lift": 6.930030130565785
+  },
+  {
+    "antecedents": [
+      "OB_1062"
+    ],
+    "consequents": [
+      "OB_1072"
+    ],
+    "support": 0.019444444444444445,
+    "confidence": 0.39325842696629215,
+    "lift": 6.264293526896689
+  },
+  {
+    "antecedents": [
+      "OB_1008"
+    ],
+    "consequents": [
+      "OB_1033"
+    ],
+    "support": 0.011111111111111112,
+    "confidence": 0.38461538461538464,
+    "lift": 10.989010989010989
+  },
+  {
+    "antecedents": [
+      "OB_1034"
+    ],
+    "consequents": [
+      "OB_1015"
+    ],
+    "support": 0.013333333333333334,
+    "confidence": 0.38095238095238093,
+    "lift": 15.584415584415583
+  },
+  {
+    "antecedents": [
+      "OB_1045"
+    ],
+    "consequents": [
+      "OB_1049"
+    ],
+    "support": 0.0044444444444444444,
+    "confidence": 0.38095238095238093,
+    "lift": 5.574912891986063
+  },
+  {
+    "antecedents": [
+      "OB_1027"
+    ],
+    "consequents": [
+      "OB_1011"
+    ],
+    "support": 0.017222222222222222,
+    "confidence": 0.3780487804878049,
+    "lift": 6.60667771726261
+  },
+  {
+    "antecedents": [
+      "OB_1062"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.018333333333333333,
+    "confidence": 0.3707865168539326,
+    "lift": 4.801552016813516
+  },
+  {
+    "antecedents": [
+      "OB_1028"
+    ],
+    "consequents": [
+      "OB_1039"
+    ],
+    "support": 0.022222222222222223,
+    "confidence": 0.36036036036036034,
+    "lift": 16.216216216216214
+  },
+  {
+    "antecedents": [
+      "OB_1063"
+    ],
+    "consequents": [
+      "OB_1024"
+    ],
+    "support": 0.017222222222222222,
+    "confidence": 0.3563218390804598,
+    "lift": 4.614239642768544
+  },
+  {
+    "antecedents": [
+      "OB_1013"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.012222222222222223,
+    "confidence": 0.3548387096774194,
+    "lift": 5.859721811186742
+  },
+  {
+    "antecedents": [
+      "OB_1003"
+    ],
+    "consequents": [
+      "OB_1016"
+    ],
+    "support": 0.01,
+    "confidence": 0.32142857142857145,
+    "lift": 5.307994757536042
+  },
+  {
+    "antecedents": [
+      "OB_1077"
+    ],
+    "consequents": [
+      "OB_1086"
+    ],
+    "support": 0.016666666666666666,
+    "confidence": 0.3125,
+    "lift": 6.048387096774194
+  },
+  {
+    "antecedents": [
+      "OB_1074"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.014444444444444444,
+    "confidence": 0.30952380952380953,
+    "lift": 4.761904761904762
+  },
+  {
+    "antecedents": [
+      "OB_1025",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1084"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.3076923076923077,
+    "lift": 4.733727810650888
+  },
+  {
+    "antecedents": [
+      "OB_1064",
+      "OB_1088"
+    ],
+    "consequents": [
+      "OB_1073"
+    ],
+    "support": 0.0022222222222222222,
+    "confidence": 0.3076923076923077,
+    "lift": 11.538461538461538
+  },
+  {
+    "antecedents": [
+      "OB_1051"
+    ],
+    "consequents": [
+      "OB_1061"
+    ],
+    "support": 0.020555555555555556,
+    "confidence": 0.30578512396694213,
+    "lift": 14.876033057851238
+  }
+]

@@ -1,0 +1,5413 @@
+[
+{
+"context": [
+"OB_1001",
+"OB_1014"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1014"
+}
+},
+{
+"context": [
+"OB_1011",
+"OB_1007"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1011"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1064"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1071",
+"OB_1064",
+"OB_1080"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1044"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1062"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1047",
+"OB_1044"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1033",
+"OB_1031",
+"OB_1076"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1043",
+"combo": "OB_1031|OB_1033"
+}
+},
+{
+"context": [
+"OB_1049",
+"OB_1076",
+"OB_1012"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1014",
+"OB_1003"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1016",
+"combo": "OB_1003|OB_1014"
+}
+},
+{
+"context": [
+"OB_1021",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1021"
+}
+},
+{
+"context": [
+"OB_1045",
+"OB_1050"
+],
+"outcome": "OB_1053",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1053",
+"combo": "OB_1045|OB_1050"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1049",
+"OB_1078"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1006"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1004",
+"OB_1081"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1063",
+"OB_1069",
+"OB_1079"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1063|OB_1069"
+}
+},
+{
+"context": [
+"OB_1048",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1055"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1029",
+"OB_1079"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1042",
+"combo": "OB_1029|OB_1040"
+}
+},
+{
+"context": [
+"OB_1029",
+"OB_1076",
+"OB_1036"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1029|OB_1036"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1019",
+"OB_1081"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1004",
+"OB_1009"
+],
+"outcome": "OB_1017",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1017",
+"combo": "OB_1004|OB_1009"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1055"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1081",
+"OB_1022"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1023",
+"combo": "OB_1007|OB_1022"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1076",
+"OB_1020",
+"OB_1081"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1014",
+"OB_1079"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1014"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1078",
+"OB_1013"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1013"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1019",
+"OB_1078"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1019"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1069"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1069"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1064"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1068",
+"OB_1062"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1068"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1080",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1076",
+"OB_1002",
+"OB_1057"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1057"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1076",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1013",
+"OB_1081",
+"OB_1001"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1013"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1055"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1030",
+"OB_1078",
+"OB_1036"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1030|OB_1036"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1080",
+"OB_1020"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1020"
+}
+},
+{
+"context": [
+"OB_1037",
+"OB_1076",
+"OB_1027"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1041",
+"combo": "OB_1027|OB_1037"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1056",
+"OB_1080"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1056"
+}
+},
+{
+"context": [
+"OB_1027",
+"OB_1038",
+"OB_1080",
+"OB_1081"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1027|OB_1038"
+}
+},
+{
+"context": [
+"OB_1013",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1013"
+}
+},
+{
+"context": [
+"OB_1033",
+"OB_1030"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1033"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1005"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1060",
+"combo": "OB_1005|OB_1058"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1044"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1049",
+"OB_1012"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1063",
+"OB_1072",
+"OB_1078"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1068",
+"OB_1065"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1068"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1010"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1010"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1012"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1012"
+}
+},
+{
+"context": [
+"OB_1035",
+"OB_1081",
+"OB_1030",
+"OB_1080"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1041",
+"combo": "OB_1030|OB_1035"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1040",
+"OB_1030"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1040"
+}
+},
+{
+"context": [
+"OB_1011",
+"OB_1005"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1011"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1044"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1029",
+"OB_1036"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1029|OB_1036"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1013"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1013"
+}
+},
+{
+"context": [
+"OB_1013",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1013"
+}
+},
+{
+"context": [
+"OB_1022",
+"OB_1078",
+"OB_1081",
+"OB_1003"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1024",
+"combo": "OB_1003|OB_1022"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1019"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1019"
+}
+},
+{
+"context": [
+"OB_1030",
+"OB_1040"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1040"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1030",
+"OB_1079"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1040"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1072"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1030",
+"OB_1035"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1041",
+"combo": "OB_1030|OB_1035"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1065",
+"OB_1078",
+"OB_1068"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1068"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1081",
+"OB_1064"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1057"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1065",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1065|OB_1071"
+}
+},
+{
+"context": [
+"OB_1021",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1021"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1005"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1019"
+}
+},
+{
+"context": [
+"OB_1020",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1055",
+"OB_1076"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1059",
+"combo": "OB_1004|OB_1055"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1020"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1010",
+"OB_1005"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1010"
+}
+},
+{
+"context": [
+"OB_1020",
+"OB_1007",
+"OB_1076",
+"OB_1080"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1035",
+"OB_1028"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1035"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1002",
+"OB_1022"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1002|OB_1022"
+}
+},
+{
+"context": [
+"OB_1031",
+"OB_1038",
+"OB_1076"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1031|OB_1038"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1078",
+"OB_1031"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1031|OB_1040"
+}
+},
+{
+"context": [
+"OB_1039",
+"OB_1028"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1042",
+"combo": "OB_1028|OB_1039"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1058"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1058"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1002"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1058"
+}
+},
+{
+"context": [
+"OB_1056",
+"OB_1005"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1005|OB_1056"
+}
+},
+{
+"context": [
+"OB_1049",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1080",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1019"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1077",
+"OB_1056"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1056"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1001"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1057"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007",
+"OB_1076"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1028",
+"OB_1079",
+"OB_1038"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1038"
+}
+},
+{
+"context": [
+"OB_1027",
+"OB_1040"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1040"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1014"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1072",
+"OB_1065"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1065|OB_1072"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1058"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1058"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1022"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1023",
+"combo": "OB_1007|OB_1022"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1081",
+"OB_1063"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1081",
+"OB_1050",
+"OB_1079"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1030",
+"OB_1036",
+"OB_1077"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1030|OB_1036"
+}
+},
+{
+"context": [
+"OB_1071",
+"OB_1079",
+"OB_1062"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1071"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1008",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1008|OB_1012"
+}
+},
+{
+"context": [
+"OB_1066",
+"OB_1064"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1064|OB_1066"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1011",
+"OB_1005"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1011"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1019"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1049"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1040"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1021",
+"OB_1080"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1034",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1034"
+}
+},
+{
+"context": [
+"OB_1021",
+"OB_1006",
+"OB_1081"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1047",
+"OB_1046",
+"OB_1077"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1031",
+"OB_1039",
+"OB_1079"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1042",
+"combo": "OB_1031|OB_1039"
+}
+},
+{
+"context": [
+"OB_1046",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1007"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1019"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1019"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1044",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1019",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1019"
+}
+},
+{
+"context": [
+"OB_1046",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1014",
+"OB_1050"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1079",
+"OB_1058"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1059",
+"combo": "OB_1004|OB_1058"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1056"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1056"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1057"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1057"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1036",
+"OB_1029",
+"OB_1078"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1029|OB_1036"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1072",
+"OB_1078"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1065",
+"OB_1068"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1068"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1081",
+"OB_1048",
+"OB_1045"
+],
+"outcome": "OB_1053",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1053",
+"combo": "OB_1045|OB_1048"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1077",
+"OB_1012"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1012"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1028",
+"OB_1077",
+"OB_1038"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1038"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1031",
+"OB_1039"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1042",
+"combo": "OB_1031|OB_1039"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1049",
+"OB_1079",
+"OB_1077"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1003"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1001"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1019"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1048"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1077",
+"OB_1002"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1057"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1072",
+"OB_1077"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1021"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1003|OB_1021"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1072"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1064"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1031",
+"OB_1079",
+"OB_1035"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1031|OB_1035"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1009"
+],
+"outcome": "OB_1017",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1017",
+"combo": "OB_1004|OB_1009"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1013",
+"OB_1079"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1013"
+}
+},
+{
+"context": [
+"OB_1048",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1069",
+"OB_1081"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1069"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1048",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1048",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1022",
+"OB_1005"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1024",
+"combo": "OB_1005|OB_1022"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1027",
+"OB_1038"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1027|OB_1038"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1002"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1057"
+}
+},
+{
+"context": [
+"OB_1028",
+"OB_1034"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1028|OB_1034"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1006"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1011"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1011"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1078",
+"OB_1007",
+"OB_1077"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1044"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1080",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1012"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1077",
+"OB_1005"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1019"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1038",
+"OB_1080",
+"OB_1027"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1027|OB_1038"
+}
+},
+{
+"context": [
+"OB_1034",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1034"
+}
+},
+{
+"context": [
+"OB_1028",
+"OB_1038"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1038"
+}
+},
+{
+"context": [
+"OB_1014",
+"OB_1050"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1071",
+"OB_1062"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1071"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1006"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1034",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1034"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1006"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1063",
+"OB_1072"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1012",
+"OB_1049",
+"OB_1080"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1014",
+"OB_1006"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1014"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1006",
+"OB_1079",
+"OB_1076"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1060",
+"combo": "OB_1006|OB_1058"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1078",
+"OB_1058"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1058"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1030",
+"OB_1033"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1033"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1004"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1056"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1005|OB_1056"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1079",
+"OB_1009",
+"OB_1007"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1009"
+}
+},
+{
+"context": [
+"OB_1048",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1056",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1056"
+}
+},
+{
+"context": [
+"OB_1048",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1048"
+}
+},
+{
+"context": [
+"OB_1013",
+"OB_1080",
+"OB_1002"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1013"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1001",
+"OB_1012"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1012"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1014",
+"OB_1076"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1038",
+"OB_1028",
+"OB_1079"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1038"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1079",
+"OB_1021"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1019"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1019"
+}
+},
+{
+"context": [
+"OB_1049",
+"OB_1012",
+"OB_1077"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1038",
+"OB_1028",
+"OB_1080"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1038"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1003"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1011",
+"OB_1079"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1016",
+"combo": "OB_1003|OB_1011"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1007"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1058"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1029",
+"OB_1079"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1042",
+"combo": "OB_1029|OB_1040"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1012"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1010"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1010"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1080",
+"OB_1013",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1013"
+}
+},
+{
+"context": [
+"OB_1036",
+"OB_1078",
+"OB_1029"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1029|OB_1036"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1002"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1012"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1031",
+"OB_1038"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1031|OB_1038"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1008",
+"OB_1021"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1026",
+"combo": "OB_1008|OB_1021"
+}
+},
+{
+"context": [
+"OB_1034",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1034"
+}
+},
+{
+"context": [
+"OB_1031",
+"OB_1039"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1042",
+"combo": "OB_1031|OB_1039"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1078",
+"OB_1001"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1057"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1004",
+"OB_1077"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1010",
+"OB_1008"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1008|OB_1010"
+}
+},
+{
+"context": [
+"OB_1065",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1065|OB_1071"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1079",
+"OB_1038",
+"OB_1027"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1027|OB_1038"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1001"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1055"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1077",
+"OB_1058",
+"OB_1078"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1058"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1081",
+"OB_1062",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1071"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1050",
+"OB_1079"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1019"
+}
+},
+{
+"context": [
+"OB_1071",
+"OB_1062"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1071"
+}
+},
+{
+"context": [
+"OB_1021",
+"OB_1006"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1068",
+"OB_1065"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1068"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1006",
+"OB_1021"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1006",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1065",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1065|OB_1071"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1058"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1058"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1009",
+"OB_1079"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1009"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1019"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1019"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1010",
+"OB_1077"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1010"
+}
+},
+{
+"context": [
+"OB_1008",
+"OB_1012",
+"OB_1081"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1008|OB_1012"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1012",
+"OB_1049"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1049",
+"OB_1012"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1012|OB_1049"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1005"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1060",
+"combo": "OB_1005|OB_1058"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1012"
+}
+},
+{
+"context": [
+"OB_1038",
+"OB_1028",
+"OB_1079"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1028|OB_1038"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1007"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1065",
+"OB_1068",
+"OB_1076"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1068"
+}
+},
+{
+"context": [
+"OB_1022",
+"OB_1002"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1002|OB_1022"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1004"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1001",
+"OB_1081",
+"OB_1057"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1057"
+}
+},
+{
+"context": [
+"OB_1014",
+"OB_1050"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1033",
+"OB_1030"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1033"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1050",
+"OB_1080"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1034",
+"OB_1028"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1028|OB_1034"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1030"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1040"
+}
+},
+{
+"context": [
+"OB_1066",
+"OB_1063"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1063|OB_1066"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1019"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1019"
+}
+},
+{
+"context": [
+"OB_1066",
+"OB_1062"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1066"
+}
+},
+{
+"context": [
+"OB_1071",
+"OB_1064"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1072"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1033",
+"OB_1030"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1033"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1011",
+"OB_1076",
+"OB_1005"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1011"
+}
+},
+{
+"context": [
+"OB_1020",
+"OB_1001"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1020"
+}
+},
+{
+"context": [
+"OB_1013",
+"OB_1001"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1013"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1078",
+"OB_1002"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1057"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1056"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1005|OB_1056"
+}
+},
+{
+"context": [
+"OB_1008",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1008|OB_1012"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1022",
+"OB_1077"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1002|OB_1022"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1019"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1014",
+"OB_1080",
+"OB_1049"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1049"
+}
+},
+{
+"context": [
+"OB_1047",
+"OB_1046"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1046",
+"OB_1077",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1013"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1013"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1047",
+"OB_1076"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1030",
+"OB_1079",
+"OB_1036"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1030|OB_1036"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1010",
+"OB_1007"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1010"
+}
+},
+{
+"context": [
+"OB_1014",
+"OB_1048"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1052",
+"combo": "OB_1014|OB_1048"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1007"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063",
+"OB_1078"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1021",
+"OB_1006"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1033",
+"OB_1030"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1033"
+}
+},
+{
+"context": [
+"OB_1022",
+"OB_1002",
+"OB_1077"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1002|OB_1022"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1020"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1020"
+}
+},
+{
+"context": [
+"OB_1067",
+"OB_1065"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1067"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1057",
+"OB_1079"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1056"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1005|OB_1056"
+}
+},
+{
+"context": [
+"OB_1028",
+"OB_1034"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1028|OB_1034"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1031",
+"OB_1037"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "seen",
+"expected": "OB_1041",
+"combo": "OB_1031|OB_1037"
+}
+},
+{
+"context": [
+"OB_1063",
+"OB_1076",
+"OB_1072"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1002",
+"OB_1077"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1058"
+}
+},
+{
+"context": [
+"OB_1008",
+"OB_1058"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1060",
+"combo": "OB_1008|OB_1058"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1064"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1022"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1002|OB_1022"
+}
+},
+{
+"context": [
+"OB_1046",
+"OB_1048",
+"OB_1080"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1048"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1080",
+"OB_1021",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1021"
+}
+},
+{
+"context": [
+"OB_1047",
+"OB_1046"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1064",
+"OB_1072"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1027",
+"OB_1034"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1034"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1001",
+"OB_1010"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "seen",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1010"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1049",
+"OB_1009"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1020",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1065",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1065|OB_1071"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1008",
+"OB_1080"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1008|OB_1012"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1022",
+"OB_1081"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1023",
+"combo": "OB_1007|OB_1022"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1062",
+"OB_1072",
+"OB_1081"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1069",
+"OB_1062"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1069"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1044",
+"OB_1050",
+"OB_1076"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1071"
+}
+},
+{
+"context": [
+"OB_1034",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1034"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1064",
+"OB_1072"
+],
+"outcome": "OB_1075",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1075",
+"combo": "OB_1064|OB_1072"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1080",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1067",
+"OB_1065"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "seen",
+"expected": "OB_1073",
+"combo": "OB_1065|OB_1067"
+}
+},
+{
+"context": [
+"OB_1028",
+"OB_1079",
+"OB_1040"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1028|OB_1040"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1076",
+"OB_1031",
+"OB_1078"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1031|OB_1040"
+}
+},
+{
+"context": [
+"OB_1050",
+"OB_1014"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1021"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1021"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1022"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1023",
+"combo": "OB_1007|OB_1022"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1019",
+"OB_1001"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1019"
+}
+},
+{
+"context": [
+"OB_1022",
+"OB_1080",
+"OB_1007",
+"OB_1077"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1023",
+"combo": "OB_1007|OB_1022"
+}
+},
+{
+"context": [
+"OB_1078",
+"OB_1007",
+"OB_1056"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1056"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1010",
+"OB_1007"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1010"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1009",
+"OB_1077",
+"OB_1049"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1021"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1021"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1004",
+"OB_1078"
+],
+"outcome": "OB_1017",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1017",
+"combo": "OB_1004|OB_1009"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1002",
+"OB_1058"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1058"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1062",
+"OB_1079"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1019"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1003",
+"OB_1021"
+],
+"outcome": "OB_1024",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1024",
+"combo": "OB_1003|OB_1021"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1020",
+"OB_1080"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1011",
+"OB_1081",
+"OB_1005"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1011"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1020"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1020"
+}
+},
+{
+"context": [
+"OB_1047",
+"OB_1044",
+"OB_1081"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1020",
+"OB_1007"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1020"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1007"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1015",
+"combo": "OB_1007|OB_1009"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1057"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1057"
+}
+},
+{
+"context": [
+"OB_1019",
+"OB_1005"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1019"
+}
+},
+{
+"context": [
+"OB_1063",
+"OB_1072"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1002"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1002|OB_1058"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1014",
+"OB_1050"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1004",
+"OB_1078"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "seen",
+"expected": "OB_1059",
+"combo": "OB_1004|OB_1055"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1007"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1012"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1057",
+"OB_1078"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1045",
+"OB_1050"
+],
+"outcome": "OB_1053",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1053",
+"combo": "OB_1045|OB_1050"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1044",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1005",
+"OB_1010"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1010"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1029"
+],
+"outcome": "OB_1042",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1042",
+"combo": "OB_1029|OB_1040"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1080",
+"OB_1044",
+"OB_1050"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1050"
+}
+},
+{
+"context": [
+"OB_1008",
+"OB_1012",
+"OB_1081"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1008|OB_1012"
+}
+},
+{
+"context": [
+"OB_1077",
+"OB_1029",
+"OB_1036"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1029|OB_1036"
+}
+},
+{
+"context": [
+"OB_1033",
+"OB_1078",
+"OB_1030",
+"OB_1081"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1030|OB_1033"
+}
+},
+{
+"context": [
+"OB_1038",
+"OB_1031",
+"OB_1078"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1031|OB_1038"
+}
+},
+{
+"context": [
+"OB_1008",
+"OB_1010"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1008|OB_1010"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1077",
+"OB_1019"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1026",
+"combo": "OB_1007|OB_1019"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1062"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1044",
+"OB_1047",
+"OB_1081"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1012"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1012"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1076",
+"OB_1019"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1019"
+}
+},
+{
+"context": [
+"OB_1004",
+"OB_1021"
+],
+"outcome": "OB_1025",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1025",
+"combo": "OB_1004|OB_1021"
+}
+},
+{
+"context": [
+"OB_1013",
+"OB_1001"
+],
+"outcome": "OB_1015",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1015",
+"combo": "OB_1001|OB_1013"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1080",
+"OB_1046",
+"OB_1047"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1046|OB_1047"
+}
+},
+{
+"context": [
+"OB_1021",
+"OB_1005"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1026",
+"combo": "OB_1005|OB_1021"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1004"
+],
+"outcome": "OB_1017",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1017",
+"combo": "OB_1004|OB_1009"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1049"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1002"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1012"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1077",
+"OB_1007"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1003",
+"OB_1080"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1064",
+"OB_1071"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1074",
+"combo": "OB_1064|OB_1071"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1040"
+}
+},
+{
+"context": [
+"OB_1055",
+"OB_1003"
+],
+"outcome": "OB_1061",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1061",
+"combo": "OB_1003|OB_1055"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1001"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1057"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1078",
+"OB_1072"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1062|OB_1072"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1078",
+"OB_1022"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "cold",
+"expected": "OB_1023",
+"combo": "OB_1007|OB_1022"
+}
+},
+{
+"context": [
+"OB_1045",
+"OB_1051",
+"OB_1079"
+],
+"outcome": "OB_1053",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "seen",
+"expected": "OB_1053",
+"combo": "OB_1045|OB_1051"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1069"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1069"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1001",
+"OB_1079",
+"OB_1080"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1057"
+}
+},
+{
+"context": [
+"OB_1009",
+"OB_1049"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1009|OB_1049"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1055"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1014"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "cold",
+"expected": "OB_1018",
+"combo": "OB_1007|OB_1014"
+}
+},
+{
+"context": [
+"OB_1058",
+"OB_1007",
+"OB_1079"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1058"
+}
+},
+{
+"context": [
+"OB_1036",
+"OB_1030"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1030|OB_1036"
+}
+},
+{
+"context": [
+"OB_1072",
+"OB_1063",
+"OB_1081"
+],
+"outcome": "OB_1074",
+"meta": {
+"family": "bbq->sausages",
+"kind": "cold",
+"expected": "OB_1074",
+"combo": "OB_1063|OB_1072"
+}
+},
+{
+"context": [
+"OB_1081",
+"OB_1027",
+"OB_1038"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1027|OB_1038"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1021"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "seen",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1021"
+}
+},
+{
+"context": [
+"OB_1034",
+"OB_1028"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1043",
+"combo": "OB_1028|OB_1034"
+}
+},
+{
+"context": [
+"OB_1047",
+"OB_1044",
+"OB_1076"
+],
+"outcome": "OB_1052",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1052",
+"combo": "OB_1044|OB_1047"
+}
+},
+{
+"context": [
+"OB_1057",
+"OB_1007"
+],
+"outcome": "OB_1060",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1060",
+"combo": "OB_1007|OB_1057"
+}
+},
+{
+"context": [
+"OB_1031",
+"OB_1040",
+"OB_1078"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1031|OB_1040"
+}
+},
+{
+"context": [
+"OB_1002",
+"OB_1081",
+"OB_1079",
+"OB_1013"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1002|OB_1013"
+}
+},
+{
+"context": [
+"OB_1010",
+"OB_1005"
+],
+"outcome": "OB_1016",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1016",
+"combo": "OB_1005|OB_1010"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1012"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1006|OB_1012"
+}
+},
+{
+"context": [
+"OB_1038",
+"OB_1031"
+],
+"outcome": "OB_1041",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "mixed",
+"expected": "OB_1041",
+"combo": "OB_1031|OB_1038"
+}
+},
+{
+"context": [
+"OB_1012",
+"OB_1008"
+],
+"outcome": "OB_1018",
+"meta": {
+"family": "bread+milk->butter",
+"kind": "mixed",
+"expected": "OB_1018",
+"combo": "OB_1008|OB_1012"
+}
+},
+{
+"context": [
+"OB_1001",
+"OB_1058"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "mixed",
+"expected": "OB_1059",
+"combo": "OB_1001|OB_1058"
+}
+},
+{
+"context": [
+"OB_1020",
+"OB_1079",
+"OB_1001"
+],
+"outcome": "OB_1023",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1023",
+"combo": "OB_1001|OB_1020"
+}
+},
+{
+"context": [
+"OB_1040",
+"OB_1077",
+"OB_1028"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1028|OB_1040"
+}
+},
+{
+"context": [
+"OB_1076",
+"OB_1014",
+"OB_1050"
+],
+"outcome": "OB_1054",
+"meta": {
+"family": "bun+filling->mayo",
+"kind": "mixed",
+"expected": "OB_1054",
+"combo": "OB_1014|OB_1050"
+}
+},
+{
+"context": [
+"OB_1007",
+"OB_1055"
+],
+"outcome": "OB_1059",
+"meta": {
+"family": "flour+milk->eggs",
+"kind": "cold",
+"expected": "OB_1059",
+"combo": "OB_1007|OB_1055"
+}
+},
+{
+"context": [
+"OB_1062",
+"OB_1069"
+],
+"outcome": "OB_1073",
+"meta": {
+"family": "bbq->sausages",
+"kind": "mixed",
+"expected": "OB_1073",
+"combo": "OB_1062|OB_1069"
+}
+},
+{
+"context": [
+"OB_1006",
+"OB_1021"
+],
+"outcome": "OB_1026",
+"meta": {
+"family": "cereal+milk->yogurt",
+"kind": "mixed",
+"expected": "OB_1026",
+"combo": "OB_1006|OB_1021"
+}
+},
+{
+"context": [
+"OB_1079",
+"OB_1040",
+"OB_1027"
+],
+"outcome": "OB_1043",
+"meta": {
+"family": "pasta+sauce->cheese",
+"kind": "cold",
+"expected": "OB_1043",
+"combo": "OB_1027|OB_1040"
+}
+}
+]

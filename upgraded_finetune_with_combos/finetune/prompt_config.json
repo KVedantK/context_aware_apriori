@@ -1,0 +1,12 @@
+{
+ "fields": [
+  "category",
+  "labels",
+  "shelf_life_days",
+  "storage",
+  "common_uses"
+ ],
+ "cart_context": true,
+ "summary_field": "labels",
+ "order": "shuffle"
+}
