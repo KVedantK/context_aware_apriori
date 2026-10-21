@@ -1,12 +1,13 @@
-"""Evaluate Apriori -> JEV Choice reranking without leaking test labels."""
+"""Compare Apriori, alpha-blended Apriori + JEV, and pure JEV Choice.
+
+JEV sees ONLY cart and Apriori candidate descriptions, never Apriori scores/ranks.
+"""
 import argparse
 import csv
-import hashlib
 import json
 import os
 import random
 import time
-from collections import defaultdict
 from pathlib import Path
 
 from apriori_core import load_json, mine, predict
@@ -14,204 +15,170 @@ from apriori_core import load_json, mine, predict
 HERE = Path(__file__).resolve().parent
 
 
-def product_text(item_id, catalog):
-    p = catalog.get(item_id, {})
-    if not p:
-        return item_id
-    return (f"{p.get('name', item_id)} [id={item_id}]; category={p.get('category', 'unknown')}; "
-            f"labels={', '.join(p.get('labels', []))}; uses={p.get('common_uses', '')}; "
-            f"storage={p.get('storage', 'unknown')}")
-
-
-def build_request(row, top, catalog, mode):
-    # Never include outcome, meta.expected, meta.family, or meta.combo in model state.
-    state = {
-        'task': 'Predict the most likely next/additional product for this basket.',
-        'basket': [product_text(i, catalog) for i in row['context']],
+def describe(item_id, catalog):
+    item = catalog.get(item_id, {})
+    return {
+        "id": item_id,
+        "name": item.get("name", item_id),
+        "category": item.get("category", "unknown"),
+        "labels": item.get("labels", []),
+        "common_uses": item.get("common_uses", ""),
+        "storage": item.get("storage", "unknown"),
     }
-    criteria = {}
-    for rank, (item_id, conf, support, antecedent) in enumerate(top, 1):
-        key = f'option_{rank}'
-        desc = {'product': product_text(item_id, catalog)}
-        if mode == 'apriori':
-            desc['association_rule'] = {
-                'confidence': round(float(conf), 6),
-                'support': round(float(support), 6),
-                'matched_antecedent': [product_text(i, catalog) for i in sorted(antecedent)],
-                'apriori_rank': rank,
-            }
-        criteria[key] = desc
-    return json.dumps(state, sort_keys=True), criteria
 
 
-def jev_choice(client, state, criteria, retries=3):
+def ask_jev(client, cart, candidate_ids, catalog, retries=3):
+    """Ask JEV to choose among candidates; no Apriori evidence is supplied."""
     from typesafe_sdk import Choice
+
+    options = list(candidate_ids)
+    random.Random(json.dumps([cart, sorted(candidate_ids)])).shuffle(options)
+    mapping = {f"option_{i}": item for i, item in enumerate(options, 1)}
+    state = json.dumps({"shopping_cart": [describe(i, catalog) for i in cart]}, ensure_ascii=False)
+    criteria = {key: json.dumps(describe(item, catalog), ensure_ascii=False)
+                for key, item in mapping.items()}
     question = Choice(
         instructions=(
-            'Which ONE candidate is the most likely actual next/additional product '
-            'given the basket? Select only from the listed options. '
-            'Use product compatibility and any supplied association-rule evidence. '
-            'Do not assume the first candidate is correct.'
+            "Choose the ONE candidate product that best fits this shopping cart as a "
+            "likely next/additional purchase. Use only the shopping cart and candidate "
+            "product information. Select exactly one listed option; do not infer "
+            "quality from option order."
         ),
         criteria=criteria,
     )
     for attempt in range(retries):
         try:
-            response = client.system_one(state=state, questions={'next_product': question})
-            answer = response.answers['next_product']
+            response = client.system_one(state=state, questions={"best_candidate": question})
+            answer = response.answers["best_candidate"]
+            selected = str(answer.choice)
             probabilities = {str(k): float(v) for k, v in answer.probabilities.items()}
-            choice = str(answer.choice)
-            if choice not in criteria or set(probabilities) != set(criteria):
-                raise ValueError('Unexpected JEV option identifiers')
-            return {'choice': choice, 'probabilities': probabilities,
-                    'confidence': float(answer.confidence)}
+            if selected not in mapping or set(probabilities) != set(mapping):
+                raise ValueError("JEV returned missing or unexpected Choice options")
+            return mapping[selected], {mapping[k]: v for k, v in probabilities.items()}, float(answer.confidence)
         except Exception:
             if attempt == retries - 1:
                 raise
-            time.sleep(min(2 ** attempt + random.random(), 8))
+            time.sleep(min(2 ** attempt, 8))
 
 
-def cache_key(mode, state, criteria):
-    payload = json.dumps({'mode': mode, 'state': state, 'criteria': criteria}, sort_keys=True)
-    return hashlib.sha256(payload.encode()).hexdigest()
-
-
-def hybrid_prediction(top, probabilities, alpha):
-    # Apriori confidence and JEV probabilities are both in [0,1], but not necessarily calibrated.
-    scores = []
-    for rank, (_, conf, _, _) in enumerate(top, 1):
-        scores.append(alpha * float(conf) + (1 - alpha) * probabilities[f'option_{rank}'])
-    return top[max(range(len(top)), key=lambda i: scores[i])][0]
-
-
-def evaluate(records, alpha, modes):
-    n = len(records)
-    def rate(num, denom=n):
-        return round(num / denom, 4) if denom else None
-    baseline1 = sum(r['apriori_hit1'] for r in records)
-    baseline3 = sum(r['apriori_hit3'] for r in records)
-    summary = {'n': n, 'apriori_hit1': rate(baseline1), 'apriori_hit3': rate(baseline3),
-               'coverage': rate(sum(bool(r['candidates']) for r in records))}
-    for mode in modes:
-        eligible = [r for r in records if r.get(f'{mode}_prediction') is not None]
-        # Only report all-set Hit@1 when every row has a prediction or is explicitly unanswerable.
-        # Rows with no candidates count as misses; failed API calls do not silently count as misses.
-        failures = [r for r in records if r['candidates'] and r.get(f'{mode}_prediction') is None]
-        summary[f'{mode}_api_failures'] = len(failures)
-        if failures:
-            summary[f'{mode}_hit1'] = None
-            summary[f'{mode}_hybrid_hit1'] = None
-            continue
-        summary[f'{mode}_hit1'] = rate(sum(r.get(f'{mode}_prediction') == r['expected'] for r in records))
-        summary[f'{mode}_hybrid_hit1'] = rate(sum(r.get(f'{mode}_hybrid_prediction') == r['expected'] for r in records))
-        summary[f'{mode}_rescue'] = sum(not r['apriori_hit1'] and r.get(f'{mode}_prediction') == r['expected'] for r in records)
-        summary[f'{mode}_damage'] = sum(r['apriori_hit1'] and r.get(f'{mode}_prediction') != r['expected'] for r in records)
-        summary[f'{mode}_conditional_accuracy'] = rate(
-            sum(r.get(f'{mode}_prediction') == r['expected'] for r in records if r['apriori_hit3']), baseline3)
-    groups = {}
-    for key in ('family', 'kind'):
-        for value in sorted({r.get(key, '') for r in records}):
-            subset = [r for r in records if r.get(key, '') == value]
-            groups[f'{key}:{value}'] = {'n': len(subset), 'apriori_hit1': rate(sum(r['apriori_hit1'] for r in subset), len(subset)),
-                                       'apriori_hit3': rate(sum(r['apriori_hit3'] for r in subset), len(subset))}
-            for mode in modes:
-                if not any(r['candidates'] and r.get(f'{mode}_prediction') is None for r in subset):
-                    groups[f'{key}:{value}'][f'{mode}_hit1'] = rate(sum(r.get(f'{mode}_prediction') == r['expected'] for r in subset), len(subset))
-    summary['groups'] = groups
-    summary['hybrid_alpha'] = alpha
-    return summary
+def normalized_apriori(top):
+    """Normalize Apriori rule confidence across the returned candidates to sum to 1."""
+    total = sum(max(0.0, float(conf)) for _, conf, _, _ in top)
+    if not top:
+        return {}
+    if total <= 0:
+        return {item: 1 / len(top) for item, _, _, _ in top}
+    return {item: max(0.0, float(conf)) / total for item, conf, _, _ in top}
 
 
 def main():
-    ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument('--train', default=str(HERE / 'ds1_train.json'))
-    ap.add_argument('--test', default=str(HERE / 'ds1_test.json'))
-    ap.add_argument('--ds2', default=str(HERE / 'ds2_descriptions.json'))
-    ap.add_argument('--min-support', type=float, default=0.004)
-    ap.add_argument('--min-conf', type=float, default=0.3)
-    ap.add_argument('--limit', type=int, default=0, help='First N test rows; 0=all')
-    ap.add_argument('--alpha', type=float, default=0.5, help='Apriori weight in hybrid')
-    ap.add_argument('--modes', choices=['semantic', 'apriori', 'both'], default='both')
-    ap.add_argument('--output-dir', default=str(HERE / 'results'))
-    ap.add_argument('--dry-run', action='store_true', help='Apriori baseline only, no paid API calls')
-    ap.add_argument('--max-calls', type=int, default=0, help='Cap new paid API calls; 0=unlimited')
-    args = ap.parse_args()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--train", default="ds1_train.json")
+    parser.add_argument("--test", default="ds1_test.json")
+    parser.add_argument("--ds2", default="ds2_descriptions.json")
+    parser.add_argument("--limit", type=int, default=0, help="0 = full test set")
+    parser.add_argument("--min-support", type=float, default=0.004)
+    parser.add_argument("--min-conf", type=float, default=0.3)
+    parser.add_argument("--alpha", type=float, default=0.5, help="Apriori blend weight in [0,1]")
+    parser.add_argument("--output", default="results/jev_rerank.csv")
+    parser.add_argument("--dry-run", action="store_true", help="Run Apriori without paid JEV calls")
+    args = parser.parse_args()
     if not 0 <= args.alpha <= 1:
-        ap.error('--alpha must be between 0 and 1')
+        parser.error("--alpha must be between 0 and 1")
+
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(HERE / ".env")
+    except ImportError:
+        if (HERE / ".env").exists():
+            raise SystemExit("Install python-dotenv: pip install python-dotenv")
+
     train, test = load_json(args.train), load_json(args.test)
+    catalog = {item["item_id"]: item for item in load_json(args.ds2)}
+    rules, itemset_count = mine(train, args.min_support, args.min_conf)
     if args.limit:
         test = test[:args.limit]
-    catalog = {p['item_id']: p for p in load_json(args.ds2)}
-    rules, n_freq = mine(train, args.min_support, args.min_conf)
-    out = Path(args.output_dir)
-    out.mkdir(parents=True, exist_ok=True)
-    cache_path = out / 'jev_cache.json'
-    cache = json.loads(cache_path.read_text()) if cache_path.exists() else {}
-    modes = ['semantic', 'apriori'] if args.modes == 'both' else [args.modes]
+    print(f"Train={len(train)} Test={len(test)} Itemsets={itemset_count} Rules={len(rules)} Alpha={args.alpha}")
+
     client = None
     if not args.dry_run:
-        if not os.getenv('TYPESAFE_API_KEY'):
-            raise SystemExit('Set TYPESAFE_API_KEY, or use --dry-run')
+        if not os.getenv("TYPESAFE_API_KEY"):
+            raise SystemExit("TYPESAFE_API_KEY missing. Place it in .env next to this script.")
         from typesafe_sdk import TypeSafeClient
         client = TypeSafeClient()
-    paid_calls = 0
+
     records = []
     try:
-        for idx, row in enumerate(test):
-            top = predict(rules, row['context'], k=3)
-            ids = [t[0] for t in top]
-            rec = {'index': idx, 'expected': row['outcome'], 'family': row.get('meta', {}).get('family', ''),
-                   'kind': row.get('meta', {}).get('kind', ''), 'context': row['context'],
-                   'candidates': ids, 'apriori_prediction': ids[0] if ids else None,
-                   'apriori_hit1': bool(ids) and ids[0] == row['outcome'],
-                   'apriori_hit3': row['outcome'] in ids}
-            if top and not args.dry_run:
-                for mode in modes:
-                    state, criteria = build_request(row, top, catalog, mode)
-                    key = cache_key(mode, state, criteria)
-                    answer = cache.get(key)
-                    if answer is None and (not args.max_calls or paid_calls < args.max_calls):
-                        try:
-                            answer = jev_choice(client, state, criteria)
-                            paid_calls += 1
-                            cache[key] = answer
-                            cache_path.write_text(json.dumps(cache, indent=2))
-                        except Exception as exc:
-                            rec[f'{mode}_error'] = str(exc)
-                            print(f'Warning: row {idx} {mode}: {exc}', flush=True)
-                    if answer is not None:
-                        selected_idx = int(answer['choice'].split('_')[1]) - 1
-                        rec[f'{mode}_prediction'] = ids[selected_idx]
-                        rec[f'{mode}_confidence'] = answer['confidence']
-                        rec[f'{mode}_probabilities'] = answer['probabilities']
-                        rec[f'{mode}_hybrid_prediction'] = hybrid_prediction(top, answer['probabilities'], args.alpha)
-            records.append(rec)
-            if (idx + 1) % 25 == 0:
-                print(f'Processed {idx+1}/{len(test)} | new paid calls={paid_calls}', flush=True)
+        for index, row in enumerate(test, 1):
+            top = predict(rules, row["context"], k=3)
+            candidates = [item for item, _, _, _ in top]
+            apriori = candidates[0] if candidates else None
+            expected = row["outcome"]  # Evaluation ONLY, never supplied to JEV.
+            a_scores = normalized_apriori(top)
+            jev, hybrid, probs, confidence, error = None, None, {}, None, ""
+            if candidates and not args.dry_run:
+                try:
+                    jev, probs, confidence = ask_jev(client, row["context"], candidates, catalog)
+                    hybrid_scores = {item: args.alpha * a_scores[item] + (1 - args.alpha) * probs[item]
+                                     for item in candidates}
+                    # Candidate order breaks exact ties consistently with Apriori ranking.
+                    hybrid = max(candidates, key=lambda item: hybrid_scores[item])
+                except Exception as exc:
+                    error = f"{type(exc).__name__}: {exc}"
+            records.append({
+                "index": index,
+                "cart": json.dumps(row["context"]),
+                "candidates": json.dumps(candidates),
+                "expected": expected,
+                "apriori_prediction": apriori or "",
+                "apriori_hit1": int(apriori == expected),
+                "apriori_hit3": int(expected in candidates),
+                "apriori_normalized_scores": json.dumps(a_scores),
+                "jev_prediction": jev or "",
+                "jev_hit1": int(jev == expected) if jev is not None else "",
+                "jev_probabilities": json.dumps(probs),
+                "jev_confidence": confidence if confidence is not None else "",
+                "hybrid_prediction": hybrid or "",
+                "hybrid_hit1": int(hybrid == expected) if hybrid is not None else "",
+                "error": error,
+            })
+            if index % 20 == 0 or index == len(test):
+                print(f"Processed {index}/{len(test)}")
     finally:
-        if client is not None and hasattr(client, 'close'):
+        if client is not None and hasattr(client, "close"):
             client.close()
-    (out / 'predictions.json').write_text(json.dumps(records, indent=2))
-    with (out / 'predictions.csv').open('w', newline='') as f:
-        fields = ['index', 'family', 'kind', 'expected', 'context', 'candidates', 'apriori_prediction', 'apriori_hit1', 'apriori_hit3']
-        for mode in modes:
-            fields += [f'{mode}_prediction', f'{mode}_hybrid_prediction', f'{mode}_confidence', f'{mode}_probabilities', f'{mode}_error']
-        writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore')
-        writer.writeheader()
-        for r in records:
-            writer.writerow({k: json.dumps(v) if isinstance(v, (list, dict)) else v for k, v in r.items()})
-    if args.dry_run:
-        summary = {'n': len(records), 'frequent_itemsets': n_freq, 'rules': len(rules),
-                   'apriori_hit1': sum(r['apriori_hit1'] for r in records) / len(records),
-                   'apriori_hit3': sum(r['apriori_hit3'] for r in records) / len(records),
-                   'coverage': sum(bool(r['candidates']) for r in records) / len(records)}
-    else:
-        summary = evaluate(records, args.alpha, modes)
-        summary.update({'new_paid_calls': paid_calls, 'frequent_itemsets': n_freq, 'rules': len(rules)})
-    (out / 'summary.json').write_text(json.dumps(summary, indent=2))
+
+    output = Path(args.output)
+    if not output.is_absolute():
+        output = HERE / output
+    output.parent.mkdir(parents=True, exist_ok=True)
+    if records:
+        with output.open("w", newline="", encoding="utf-8") as handle:
+            writer = csv.DictWriter(handle, fieldnames=list(records[0]))
+            writer.writeheader()
+            writer.writerows(records)
+    n = len(records)
+    evaluated = [r for r in records if r["jev_hit1"] != ""]
+    failures = sum(bool(r["error"]) for r in records)
+    summary = {
+        "n": n,
+        "alpha": args.alpha,
+        "apriori_hit1": sum(r["apriori_hit1"] for r in records) / n if n else None,
+        "apriori_hit3": sum(r["apriori_hit3"] for r in records) / n if n else None,
+        "jev_api_failures": failures,
+        "jev_evaluated": len(evaluated),
+        "jev_hit1": sum(r["jev_hit1"] for r in evaluated) / len(evaluated) if evaluated else None,
+        "hybrid_hit1": sum(r["hybrid_hit1"] for r in evaluated) / len(evaluated) if evaluated else None,
+        "jev_rescues": sum(r["apriori_hit1"] == 0 and r["jev_hit1"] == 1 for r in evaluated),
+        "jev_damages": sum(r["apriori_hit1"] == 1 and r["jev_hit1"] == 0 for r in evaluated),
+        "hybrid_rescues": sum(r["apriori_hit1"] == 0 and r["hybrid_hit1"] == 1 for r in evaluated),
+        "hybrid_damages": sum(r["apriori_hit1"] == 1 and r["hybrid_hit1"] == 0 for r in evaluated),
+    }
+    summary_path = output.with_suffix(".summary.json")
+    summary_path.write_text(json.dumps(summary, indent=2), encoding="utf-8")
     print(json.dumps(summary, indent=2))
-    print(f'Files saved to {out}')
+    print(f"Saved: {output}\nSaved: {summary_path}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

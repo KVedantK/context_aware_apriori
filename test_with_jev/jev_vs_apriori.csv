@@ -1,0 +1,101 @@
+cart,expected,candidates,apriori_top1,jev_choice,valid_choice,expected_in_candidates,apriori_correct,jev_correct
+"['OB_1001', 'OB_1014']",OB_1015,"['OB_1015', 'OB_1018', 'OB_1059']",OB_1015,OB_1018,True,True,True,False
+"['OB_1011', 'OB_1007']",OB_1015,['OB_1015'],OB_1015,OB_1015,True,True,True,True
+"['OB_1072', 'OB_1064']",OB_1075,"['OB_1073', 'OB_1075']",OB_1073,OB_1075,True,True,False,True
+"['OB_1071', 'OB_1064', 'OB_1080']",OB_1074,"['OB_1074', 'OB_1073', 'OB_1075']",OB_1074,OB_1075,True,True,True,False
+"['OB_1050', 'OB_1044']",OB_1052,"['OB_1052', 'OB_1054']",OB_1052,OB_1054,True,True,True,False
+"['OB_1072', 'OB_1062']",OB_1074,['OB_1073'],OB_1073,OB_1073,True,False,False,False
+"['OB_1047', 'OB_1044']",OB_1052,"['OB_1052', 'OB_1053']",OB_1052,OB_1053,True,True,True,False
+"['OB_1033', 'OB_1031', 'OB_1076']",OB_1043,"['OB_1043', 'OB_1041']",OB_1043,OB_1043,True,True,True,True
+"['OB_1049', 'OB_1076', 'OB_1012']",OB_1054,"['OB_1052', 'OB_1054', 'OB_1053']",OB_1052,OB_1054,True,True,False,True
+"['OB_1014', 'OB_1003']",OB_1016,"['OB_1016', 'OB_1018', 'OB_1024']",OB_1016,OB_1018,True,True,True,False
+"['OB_1021', 'OB_1007']",OB_1026,"['OB_1023', 'OB_1026']",OB_1023,OB_1026,True,True,False,True
+"['OB_1045', 'OB_1050']",OB_1053,"['OB_1053', 'OB_1054', 'OB_1052']",OB_1053,OB_1054,True,True,True,False
+"['OB_1009', 'OB_1049', 'OB_1078']",OB_1052,"['OB_1052', 'OB_1054', 'OB_1016', 'OB_1053']",OB_1052,OB_1054,True,True,True,False
+"['OB_1012', 'OB_1006']",OB_1018,['OB_1052'],OB_1052,OB_1052,True,False,False,False
+"['OB_1019', 'OB_1004', 'OB_1081']",OB_1025,"['OB_1026', 'OB_1025', 'OB_1024']",OB_1026,OB_1025,True,True,False,True
+"['OB_1076', 'OB_1063', 'OB_1069', 'OB_1079']",OB_1073,"['OB_1073', 'OB_1075', 'OB_1074']",OB_1073,OB_1075,True,True,True,False
+"['OB_1048', 'OB_1009']",OB_1052,"['OB_1052', 'OB_1016']",OB_1052,OB_1016,True,True,True,False
+"['OB_1003', 'OB_1055']",OB_1061,"['OB_1059', 'OB_1061', 'OB_1016', 'OB_1024']",OB_1059,OB_1024,True,True,False,False
+"['OB_1040', 'OB_1029', 'OB_1079']",OB_1042,['OB_1041'],OB_1041,OB_1041,True,False,False,False
+"['OB_1029', 'OB_1076', 'OB_1036']",OB_1041,['OB_1041'],OB_1041,OB_1041,True,True,True,True
+"['OB_1004', 'OB_1019', 'OB_1081']",OB_1025,"['OB_1026', 'OB_1025', 'OB_1024']",OB_1026,OB_1025,True,True,False,True
+"['OB_1077', 'OB_1004', 'OB_1009']",OB_1017,"['OB_1052', 'OB_1025', 'OB_1016']",OB_1052,OB_1025,True,False,False,False
+"['OB_1003', 'OB_1055']",OB_1061,"['OB_1059', 'OB_1061', 'OB_1016', 'OB_1024']",OB_1059,OB_1024,True,True,False,False
+"['OB_1007', 'OB_1081', 'OB_1022']",OB_1023,['OB_1023'],OB_1023,OB_1023,True,True,True,True
+"['OB_1007', 'OB_1076', 'OB_1020', 'OB_1081']",OB_1026,"['OB_1026', 'OB_1024']",OB_1026,OB_1026,True,True,True,True
+"['OB_1007', 'OB_1014', 'OB_1079']",OB_1018,['OB_1018'],OB_1018,OB_1018,True,True,True,True
+"['OB_1001', 'OB_1078', 'OB_1013']",OB_1015,"['OB_1018', 'OB_1015', 'OB_1059']",OB_1018,OB_1018,True,True,False,False
+"['OB_1007', 'OB_1019', 'OB_1078']",OB_1026,"['OB_1026', 'OB_1024']",OB_1026,OB_1026,True,True,True,True
+"['OB_1062', 'OB_1069']",OB_1073,"['OB_1073', 'OB_1075']",OB_1073,OB_1075,True,True,True,False
+"['OB_1072', 'OB_1064']",OB_1075,"['OB_1073', 'OB_1075']",OB_1073,OB_1075,True,True,False,True
+"['OB_1068', 'OB_1062']",OB_1073,['OB_1073'],OB_1073,OB_1073,True,True,True,True
+"['OB_1055', 'OB_1080', 'OB_1007']",OB_1059,"['OB_1059', 'OB_1061']",OB_1059,OB_1061,True,True,True,False
+"['OB_1078', 'OB_1076', 'OB_1002', 'OB_1057']",OB_1061,"['OB_1060', 'OB_1061', 'OB_1016']",OB_1060,OB_1060,True,True,False,False
+"['OB_1044', 'OB_1076', 'OB_1047']",OB_1052,"['OB_1052', 'OB_1053']",OB_1052,OB_1053,True,True,True,False
+"['OB_1013', 'OB_1081', 'OB_1001']",OB_1015,"['OB_1018', 'OB_1059', 'OB_1015']",OB_1018,OB_1018,True,True,False,False
+"['OB_1003', 'OB_1055']",OB_1061,"['OB_1059', 'OB_1061', 'OB_1016', 'OB_1024']",OB_1059,OB_1024,True,True,False,False
+"['OB_1030', 'OB_1078', 'OB_1036']",OB_1041,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,True,False
+"['OB_1001', 'OB_1080', 'OB_1020']",OB_1023,"['OB_1015', 'OB_1026', 'OB_1059', 'OB_1024']",OB_1015,OB_1026,True,False,False,False
+"['OB_1037', 'OB_1076', 'OB_1027']",OB_1041,['OB_1041'],OB_1041,OB_1041,True,True,True,True
+"['OB_1007', 'OB_1056', 'OB_1080']",OB_1059,['OB_1059'],OB_1059,OB_1059,True,True,True,True
+"['OB_1027', 'OB_1038', 'OB_1080', 'OB_1081']",OB_1041,['OB_1041'],OB_1041,OB_1041,True,True,True,True
+"['OB_1013', 'OB_1007']",OB_1018,['OB_1018'],OB_1018,OB_1018,True,True,True,True
+"['OB_1033', 'OB_1030']",OB_1043,"['OB_1043', 'OB_1041']",OB_1043,OB_1043,True,True,True,True
+"['OB_1058', 'OB_1005']",OB_1060,"['OB_1060', 'OB_1018']",OB_1060,OB_1018,True,True,True,False
+"['OB_1050', 'OB_1044']",OB_1052,"['OB_1052', 'OB_1054']",OB_1052,OB_1054,True,True,True,False
+"['OB_1049', 'OB_1012']",OB_1054,"['OB_1052', 'OB_1054', 'OB_1053']",OB_1052,OB_1054,True,True,False,True
+"['OB_1063', 'OB_1072', 'OB_1078']",OB_1074,"['OB_1073', 'OB_1074']",OB_1073,OB_1074,True,True,False,True
+"['OB_1068', 'OB_1065']",OB_1073,['OB_1073'],OB_1073,OB_1073,True,True,True,True
+"['OB_1005', 'OB_1010']",OB_1016,"['OB_1015', 'OB_1018']",OB_1015,OB_1018,True,False,False,False
+"['OB_1002', 'OB_1012']",OB_1016,"['OB_1052', 'OB_1061', 'OB_1016']",OB_1052,OB_1016,True,True,False,True
+"['OB_1035', 'OB_1081', 'OB_1030', 'OB_1080']",OB_1041,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,True,False
+"['OB_1081', 'OB_1040', 'OB_1030']",OB_1043,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,False,True
+"['OB_1011', 'OB_1005']",OB_1016,"['OB_1015', 'OB_1018']",OB_1015,OB_1018,True,False,False,False
+"['OB_1050', 'OB_1044']",OB_1052,"['OB_1052', 'OB_1054']",OB_1052,OB_1054,True,True,True,False
+"['OB_1029', 'OB_1036']",OB_1041,['OB_1041'],OB_1041,OB_1041,True,True,True,True
+"['OB_1002', 'OB_1013']",OB_1016,"['OB_1018', 'OB_1061', 'OB_1016']",OB_1018,OB_1018,True,True,False,False
+"['OB_1013', 'OB_1007']",OB_1018,['OB_1018'],OB_1018,OB_1018,True,True,True,True
+"['OB_1022', 'OB_1078', 'OB_1081', 'OB_1003']",OB_1024,"['OB_1024', 'OB_1023', 'OB_1016']",OB_1024,OB_1024,True,True,True,True
+"['OB_1007', 'OB_1019']",OB_1026,"['OB_1026', 'OB_1024']",OB_1026,OB_1026,True,True,True,True
+"['OB_1030', 'OB_1040']",OB_1043,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,False,True
+"['OB_1040', 'OB_1030', 'OB_1079']",OB_1043,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,False,True
+"['OB_1064', 'OB_1072']",OB_1075,"['OB_1073', 'OB_1075']",OB_1073,OB_1075,True,True,False,True
+"['OB_1030', 'OB_1035']",OB_1041,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,True,False
+"['OB_1055', 'OB_1007']",OB_1059,"['OB_1059', 'OB_1061']",OB_1059,OB_1061,True,True,True,False
+"['OB_1044', 'OB_1050']",OB_1052,"['OB_1052', 'OB_1054']",OB_1052,OB_1054,True,True,True,False
+"['OB_1065', 'OB_1078', 'OB_1068']",OB_1073,['OB_1073'],OB_1073,OB_1073,True,True,True,True
+"['OB_1072', 'OB_1081', 'OB_1064']",OB_1075,"['OB_1073', 'OB_1075']",OB_1073,OB_1075,True,True,False,True
+"['OB_1007', 'OB_1057']",OB_1060,['OB_1060'],OB_1060,OB_1060,True,True,True,True
+"['OB_1065', 'OB_1071']",OB_1074,"['OB_1073', 'OB_1074']",OB_1073,OB_1074,True,True,False,True
+"['OB_1021', 'OB_1007']",OB_1026,"['OB_1023', 'OB_1026']",OB_1023,OB_1026,True,True,False,True
+"['OB_1019', 'OB_1005']",OB_1026,"['OB_1026', 'OB_1024', 'OB_1018']",OB_1026,OB_1026,True,True,True,True
+"['OB_1020', 'OB_1007']",OB_1026,"['OB_1026', 'OB_1024']",OB_1026,OB_1026,True,True,True,True
+"['OB_1004', 'OB_1055', 'OB_1076']",OB_1059,"['OB_1059', 'OB_1025', 'OB_1061']",OB_1059,OB_1025,True,True,True,False
+"['OB_1007', 'OB_1020']",OB_1026,"['OB_1026', 'OB_1024']",OB_1026,OB_1026,True,True,True,True
+"['OB_1081', 'OB_1010', 'OB_1005']",OB_1016,"['OB_1015', 'OB_1018']",OB_1015,OB_1018,True,False,False,False
+"['OB_1020', 'OB_1007', 'OB_1076', 'OB_1080']",OB_1026,"['OB_1026', 'OB_1024']",OB_1026,OB_1026,True,True,True,True
+"['OB_1055', 'OB_1007']",OB_1059,"['OB_1059', 'OB_1061']",OB_1059,OB_1061,True,True,True,False
+"['OB_1044', 'OB_1050']",OB_1052,"['OB_1052', 'OB_1054']",OB_1052,OB_1054,True,True,True,False
+"['OB_1035', 'OB_1028']",OB_1041,['OB_1041'],OB_1041,OB_1041,True,True,True,True
+"['OB_1081', 'OB_1002', 'OB_1022']",OB_1024,"['OB_1023', 'OB_1061', 'OB_1016']",OB_1023,OB_1016,True,False,False,False
+"['OB_1031', 'OB_1038', 'OB_1076']",OB_1041,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,True,False
+"['OB_1040', 'OB_1078', 'OB_1031']",OB_1043,"['OB_1041', 'OB_1043']",OB_1041,OB_1043,True,True,False,True
+"['OB_1039', 'OB_1028']",OB_1042,"['OB_1042', 'OB_1041']",OB_1042,OB_1042,True,True,True,True
+"['OB_1007', 'OB_1058']",OB_1060,['OB_1060'],OB_1060,OB_1060,True,True,True,True
+"['OB_1058', 'OB_1002']",OB_1061,"['OB_1060', 'OB_1061', 'OB_1016']",OB_1060,OB_1060,True,True,False,False
+"['OB_1056', 'OB_1005']",OB_1061,"['OB_1059', 'OB_1018']",OB_1059,OB_1018,True,False,False,False
+"['OB_1049', 'OB_1009']",OB_1052,"['OB_1052', 'OB_1054', 'OB_1016', 'OB_1053']",OB_1052,OB_1054,True,True,True,False
+"['OB_1044', 'OB_1080', 'OB_1050']",OB_1052,"['OB_1052', 'OB_1054']",OB_1052,OB_1054,True,True,True,False
+"['OB_1004', 'OB_1019']",OB_1025,"['OB_1026', 'OB_1025', 'OB_1024']",OB_1026,OB_1025,True,True,False,True
+"['OB_1007', 'OB_1077', 'OB_1056']",OB_1059,['OB_1059'],OB_1059,OB_1059,True,True,True,True
+"['OB_1057', 'OB_1001']",OB_1059,"['OB_1060', 'OB_1015', 'OB_1059']",OB_1060,OB_1060,True,True,False,False
+"['OB_1055', 'OB_1007', 'OB_1076']",OB_1059,"['OB_1059', 'OB_1061']",OB_1059,OB_1061,True,True,True,False
+"['OB_1028', 'OB_1079', 'OB_1038']",OB_1041,['OB_1041'],OB_1041,OB_1041,True,True,True,True
+"['OB_1027', 'OB_1040']",OB_1043,['OB_1041'],OB_1041,OB_1041,True,False,False,False
+"['OB_1050', 'OB_1014']",OB_1054,"['OB_1054', 'OB_1052', 'OB_1018']",OB_1054,OB_1054,True,True,True,True
+"['OB_1081', 'OB_1072', 'OB_1065']",OB_1074,['OB_1073'],OB_1073,OB_1073,True,False,False,False
+"['OB_1003', 'OB_1058']",OB_1061,"['OB_1061', 'OB_1060', 'OB_1016', 'OB_1024']",OB_1061,OB_1024,True,True,True,False
+"['OB_1007', 'OB_1022']",OB_1023,['OB_1023'],OB_1023,OB_1023,True,True,True,True
+"['OB_1064', 'OB_1071']",OB_1074,"['OB_1074', 'OB_1073', 'OB_1075']",OB_1074,OB_1075,True,True,True,False
+"['OB_1072', 'OB_1081', 'OB_1063']",OB_1074,"['OB_1073', 'OB_1074']",OB_1073,OB_1074,True,True,False,True

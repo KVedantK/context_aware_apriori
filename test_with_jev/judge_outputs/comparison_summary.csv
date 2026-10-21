@@ -1,0 +1,3 @@
+model,evaluated,average_relevance,average_dietary,average_usefulness,average_total,high_quality_rate,dietary_conflict_rate
+JEV,400,2.25,1.87,1.8575,5.9775,0.8725,0.0275
+Apriori,400,2.02,1.6125,1.5475,5.18,0.6625,0.155

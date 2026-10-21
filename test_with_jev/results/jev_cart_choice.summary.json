@@ -1,0 +1,9 @@
+{
+  "n": 400,
+  "apriori_hit1": 0.545,
+  "apriori_hit3": 0.83,
+  "jev_api_failures": 0,
+  "jev_hit1": 0.5825,
+  "jev_rescues": 91,
+  "jev_damages": 76
+}

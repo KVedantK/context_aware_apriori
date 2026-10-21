@@ -1,0 +1,401 @@
+cart,outcome
+"Whole Milk, Rye Bread",Salted Butter
+"Bran Loaf, Almond Milk",Salted Butter
+"Vegan Burger Patties, Vegan Hot Dog Buns",Pork Sausages
+"Meat-Free Burger Patties, Vegan Hot Dog Buns, Bin Bags",Veggie Sausages
+"Vegan Ham Slices, Brioche Bun",Mayonnaise
+"Vegan Burger Patties, Hot Dog Buns",Pork Sausages
+"Ham Slices, Brioche Bun",Mayonnaise
+"Vegan Pesto, Gluten-Free Penne, Bananas",Vegan Parmesan
+"Vegan Cheese Slices, Bananas, Sourdough",Mayonnaise
+"Rye Bread, Skimmed Milk",Fat-Free Butter
+"Gluten-Free Muesli, Almond Milk",Greek Yogurt
+"Eggless Bun, Vegan Ham Slices",Eggless Mayo
+"White Bread, Vegan Cheese Slices, Kitchen Roll",Mayonnaise
+"Sourdough, Soy Milk",Mayonnaise
+"Corn Flakes, Lactose-Free Milk, Basmati Rice",Coconut Yogurt
+"Bananas, Brioche Hot Dog Buns, Vegan Garlic Sauce, Dishwasher Tablets",Pork Sausages
+"Cheddar Slices, White Bread",Mayonnaise
+"Skimmed Milk, Plain Flour",Free Range Eggs
+"Vegan Bolognese Sauce, Egg Tagliatelle, Dishwasher Tablets",Parmesan
+"Egg Tagliatelle, Bananas, Basil Pesto with Parmesan",Parmesan
+"Lactose-Free Milk, Corn Flakes, Basmati Rice",Coconut Yogurt
+"Apples, Lactose-Free Milk, White Bread",Mayonnaise
+"Skimmed Milk, Plain Flour",Free Range Eggs
+"Almond Milk, Basmati Rice, Honey Granola",Greek Yogurt
+"Almond Milk, Bananas, Muesli, Basmati Rice",Coconut Yogurt
+"Almond Milk, Rye Bread, Dishwasher Tablets",Vegan Butter
+"Whole Milk, Kitchen Roll, Gluten-Free Bread",Vegan Butter
+"Almond Milk, Corn Flakes, Kitchen Roll",Coconut Yogurt
+"Hot Dog Buns, Vegan Garlic Sauce",Pork Sausages
+"Vegan Burger Patties, Vegan Hot Dog Buns",Pork Sausages
+"Honey Mustard, Hot Dog Buns",Pork Sausages
+"Plain Flour, Bin Bags, Almond Milk",Free Range Eggs
+"Kitchen Roll, Bananas, Semi-Skimmed Milk, Gluten-Free Flour",Egg Replacer
+"Brioche Bun, Bananas, Ham Slices",Mayonnaise
+"Gluten-Free Bread, Basmati Rice, Whole Milk",Vegan Butter
+"Skimmed Milk, Plain Flour",Free Range Eggs
+"Wholewheat Fusilli, Kitchen Roll, Basil Pesto with Parmesan",Parmesan
+"Whole Milk, Bin Bags, Muesli",Salted Butter
+"Creamy Carbonara Sauce, Bananas, Spaghetti",Parmesan
+"Almond Milk, Self-Raising Flour, Bin Bags",Free Range Eggs
+"Spaghetti, Beef Bolognese Sauce, Bin Bags, Basmati Rice",Parmesan
+"Gluten-Free Bread, Almond Milk",Vegan Butter
+"Vegan Pesto, Wholewheat Fusilli",Vegan Parmesan
+"Wholemeal Flour, Oat Milk",Egg Replacer
+"Vegan Ham Slices, Brioche Bun",Mayonnaise
+"Vegan Cheese Slices, Sourdough",Mayonnaise
+"Brioche Hot Dog Buns, Vegan Burger Patties, Kitchen Roll",Pork Sausages
+"Honey Mustard, Gluten-Free Hot Dog Buns",Pork Sausages
+"Oat Milk, Wholemeal Bread",Salted Butter
+"Semi-Skimmed Milk, Sourdough",Mayonnaise
+"Tomato & Mascarpone Sauce, Basmati Rice, Wholewheat Fusilli, Bin Bags",Parmesan
+"Basmati Rice, Vegan Bolognese Sauce, Wholewheat Fusilli",Parmesan
+"Bran Loaf, Oat Milk",Salted Butter
+"Vegan Ham Slices, Brioche Bun",Mayonnaise
+"Egg Tagliatelle, Basil Pesto with Parmesan",Parmesan
+"Semi-Skimmed Milk, Gluten-Free Bread",Vegan Butter
+"Gluten-Free Bread, Almond Milk",Vegan Butter
+"Honey Granola, Kitchen Roll, Basmati Rice, Skimmed Milk",Low Fat Yogurt
+"Almond Milk, Corn Flakes",Coconut Yogurt
+"Wholewheat Fusilli, Vegan Bolognese Sauce",Parmesan
+"Vegan Bolognese Sauce, Wholewheat Fusilli, Dishwasher Tablets",Parmesan
+"Vegan Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Wholewheat Fusilli, Tomato & Mascarpone Sauce",Parmesan
+"Plain Flour, Almond Milk",Free Range Eggs
+"Brioche Bun, Vegan Ham Slices",Mayonnaise
+"Gluten-Free Hot Dog Buns, Kitchen Roll, Honey Mustard",Pork Sausages
+"Vegan Burger Patties, Basmati Rice, Vegan Hot Dog Buns",Pork Sausages
+"Almond Milk, Gluten-Free Flour",Egg Replacer
+"Gluten-Free Hot Dog Buns, Meat-Free Burger Patties",Pork Sausages
+"Gluten-Free Muesli, Almond Milk",Greek Yogurt
+"Corn Flakes, Oat Milk",Coconut Yogurt
+"Muesli, Almond Milk",Coconut Yogurt
+"Lactose-Free Milk, Plain Flour, Bananas",Free Range Eggs
+"Almond Milk, Muesli",Coconut Yogurt
+"Basmati Rice, Wholemeal Bread, Oat Milk",Salted Butter
+"Muesli, Almond Milk, Bananas, Bin Bags",Coconut Yogurt
+"Plain Flour, Almond Milk",Free Range Eggs
+"Brioche Bun, Vegan Ham Slices",Mayonnaise
+"Tomato & Mascarpone Sauce, Penne",Parmesan
+"Basmati Rice, Semi-Skimmed Milk, Honey Granola",Greek Yogurt
+"Gluten-Free Penne, Beef Bolognese Sauce, Bananas",Parmesan
+"Vegan Bolognese Sauce, Kitchen Roll, Gluten-Free Penne",Parmesan
+"Meat-Free Bolognese Sauce, Penne",Vegetarian Hard Cheese
+"Almond Milk, Wholemeal Flour",Egg Replacer
+"Wholemeal Flour, Semi-Skimmed Milk",Egg Replacer
+"Self-Raising Flour, Oat Milk",Free Range Eggs
+"Vegan Cheese Slices, White Bread",Mayonnaise
+"Brioche Bun, Bin Bags, Vegan Ham Slices",Mayonnaise
+"Lactose-Free Milk, Corn Flakes",Coconut Yogurt
+"Almond Milk, Apples, Self-Raising Flour",Free Range Eggs
+"Gluten-Free Flour, Whole Milk",Egg Replacer
+"Plain Flour, Almond Milk, Bananas",Free Range Eggs
+"Penne, Dishwasher Tablets, Beef Bolognese Sauce",Parmesan
+"Spaghetti, Vegan Bolognese Sauce",Parmesan
+"Vegan Ham Slices, Rye Bread",Vegan Mayo
+"Basmati Rice, Vegan Burger Patties, Gluten-Free Hot Dog Buns",Pork Sausages
+"Skimmed Milk, Wholemeal Flour",Egg Whites Carton
+"Almond Milk, Honey Granola",Greek Yogurt
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Vegan Burger Patties, Basmati Rice, Brioche Hot Dog Buns",Pork Sausages
+"Brioche Bun, Basmati Rice, Vegan Ham Slices, Dishwasher Tablets",Mayonnaise
+"Wholewheat Fusilli, Basil Pesto with Parmesan, Apples",Parmesan
+"Meat-Free Burger Patties, Dishwasher Tablets, Hot Dog Buns",Pork Sausages
+"Bananas, Coconut Milk, Sourdough",Mayonnaise
+"Ketchup, Vegan Hot Dog Buns",Pork Sausages
+"Basmati Rice, Bran Loaf, Oat Milk",Salted Butter
+"Corn Flakes, Almond Milk",Coconut Yogurt
+"Sourdough, Vegan Cheese Slices",Mayonnaise
+"Vegan Bolognese Sauce, Spaghetti",Parmesan
+"Soy Milk, Gluten-Free Muesli, Bin Bags",Greek Yogurt
+"Arrabbiata Sauce, Spaghetti",Vegan Parmesan
+"Gluten-Free Muesli, Soy Milk, Basmati Rice",Greek Yogurt
+"Basmati Rice, Ham Slices, Vegan Wrap, Apples",Vegan Mayo
+"Gluten-Free Penne, Meat-Free Bolognese Sauce, Dishwasher Tablets",Vegetarian Hard Cheese
+"Vegan Wrap, Ham Slices",Mayonnaise
+"Brioche Bun, Ham Slices",Mayonnaise
+"Gluten-Free Flour, Almond Milk",Egg Replacer
+"Brioche Bun, Vegan Ham Slices",Mayonnaise
+"Oat Milk, Corn Flakes",Coconut Yogurt
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Apples, Brioche Bun, Ham Slices",Mayonnaise
+"Kitchen Roll, Corn Flakes, Almond Milk",Coconut Yogurt
+"Vegan Wrap, Ham Slices",Mayonnaise
+"Rye Bread, Vegan Ham Slices",Vegan Mayo
+"Lactose-Free Milk, Dishwasher Tablets, Wholemeal Flour",Egg Replacer
+"Almond Milk, Self-Raising Flour",Free Range Eggs
+"Whole Milk, Gluten-Free Flour",Egg Replacer
+"Vegan Burger Patties, Brioche Hot Dog Buns",Pork Sausages
+"Basil Pesto with Parmesan, Egg Tagliatelle, Kitchen Roll",Parmesan
+"Hot Dog Buns, Vegan Burger Patties, Kitchen Roll",Pork Sausages
+"Gluten-Free Hot Dog Buns, Honey Mustard",Pork Sausages
+"Bin Bags, Basmati Rice, Cheddar Slices, Eggless Bun",Eggless Mayo
+"Whole Milk, Apples, Sourdough",Salted Butter
+"Basmati Rice, Penne, Apples, Beef Bolognese Sauce",Parmesan
+"Basmati Rice, Gluten-Free Penne, Meat-Free Bolognese Sauce",Vegetarian Hard Cheese
+"White Bread, Vegan Cheese Slices, Dishwasher Tablets, Apples",Mayonnaise
+"Plain Flour, Skimmed Milk",Free Range Eggs
+"Corn Flakes, Whole Milk",Coconut Yogurt
+"White Bread, Cheddar Slices",Mayonnaise
+"Gluten-Free Flour, Apples, Semi-Skimmed Milk",Egg Replacer
+"Vegan Hot Dog Buns, Vegan Burger Patties, Apples",Pork Sausages
+"Skimmed Milk, Gluten-Free Muesli",Fat-Free Butter
+"Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Vegan Burger Patties, Vegan Hot Dog Buns",Pork Sausages
+"Gluten-Free Penne, Dishwasher Tablets, Tomato & Mascarpone Sauce",Parmesan
+"Lactose-Free Milk, White Bread",Mayonnaise
+"Semi-Skimmed Milk, Gluten-Free Bread, Dishwasher Tablets",Vegan Butter
+"Cheddar Slices, White Bread",Mayonnaise
+"Hot Dog Buns, Vegan Garlic Sauce, Basmati Rice",Pork Sausages
+"Bananas, Cheddar Slices, White Bread",Mayonnaise
+"Cheddar Slices, White Bread",Mayonnaise
+"Honey Granola, Oat Milk",Low Fat Yogurt
+"Bin Bags, Spaghetti, Beef Bolognese Sauce",Parmesan
+"Gluten-Free Flour, Semi-Skimmed Milk",Egg Replacer
+"Penne, Arrabbiata Sauce",Parmesan
+"Sourdough, Soy Milk",Mayonnaise
+"Almond Milk, Bran Loaf",Salted Butter
+"Gluten-Free Flour, Kitchen Roll, Almond Milk, Apples",Egg Replacer
+"Vegan Ham Slices, Brioche Bun",Mayonnaise
+"Sourdough, Bin Bags, Almond Milk",Mayonnaise
+"Corn Flakes, Apples, Oat Milk",Coconut Yogurt
+"Dishwasher Tablets, Beef Bolognese Sauce, Bin Bags, Spaghetti",Parmesan
+"Arrabbiata Sauce, Spaghetti",Vegan Parmesan
+"Penne, Beef Bolognese Sauce",Parmesan
+"Rye Bread, Vegan Ham Slices",Vegan Mayo
+"Plain Flour, Almond Milk",Free Range Eggs
+"Meat-Free Burger Patties, Hot Dog Buns",Pork Sausages
+"Sourdough, Soy Milk",Mayonnaise
+"Arrabbiata Sauce, Spaghetti",Vegan Parmesan
+"Sourdough, Soy Milk",Mayonnaise
+"Brioche Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Bananas, Sourdough, Vegan Cheese Slices, Bin Bags",Mayonnaise
+"Rye Bread, Soy Milk",Vegan Butter
+"Wholemeal Flour, Soy Milk, Dishwasher Tablets, Bananas",Egg Replacer
+"Semi-Skimmed Milk, Kitchen Roll, Wholemeal Flour",Egg Replacer
+"Vegan Burger Patties, Brioche Hot Dog Buns",Pork Sausages
+"Wholewheat Fusilli, Vegan Pesto",Vegan Parmesan
+"Corn Flakes, Lactose-Free Milk",Coconut Yogurt
+"Oat Milk, Self-Raising Flour",Free Range Eggs
+"Bin Bags, Dishwasher Tablets, White Bread, Almond Milk",Mayonnaise
+"Cheddar Slices, White Bread",Mayonnaise
+"Brioche Bun, Ham Slices",Mayonnaise
+"Self-Raising Flour, Almond Milk",Free Range Eggs
+"Cheddar Slices, White Bread",Mayonnaise
+"Gluten-Free Bread, Bin Bags, Semi-Skimmed Milk",Vegan Butter
+"Apples, Whole Milk, Sourdough",Salted Butter
+"Vegan Ham Slices, Rye Bread, Bananas",Vegan Mayo
+"Beef Bolognese Sauce, Penne, Dishwasher Tablets",Parmesan
+"Soy Milk, Dishwasher Tablets, Gluten-Free Muesli",Greek Yogurt
+"Whole Milk, Corn Flakes",Coconut Yogurt
+"Vegan Cheese Slices, Sourdough, Apples",Mayonnaise
+"Beef Bolognese Sauce, Penne, Bin Bags",Parmesan
+"Plain Flour, Skimmed Milk",Free Range Eggs
+"Skimmed Milk, Bran Loaf, Dishwasher Tablets",Salted Butter
+"Wholemeal Flour, Almond Milk",Egg Replacer
+"Vegan Bolognese Sauce, Egg Tagliatelle, Dishwasher Tablets",Parmesan
+"Sourdough, Almond Milk",Mayonnaise
+"Semi-Skimmed Milk, Wholemeal Bread",Fat-Free Butter
+"Basmati Rice, Bin Bags, Gluten-Free Bread, Almond Milk",Vegan Butter
+"Basil Pesto with Parmesan, Kitchen Roll, Egg Tagliatelle",Parmesan
+"Sourdough, Semi-Skimmed Milk",Mayonnaise
+"Vegan Burger Patties, Brioche Hot Dog Buns",Pork Sausages
+"Gluten-Free Penne, Beef Bolognese Sauce",Parmesan
+"Plain Flour, Almond Milk",Free Range Eggs
+"Coconut Milk, Gluten-Free Muesli",Greek Yogurt
+"Arrabbiata Sauce, Spaghetti",Vegan Parmesan
+"Gluten-Free Penne, Meat-Free Bolognese Sauce",Vegetarian Hard Cheese
+"Gluten-Free Flour, Kitchen Roll, Whole Milk",Egg Replacer
+"Corn Flakes, Lactose-Free Milk, Apples",Coconut Yogurt
+"Wholemeal Bread, Coconut Milk",Salted Butter
+"Gluten-Free Hot Dog Buns, Meat-Free Burger Patties",Pork Sausages
+"Bin Bags, Dishwasher Tablets, Beef Bolognese Sauce, Spaghetti",Parmesan
+"Plain Flour, Whole Milk",Free Range Eggs
+"Semi-Skimmed Milk, Apples, Wholemeal Flour, Kitchen Roll",Egg Replacer
+"Bin Bags, Basmati Rice, Hot Dog Buns, Meat-Free Burger Patties",Pork Sausages
+"Brioche Bun, Vegan Ham Slices, Dishwasher Tablets",Mayonnaise
+"Corn Flakes, Almond Milk",Coconut Yogurt
+"Meat-Free Burger Patties, Hot Dog Buns",Pork Sausages
+"Gluten-Free Muesli, Soy Milk",Greek Yogurt
+"Honey Mustard, Gluten-Free Hot Dog Buns",Pork Sausages
+"Basmati Rice, Soy Milk, Gluten-Free Muesli",Greek Yogurt
+"Brioche Bun, Vegan Ham Slices",Mayonnaise
+"Bin Bags, Soy Milk, Sourdough",Mayonnaise
+"Plain Flour, Almond Milk",Free Range Eggs
+"Gluten-Free Hot Dog Buns, Meat-Free Burger Patties",Pork Sausages
+"Vegan Burger Patties, Brioche Hot Dog Buns",Pork Sausages
+"Whole Milk, Wholemeal Flour",Egg Replacer
+"Oat Milk, White Bread, Dishwasher Tablets",Fat-Free Butter
+"Oat Milk, Corn Flakes",Coconut Yogurt
+"Almond Milk, Wholemeal Bread, Apples",Salted Butter
+"Coconut Milk, Sourdough, Basmati Rice",Mayonnaise
+"Dishwasher Tablets, Sourdough, Vegan Cheese Slices",Mayonnaise
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Bin Bags, Vegan Cheese Slices, Sourdough",Mayonnaise
+"Wholemeal Flour, Oat Milk",Egg Replacer
+"Sourdough, Almond Milk",Mayonnaise
+"Beef Bolognese Sauce, Penne, Dishwasher Tablets",Parmesan
+"Gluten-Free Flour, Almond Milk",Egg Replacer
+"Dishwasher Tablets, Gluten-Free Hot Dog Buns, Honey Mustard, Bananas",Pork Sausages
+"Honey Granola, Semi-Skimmed Milk",Greek Yogurt
+"Corn Flakes, Lactose-Free Milk",Coconut Yogurt
+"Kitchen Roll, Whole Milk, Basmati Rice, Gluten-Free Flour",Egg Replacer
+"Rye Bread, Vegan Ham Slices",Vegan Mayo
+"Vegan Pesto, Wholewheat Fusilli",Vegan Parmesan
+"Brioche Bun, Vegan Ham Slices, Bin Bags",Mayonnaise
+"Plain Flour, Almond Milk",Free Range Eggs
+"Dishwasher Tablets, Arrabbiata Sauce, Penne",Parmesan
+"Vegan Bolognese Sauce, Wholewheat Fusilli",Parmesan
+"Ketchup, Brioche Hot Dog Buns",Pork Sausages
+"Oat Milk, Corn Flakes",Coconut Yogurt
+"Ketchup, Hot Dog Buns",Pork Sausages
+"Meat-Free Burger Patties, Vegan Hot Dog Buns",Veggie Sausages
+"Vegan Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Kitchen Roll, Vegan Pesto, Wholewheat Fusilli",Vegan Parmesan
+"Kitchen Roll, Bran Loaf, Bananas, Oat Milk",Salted Butter
+"Muesli, Whole Milk",Coconut Yogurt
+"Gluten-Free Bread, Whole Milk",Vegan Butter
+"Gluten-Free Flour, Kitchen Roll, Semi-Skimmed Milk",Egg Replacer
+"Oat Milk, Self-Raising Flour",Free Range Eggs
+"Coconut Milk, Sourdough",Mayonnaise
+"Semi-Skimmed Milk, Honey Granola, Apples",Greek Yogurt
+"Lactose-Free Milk, Corn Flakes",Coconut Yogurt
+"Bananas, Rye Bread, Bin Bags, Vegan Cheese Slices",Vegan Mayo
+"Ham Slices, Vegan Wrap",Mayonnaise
+"Vegan Wrap, Apples, Ham Slices",Vegan Mayo
+"Whole Milk, Gluten-Free Bread",Vegan Butter
+"Brioche Bun, Ham Slices, Bananas",Mayonnaise
+"Wholewheat Fusilli, Dishwasher Tablets, Basil Pesto with Parmesan",Parmesan
+"Bin Bags, Wholemeal Bread, Almond Milk",Salted Butter
+"Rye Bread, Cheddar Slices",Mayonnaise
+"Gluten-Free Flour, Almond Milk",Egg Replacer
+"Vegan Burger Patties, Brioche Hot Dog Buns, Kitchen Roll",Pork Sausages
+"Kitchen Roll, Gluten-Free Muesli, Soy Milk",Greek Yogurt
+"Vegan Pesto, Wholewheat Fusilli",Vegan Parmesan
+"Honey Granola, Semi-Skimmed Milk, Apples",Greek Yogurt
+"Whole Milk, Muesli",Coconut Yogurt
+"BBQ Sauce, Gluten-Free Hot Dog Buns",Pork Sausages
+"Almond Milk, Gluten-Free Flour, Dishwasher Tablets",Egg Replacer
+"Oat Milk, Self-Raising Flour",Free Range Eggs
+"Penne, Arrabbiata Sauce",Parmesan
+"Apples, Gluten-Free Penne, Creamy Carbonara Sauce",Parmesan
+"Brioche Hot Dog Buns, Bananas, Vegan Burger Patties",Pork Sausages
+"Wholemeal Flour, Semi-Skimmed Milk, Apples",Egg Replacer
+"Coconut Milk, Wholemeal Flour",Egg Replacer
+"Vegan Burger Patties, Vegan Hot Dog Buns",Pork Sausages
+"Semi-Skimmed Milk, Honey Granola",Greek Yogurt
+"Vegan Wrap, Cheddar Slices, Bin Bags",Mayonnaise
+"Apples, Bin Bags, Gluten-Free Muesli, Almond Milk",Greek Yogurt
+"Ham Slices, Vegan Wrap",Mayonnaise
+"Vegan Burger Patties, Brioche Hot Dog Buns",Pork Sausages
+"Bananas, Vegan Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Spaghetti, Arrabbiata Sauce",Vegan Parmesan
+"Bananas, Whole Milk, Wholemeal Bread",Salted Butter
+"Apples, Vegan Cheese Slices, White Bread",Mayonnaise
+"Muesli, Almond Milk",Coconut Yogurt
+"Gluten-Free Hot Dog Buns, Meat-Free Burger Patties",Pork Sausages
+"Sourdough, Coconut Milk, Bin Bags",Mayonnaise
+"Almond Milk, Honey Granola, Basmati Rice",Greek Yogurt
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Apples, Hot Dog Buns, Vegan Burger Patties, Basmati Rice",Pork Sausages
+"Vegan Garlic Sauce, Hot Dog Buns",Pork Sausages
+"Apples, Brioche Bun, Vegan Ham Slices, Bananas",Mayonnaise
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Hot Dog Buns, Meat-Free Burger Patties",Pork Sausages
+"Arrabbiata Sauce, Spaghetti",Vegan Parmesan
+"Bin Bags, Vegan Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Soy Milk, Bin Bags, Sourdough",Mayonnaise
+"BBQ Sauce, Gluten-Free Hot Dog Buns",Pork Sausages
+"Penne, Dishwasher Tablets, Vegan Bolognese Sauce",Parmesan
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Vegan Bolognese Sauce, Bananas, Gluten-Free Penne, Kitchen Roll",Parmesan
+"Vegan Ham Slices, Rye Bread",Vegan Mayo
+"Lactose-Free Milk, Gluten-Free Muesli",Lactose-Free Yogurt
+"Almond Milk, Honey Granola",Greek Yogurt
+"Apples, Corn Flakes, Whole Milk",Salted Butter
+"Honey Granola, Bin Bags, Almond Milk, Apples",Greek Yogurt
+"Kitchen Roll, Almond Milk, Self-Raising Flour",Free Range Eggs
+"Bin Bags, Wholemeal Bread, Almond Milk",Salted Butter
+"Dishwasher Tablets, White Bread, Apples, Vegan Cheese Slices",Mayonnaise
+"Almond Milk, Gluten-Free Muesli",Greek Yogurt
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"White Bread, Lactose-Free Milk, Kitchen Roll",Mayonnaise
+"Dishwasher Tablets, Semi-Skimmed Milk, Wholemeal Flour",Egg Replacer
+"Vegan Burger Patties, Hot Dog Buns, Dishwasher Tablets",Pork Sausages
+"Lactose-Free Milk, Corn Flakes",Coconut Yogurt
+"Skimmed Milk, Gluten-Free Muesli",Fat-Free Butter
+"Almond Milk, Muesli, Bin Bags",Coconut Yogurt
+"Bran Loaf, Basmati Rice, Oat Milk",Salted Butter
+"Whole Milk, Muesli",Coconut Yogurt
+"Ham Slices, Brioche Bun, Basmati Rice",Mayonnaise
+"Muesli, Almond Milk",Coconut Yogurt
+"White Bread, Almond Milk",Mayonnaise
+"Semi-Skimmed Milk, Gluten-Free Flour",Egg Replacer
+"Corn Flakes, Oat Milk",Coconut Yogurt
+"Brioche Hot Dog Buns, Vegan Burger Patties",Pork Sausages
+"Wholemeal Flour, Semi-Skimmed Milk",Egg Replacer
+"Bananas, Rye Bread, Vegan Ham Slices",Vegan Mayo
+"Plain Flour, Lactose-Free Milk, Kitchen Roll",Free Range Eggs
+"Sourdough, Almond Milk",Mayonnaise
+"Almond Milk, Gluten-Free Flour, Kitchen Roll",Egg Replacer
+"Apples, Eggless Bun, Vegan Ham Slices",Eggless Mayo
+"Basmati Rice, Brioche Bun, Vegan Ham Slices",Mayonnaise
+"Oat Milk, Wholemeal Bread",Salted Butter
+"Vegan Bolognese Sauce, Egg Tagliatelle",Parmesan
+"Bananas, Bin Bags, Brioche Bun, Vegan Ham Slices",Mayonnaise
+"Coconut Milk, Sourdough, Basmati Rice",Mayonnaise
+"Apples, Egg Tagliatelle, Basil Pesto with Parmesan",Parmesan
+"Vegan Pesto, Kitchen Roll, Wholewheat Fusilli, Basmati Rice",Vegan Parmesan
+"Beef Bolognese Sauce, Gluten-Free Penne, Kitchen Roll",Parmesan
+"Coconut Milk, Wholemeal Bread",Salted Butter
+"Almond Milk, Apples, Corn Flakes",Coconut Yogurt
+"Vegan Burger Patties, Hot Dog Buns",Pork Sausages
+"Brioche Bun, Ham Slices, Basmati Rice",Mayonnaise
+"Semi-Skimmed Milk, Sourdough",Mayonnaise
+"Lactose-Free Milk, Bananas, Corn Flakes",Coconut Yogurt
+"Lactose-Free Milk, Gluten-Free Muesli",Lactose-Free Yogurt
+"Gluten-Free Bread, Whole Milk",Vegan Butter
+"Soy Milk, Sourdough",Mayonnaise
+"Bin Bags, Vegan Wrap, Ham Slices",Mayonnaise
+"Gluten-Free Muesli, Oat Milk",Coconut Yogurt
+"White Bread, Lactose-Free Milk",Mayonnaise
+"White Bread, Vegan Cheese Slices",Mayonnaise
+"Sourdough, Semi-Skimmed Milk",Mayonnaise
+"Plain Flour, Apples, Almond Milk",Free Range Eggs
+"Plain Flour, Skimmed Milk, Bin Bags",Free Range Eggs
+"Vegan Hot Dog Buns, Meat-Free Burger Patties",Veggie Sausages
+"Vegan Bolognese Sauce, Spaghetti",Parmesan
+"Plain Flour, Skimmed Milk",Free Range Eggs
+"Soy Milk, Sourdough",Mayonnaise
+"Gluten-Free Flour, Whole Milk",Egg Replacer
+"Hot Dog Buns, Kitchen Roll, Vegan Burger Patties",Pork Sausages
+"Almond Milk, Kitchen Roll, Honey Granola",Greek Yogurt
+"Eggless Bun, Falafel, Dishwasher Tablets",Eggless Mayo
+"Hot Dog Buns, Vegan Garlic Sauce",Pork Sausages
+"Gluten-Free Flour, Whole Milk, Dishwasher Tablets, Bin Bags",Egg Replacer
+"White Bread, Vegan Cheese Slices",Mayonnaise
+"Almond Milk, Plain Flour",Free Range Eggs
+"Almond Milk, Rye Bread",Vegan Butter
+"Wholemeal Flour, Almond Milk, Dishwasher Tablets",Egg Replacer
+"Basil Pesto with Parmesan, Wholewheat Fusilli",Parmesan
+"Vegan Burger Patties, Brioche Hot Dog Buns, Basmati Rice",Pork Sausages
+"Basmati Rice, Spaghetti, Beef Bolognese Sauce",Parmesan
+"Whole Milk, Gluten-Free Muesli",Greek Yogurt
+"Arrabbiata Sauce, Penne",Parmesan
+"Ham Slices, Brioche Bun, Bananas",Mayonnaise
+"Gluten-Free Flour, Almond Milk",Egg Replacer
+"Gluten-Free Penne, Vegan Bolognese Sauce, Kitchen Roll",Parmesan
+"Semi-Skimmed Milk, Basmati Rice, Dishwasher Tablets, Gluten-Free Bread",Vegan Butter
+"Wholemeal Bread, Oat Milk",Salted Butter
+"Soy Milk, Sourdough",Mayonnaise
+"Beef Bolognese Sauce, Gluten-Free Penne",Parmesan
+"Sourdough, Coconut Milk",Mayonnaise
+"Whole Milk, Wholemeal Flour",Egg Replacer
+"Muesli, Dishwasher Tablets, Whole Milk",Salted Butter
+"Vegan Bolognese Sauce, Apples, Penne",Parmesan
+"Bananas, Rye Bread, Vegan Ham Slices",Vegan Mayo
+"Almond Milk, Plain Flour",Free Range Eggs
+"Hot Dog Buns, Vegan Garlic Sauce",Pork Sausages
+"Soy Milk, Gluten-Free Muesli",Greek Yogurt
+"Dishwasher Tablets, Vegan Bolognese Sauce, Spaghetti",Parmesan

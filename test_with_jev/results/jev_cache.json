@@ -1,0 +1,4848 @@
+{
+  "b8b033679cfc75997bb3e4f592f7161a2ab9d0a2d34ec9133fc3a585532932b9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.71,
+      "option_2": 0.23,
+      "option_3": 0.06
+    },
+    "confidence": 0.56
+  },
+  "2c0c8acb3bbdefb6d230900dfc9e59f9fa62ef42610e49e733a78c671a3c3a69": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.13,
+      "option_3": 0.02
+    },
+    "confidence": 0.77
+  },
+  "8b53d7fa98365ba672a9a6d38a7fd3427612b8a49733daa019910ffc1d444b1f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a8cdd435c6987d91a7620ae30863b59118d5bb130c981009c00591eb1885992b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "34f3a2fddc5a496ae710d19f10de40b720c682ae7895b1696bf22315d7c564a4": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "13ff98abbb7d0440c9463477147b8053e307d9505655901c3517f6b9fc1dcd1b": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "83701f747d70a967d9db825cca7710f1b19ab2ddd3c838518fcbd110d80d1367": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.27,
+      "option_2": 0.0,
+      "option_3": 0.73
+    },
+    "confidence": 0.59
+  },
+  "9cd6c90c35ed0ce88172ba6047e4815954a3954c2134db839772b6892f0d3494": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.62,
+      "option_2": 0.02,
+      "option_3": 0.36
+    },
+    "confidence": 0.43
+  },
+  "039b8a054682388e339468c6b46e2a317ea11e1e3ba7b46b5ef735304d044843": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.08,
+      "option_2": 0.92
+    },
+    "confidence": 0.84
+  },
+  "7f9388c18466bde134c0af5a5b5c275eb348d0daf560bd1c130f5d8795b8c1c2": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.29,
+      "option_2": 0.71
+    },
+    "confidence": 0.42
+  },
+  "a0a6a761b2d07c2ccd2d46618125311b4d1ba4212fe005ee89ef4281af9672c2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "5ef8e3718f97a681305e0275fb848d482ca1fdac62f773ebe978ea6c0be3def7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a90a8e40604d8259c2a52f9fe6ee49ee9d4590eb025cdd6036d2f84ef6a4eee9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.07
+    },
+    "confidence": 0.86
+  },
+  "d95a5a338febe82f06d64b0f3d3a70ef324a81a34e4265ecaadb5a4e66e6363f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "01d14e7ee1f02055a6fc5414d64183358b6299870476a8ef3a2e6309ae20b5e9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "7ade2d3be43843eba95160d58d878e7159fc2d0d3070a26581024d22b989d091": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "d9df43737d57baced2d4f55c0620d41b8a18647b8f13af7089f239173101bcc2": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "bc4d2deb14fa5381d3b7fa4d1dfd8bc37701efa2f423e95d7c1712fe4fe61e2f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.16,
+      "option_2": 0.83,
+      "option_3": 0.01
+    },
+    "confidence": 0.74
+  },
+  "3186656ecbc15cb69283ea7af691e02573e89782b2bb0497341e04f5d35eeec2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.61,
+      "option_2": 0.14,
+      "option_3": 0.25
+    },
+    "confidence": 0.41
+  },
+  "b3a994b8ed67c5207ecf16f9ceccc9270cfcdf29cd8b3ddb00e5ea5ea9291de5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.73,
+      "option_2": 0.22,
+      "option_3": 0.05
+    },
+    "confidence": 0.59
+  },
+  "2665e4e70209adf47faf570200390c5d0d90e933711c8597f1511589e7e1391e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "90030bd4d5f480e777df20a6482e1f417c3fe499b5db159846a7193810c27fd5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "ab4f8f09f990945de770e3741781e84996e47493df920b1b8f3225a6f019ff67": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.9,
+      "option_3": 0.01
+    },
+    "confidence": 0.85
+  },
+  "05c5dd1e010f4f2c0eba5695f66a9ccc7bc2dd9fdc6288d19152fe746e278ae4": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.81,
+      "option_2": 0.19,
+      "option_3": 0.0
+    },
+    "confidence": 0.72
+  },
+  "4fa7ee7592540a1a13a616b648a61b5ca5cede45fc1239884f5af29a0176da5b": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98,
+      "option_3": 0.0
+    },
+    "confidence": 0.97
+  },
+  "d39799dc989ba3df79ea0bbfb3f69d5f8180d0c7c0e494ab3127dc4436a016c0": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.2,
+      "option_2": 0.8,
+      "option_3": 0.0
+    },
+    "confidence": 0.7
+  },
+  "9b930361f2ddd10499d7c70edcb09853cec6b6e6e91c0d72fa55606884fdf36f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4e90ddc831327e5e5c17207e4e03ecd6f3bd68daa84bc4fac79fd8b7e0525a75": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "eafaa784259922c5a1363021403a09d75cb36010f7ae1cd2b02f8bfa54d4ecc3": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.11,
+      "option_2": 0.86,
+      "option_3": 0.03
+    },
+    "confidence": 0.79
+  },
+  "5110e96129a1dbd5282f87b0f2349a1c655bdafe4c642e709ed397a2d04f311b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.69,
+      "option_2": 0.28,
+      "option_3": 0.03
+    },
+    "confidence": 0.53
+  },
+  "4e9c83936b6a643c310eb228823482b373940ed5167206928167fa4ce3730d2b": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.06,
+      "option_2": 0.6,
+      "option_3": 0.34
+    },
+    "confidence": 0.4
+  },
+  "6f56178f18fcfef37f1ecef0298c9db6ce747477e145e094ce6aa728cdbc6447": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.22,
+      "option_2": 0.62,
+      "option_3": 0.16
+    },
+    "confidence": 0.43
+  },
+  "dd9802345aa5bb955b4d9a0b8a035df7d82a4f7556153c7891b2b72f33148376": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.88,
+      "option_2": 0.12
+    },
+    "confidence": 0.76
+  },
+  "07654c02d13f42f551dd175397273290573d4283d4914a5a71a32845de197e39": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "a02f66cc2385b8f679a70c216d2aaf72d08876895df6ed0e048d075d19b92422": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.94,
+      "option_2": 0.04,
+      "option_3": 0.02
+    },
+    "confidence": 0.91
+  },
+  "0dbd78ab08841d66fdf29e92353cfe6f0d8fced0e7c5b9173ad95770db27b68b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.0,
+      "option_3": 0.01
+    },
+    "confidence": 0.98
+  },
+  "a61ab562977f8df21fcc18afdefe888c769e9eb2d3eaeb3299045d8905b14cf1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a01be3dd5b6754b244ad10abe687f28c3ccc090047dfba65b7e2559906e7ffb6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ab5eeba03ac6bb725263932238df10f2b0cf0ba3669439618800303cc897abf6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "04995a21c3ff45cea39d93b224d693f2676c0bc4eaf5e693d09c7f8e9070b867": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "22e506dc7271d4eadd66b600b425d56097b7a4e4852944d9f31bb6bae98c280e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.1,
+      "option_2": 0.86,
+      "option_3": 0.04
+    },
+    "confidence": 0.79
+  },
+  "da852d9a4383c049248e3b029af271c8273ac88942a856c1fbc094d9099200b1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.68,
+      "option_2": 0.3,
+      "option_3": 0.02
+    },
+    "confidence": 0.52
+  },
+  "8916363f0095273aa638d39cfc701b0341617fed2735929cad30dc196ce65aaf": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.33,
+      "option_2": 0.43,
+      "option_3": 0.24
+    },
+    "confidence": 0.14
+  },
+  "d74be9b1740206bd8a3d877e4af9556637e8c83032973f0b69d3d611befc4154": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.41,
+      "option_2": 0.56,
+      "option_3": 0.03
+    },
+    "confidence": 0.34
+  },
+  "6d3ede35d6d102b5ee78eccb4f77a6766ffbcf1bb2d928ee80f584542b0989b2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "c85c54d3f42e529748e63a90a3e2222a1cc84490b5cfe6d1910f9030bfa87921": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "0d1e785878392f8194b5db77f074a95cdbafcb56eb76822dc68af583f4030ef1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "1519eced9a5fb0dc439c9f2bb74ac28ef8f0c6e9409f1681083d32e1febf8a50": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "2e7dd5177637b376853d7bfdb8d69325cba02eacb8c6867f2550241df86582ac": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "769db27dbd45bcd966c1d4464a530e6661ca8971fdae9eda50a5042d57b09b5b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "2e2f56afae0d6fdb1bcb44ec1929dffced55cd8025835757b8ad96f56b426e35": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.57,
+      "option_2": 0.33,
+      "option_3": 0.1
+    },
+    "confidence": 0.35
+  },
+  "5ca26d2b179ceebe7521c333a861ce220f170b2f44edf30be8f3dd56f8098470": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.13,
+      "option_3": 0.02
+    },
+    "confidence": 0.77
+  },
+  "2eae594d01c2e4f86fed5f647c8994bf48af98db4c7698d821bc925437dce5c0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "96ad248d7f2b1cce3673b8bff3567b7693b7a4b9de3bf49989b6bf17c7488961": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "9e86ef138608a9b1c17447af38507bc20c03becc9f57cf34a872e18a4526d511": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ff9e3ac991f5c56c460eb755b29528b3fa39622d8cf9b8186c4b0cfb4913dc5c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.04,
+      "option_2": 0.96
+    },
+    "confidence": 0.92
+  },
+  "c0ee72be2af0cda7c5a815f378c031863ae782f0987adfc6dc4e41f2de3f1cab": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "58f05c681681873f00c574596bf1a44adc2d50b22d3e228ab2cad1f7af649ff6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "7e56d0fc69ec9bc3e7144a7943028d72b7cd91eb9fa99afcf0969e0cdf7dbd89": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.15
+    },
+    "confidence": 0.7
+  },
+  "3af90419f893a6cf78d12016c5f9d53d543d6f5c525dce7e197e2e16f3061f2f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "4bd6c089274dd14c45a55a445f9650db409660e1849e059f06a5bb2ba8cddcef": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.04,
+      "option_3": 0.03
+    },
+    "confidence": 0.89
+  },
+  "8298a73368aebfdec9f3af9a2499d6ec0bd71a765b0aa5122142413c6a88d1d2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "7573d35ad01a771afa40529b3c11044b82b11d038b87a53f367bc1c4a011cb63": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "62dc89f25934b0925cb3e2f42149ddeafe9bdcf101db7e04537b3764c0abfe29": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "826dca5515b1d0721ad73f255f2e2fcc50d7523efcd6f626ab299ff33213d2b0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.73,
+      "option_2": 0.06,
+      "option_3": 0.21
+    },
+    "confidence": 0.59
+  },
+  "90a2eadf93c3abe65cb34963051e05ab019767ad10c7688e34a7124f85b6e07a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.01,
+      "option_3": 0.05
+    },
+    "confidence": 0.89
+  },
+  "037fc67ec071f68b8e9407dee9024a111aa741ad1a1e7cf5522b87819f467c40": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.74,
+      "option_2": 0.26
+    },
+    "confidence": 0.48
+  },
+  "f75685d1fb10a4bcbe7829ccac0a065abc595e337c26fd9812114a1336766d82": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.15
+    },
+    "confidence": 0.7
+  },
+  "4b0cf04a4368e721c126a56212085778c7828996df1752c775d0b374e1c22d3a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.12,
+      "option_2": 0.55,
+      "option_3": 0.33
+    },
+    "confidence": 0.33
+  },
+  "817c9a65031f438c9dcd8c792df634883746a221d3fb985c4824340d051e79ac": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.36,
+      "option_2": 0.54,
+      "option_3": 0.1
+    },
+    "confidence": 0.31
+  },
+  "fbda6886413c671378418dd1e7c2816d9638388008e43aedc4e7dd13d8d27e2c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e236ebb3212a855b4739e8b44df9b6be2b2f1bbfade7a64efc394a1d55ca4886": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "c41af6d43a68e48c00454c203e8d4afe02a15db87530c72263c3d7bcd6014e41": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "638510ed22285dbba41499fcc5cc146e545f7405747c31c0c3cdc9e8b42fdbc4": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "8df0c33c3ff9a75f05b994cd6b0048e2292cce822be6fe256e24753be4ed12d6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e0867df422083fcf8a3b3164cd0639c2f27eefe69c1bc965488446fd0248cf7b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "24f7ee75948503a4fdc75b6eda3a728f99fb4da5c5057de21e738285a400723c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "65f5a5d7f8aa2845e17203dd20436fc7889a2a08d29c497d76fd87f73ea4e31b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "237244c28cbe42f9efbe03dc68bfe0201385f85fe37a9080085ecf88f056b155": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "1d677edab607a87e9b97ca6efba63a23e72ff000a5e6bc8c49b2a9e0e2f4d337": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "72158590d2750364f5e149858503aa934e193cbebeced81dbf24bf8407d29509": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.66,
+      "option_2": 0.34
+    },
+    "confidence": 0.32
+  },
+  "d80d855b1bdf3d6750c93911d1ec3aaade50c40203084ee0a9673d4a6aae7176": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.05
+    },
+    "confidence": 0.9
+  },
+  "3e35f88df3f8dafb50af10cd9bf9a104d7a356603e356f557c4b0c30878e483b": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "aac3af1451d3b3fe2e2aac3c2e8c0ad218ffcc42bc773883d1f7530e357cdd26": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.19,
+      "option_2": 0.8,
+      "option_3": 0.01
+    },
+    "confidence": 0.7
+  },
+  "1e65a638508c316e52972dcb83a34214596037cac2764d7c4622455b14c27e46": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.91
+    },
+    "confidence": 0.82
+  },
+  "bfa23bfcb43d8f763477cc1f00c7842e447e88db742c04750785899c5bb05099": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.61,
+      "option_2": 0.39
+    },
+    "confidence": 0.22
+  },
+  "bef6bb551b475f43c535f21677fd5fad66444ec916daa066b62bde5d8ac4330c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "97d845680fb986db3496d7290125f5a28548760cac740d089b647c8823c35658": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "14f9e851bdb77e68a067ed222b839ad52276fdb8b3e3d8f6b1f728eb271eb259": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "9b20b4e3e92690ce076d993bbb2519cd5fb16a59802793d4ff15b2fcb14b3d72": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.11,
+      "option_2": 0.89
+    },
+    "confidence": 0.78
+  },
+  "4b031956bb180ba405a9bb384e75ff4e8b0cd197d24dee21a676421062812569": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.28,
+      "option_2": 0.05,
+      "option_3": 0.67
+    },
+    "confidence": 0.51
+  },
+  "f52b38959db2a8c962019d8cf1687979ef8cbe38c82311f6360113be86034f11": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.88,
+      "option_2": 0.03,
+      "option_3": 0.09
+    },
+    "confidence": 0.82
+  },
+  "a1978f282c46594d542b90058ff69fd3f2a2581302ebaaac9fab64cf572e95bd": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.37,
+      "option_2": 0.63
+    },
+    "confidence": 0.26
+  },
+  "139ee2c4f077ebfce5d5b39038f5e85eb09c9433e84e309485d722ece8748648": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.87,
+      "option_2": 0.13
+    },
+    "confidence": 0.74
+  },
+  "c12ae6fbd31e8e2ab6cb02a7308c10604e658ccbe7f660ef458039c9be2a9b65": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "3040a1e52e48c3f7f4cfb068a05fe4b6fb1e43afff4d155c927c7d1de8f6d460": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "bd94fc6272f35d5306d7abbe7d924b63691525d6b31dd5244d80a0d4a4d347e2": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a733ef5908f8d410df4ea9ac9b6744713fbcbcf05cab329b83e609c4aba49033": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.1,
+      "option_2": 0.9
+    },
+    "confidence": 0.8
+  },
+  "d7ee731ee22e2e919bc8f7bc1419a12b4e4f510f066c920294eb637d20e051b7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4ae7bfb3f83a108f555bf08cac5010bfb2089e7206a274c5ac2b80c95744f384": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "362d0948c55db2770bb93401b8f1630366ac0fba6da453a2a538f2e4eca0c813": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.04,
+      "option_3": 0.11
+    },
+    "confidence": 0.77
+  },
+  "18cb82ab00331a7d1faaacf97451fa1da963350826cb1b952e7fdbb23544908b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.01,
+      "option_3": 0.01
+    },
+    "confidence": 0.97
+  },
+  "780e29715a8c4ab2517bae7e6df3e7a6cadc6fa83a18d05a8420493d86d3d986": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.91,
+      "option_2": 0.08,
+      "option_3": 0.01
+    },
+    "confidence": 0.86
+  },
+  "cb4eb223a0f16eed8099916599fbc35a22c0620dd3d3646b24429c3c8d8d1bf0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "5c4d6c8eb9386f7541b906844f7187e1361b80c1acfede021c238774ceacab79": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "5cc0b536495e997fb7eb7c596f2adeb54e1b1768f1efb873e528668503221d49": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "2235d3bc1ccfa314ef7f270269440f7370ad00ccfed7317a0313e02cd049c52f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e0bdf446216e545d8f787fd9efae79b8140905c6f1005ab92a19e9ef230a00e4": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f69fec6d685c496fdc02105dabf312272495295dc0eabc64165e63d48664d0d0": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "934c1a9e94bcc0f818c534626ae95df4179b49bd021ccccf5b58c222cbf509cd": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "cfb7465fcbedeec0d54fa3036308a3374b5df3bb6e44aaef91e93872025bdd62": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "7a5f88fcbf5c9981d9b35f37685e4f86f9bb74b6d0a3a41818bfb9bae996690c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "6af845519ee6c6f524b19513ae36c9f0bbf7ee3a9c526ce34ba9be93a7a3ee4f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.78,
+      "option_2": 0.22
+    },
+    "confidence": 0.56
+  },
+  "592fe87cc86b7c6ab41fcc9b724c2045cd6d75347f6411a712d68b44307dcb6e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.91,
+      "option_2": 0.09
+    },
+    "confidence": 0.82
+  },
+  "c56fa35bf2779c82ae72c6c2919688d1fafaf24557c3ae481896057d00e5d15c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.75,
+      "option_2": 0.25
+    },
+    "confidence": 0.5
+  },
+  "4972690d374eb16ad43ca7d07da6906de80c1f94eb3bcc9ca8b2d4baa3b89c25": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.96,
+      "option_2": 0.04
+    },
+    "confidence": 0.92
+  },
+  "1c1aa1471412a053dbf2f190f494cbdbc53dda7614d3f6b1f8ce9d225db5b964": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "b8bee4e1d404e523fdf84f9d802506453ba475c8f317dcf0df96db0b89c8cf5d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.23,
+      "option_2": 0.77
+    },
+    "confidence": 0.54
+  },
+  "d71d08b1f6f31d9a3c1e91013410f3440f96efa45c074a50b3506c404f53a328": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b42ae229d603e99f01481a726b193623c746515cef008958ae777ded3df99015": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "89f253d8a3847580677815a5bfd4a0a709af985ccf267daa042c2169c1bc02a5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "898ae9b6410efb34bc020287b30a57e4587c4e9827369a56fe63d225c35249b0": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "66aece6fedd809eac6c733e2b788539b054fd99445e9f9bfd71de941ed811335": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a244a38f780cb6c841526c8a7aaedf13174b5c649e27eca60d527a5edd16b76a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "747d868e3d76ecd201688de6276a5daa3c5a82f8075ee5d1bec097c0cafed715": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "9a6da03bb121bdab1334ea797a66fb9ad1638ced4cbf3c184b77b36bb4715f31": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "a6d53e3bf5caa4bff2c29463bc27935ac27445d647b93403470b87f074d7c73b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.01,
+      "option_3": 0.06
+    },
+    "confidence": 0.89
+  },
+  "57d51b27dfc069cc27cf7ff7afc7ec3bf28ff97f1e07a0722fad53a4a3aa9095": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.01,
+      "option_3": 0.04
+    },
+    "confidence": 0.92
+  },
+  "1be3580c1e7872b16f00b7bb2b84dca7eb0fe70a15625db755012a2e3fe17bda": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "a2e569a38138ac23c164a20d5f4f5a35ab5eebf43e4a466a1d28e7822d8d9ac3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "4c1b9f19b3bcac5e7b733ecd147f30da004cc1f321a3b56a7bdb2c1009c0cb4a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.86,
+      "option_2": 0.13,
+      "option_3": 0.01
+    },
+    "confidence": 0.79
+  },
+  "ab316a5c488af00304ae16620af93cd6dce0f7fd9c3460a0b8579cd9ae70fef1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.91,
+      "option_2": 0.08,
+      "option_3": 0.01
+    },
+    "confidence": 0.86
+  },
+  "b8627f7dd435b59d7cdf5a79ad5ea8ca0bdef91a45b60e21683d1108793ae815": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "1a7a7499b5d80c45522537b79e5af05f5ffb2a476067bc10cdcb7640e2bf4ba5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "a6f39f177ef4a209028c673e9b9feaa4379c2411e2b054effb4f46303fba56e4": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "04195ac27b655395a5520d833bcc29b4d8cf31e1872aad6df4acabe113ba3de0": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.13,
+      "option_2": 0.87
+    },
+    "confidence": 0.74
+  },
+  "e4309a95eef7d4d3c0f4555168e798190e92edd3377824fb99969d56189e7437": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "19c19730eba99e61fbed5d7005ffe8d83e42cff1dccb15941d1efd84b7660ae6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "de97ad2cc4eb20eaa03b4b8c19c1edbb171fc2c307f15f8838c030f414cc4279": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "bc72e86e514e5e26fd7bb7e5421917ab40673d2a921695fcc1d620fdaab1aca7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "17c3c7314dfab75f9d993b8fda3fcf8d437300ea039ace74b860fda40c69c12e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.03,
+      "option_3": 0.02
+    },
+    "confidence": 0.92
+  },
+  "94c4073f4af1eac3ddcd2f22341a0611b8ffd9c292570f7bd6dad96ce8217c0e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "5ad035128d9be3749917d8d0591345b27188316324baef5b7b772ea32673c117": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.17,
+      "option_2": 0.83
+    },
+    "confidence": 0.66
+  },
+  "8f2e5d88287aee96e0e032c7ffa8c5dd6a3e6ff97d72d340527709177888a154": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.58,
+      "option_2": 0.42
+    },
+    "confidence": 0.16
+  },
+  "ec061c2a9eedda6051ca4fbf812a33c22c1215655f0f799e56c72b2d939ed3ba": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4e8ac7a7500eeb5d2b50eec316338066eafdeed9d7ba16e79ca9a87183e468f2": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ced072e891af5de632e15e68aa85ec60f5608abf166b23454bbfe82a0795c414": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.76,
+      "option_2": 0.24
+    },
+    "confidence": 0.52
+  },
+  "e9b8104385ad2d2a0296a6a29b08e17cdffedee700e1d6fa2855aa889bbc2b56": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "5bd00df4c7d14abd9668bd823c700e5a80ddcd726f03e158b6d277327d077d13": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "86625516d2f262c2256207d9788be58472dfc87ec6d44a73fb58c917cb8c3ffa": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "d79b2a921cf0f6cfc19dc1fb4b5b88d1b86f5f64c35e05b833ff983b981b22ad": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.52,
+      "option_2": 0.24,
+      "option_3": 0.24
+    },
+    "confidence": 0.28
+  },
+  "034a5c56c656ab42c3a361966389a77b07a7c3d0a0aa05c9c04bff6b65f91b89": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.04,
+      "option_3": 0.03
+    },
+    "confidence": 0.89
+  },
+  "e9ab1789260e59d465a32c0c61323a9f8188916ca649a8f632f4934ae49027a9": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.91
+    },
+    "confidence": 0.82
+  },
+  "54f2866660c733d51b7206feeb5e3dd0fe9d48f50eb14b7dd85b1e626be3ecdd": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.75,
+      "option_2": 0.25
+    },
+    "confidence": 0.5
+  },
+  "177a338b846a506d2e7944d5f6f5ff53bf70feea8c4c237f069f61f9df011704": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98,
+      "option_3": 0.0
+    },
+    "confidence": 0.97
+  },
+  "27af4f4cf95dc2887d0d5e5fb8d96317ac6f606425bdf8fef06a0b220dee2323": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.22,
+      "option_2": 0.77,
+      "option_3": 0.01
+    },
+    "confidence": 0.66
+  },
+  "2c6a180e0d9d1274d63c64933ec43c632b6d3e12b9f639dcb92e1cca0319ec8d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.91
+    },
+    "confidence": 0.82
+  },
+  "04b5973fd4a490dfc4c8d665d9d70275967358056a7ae543cc4e9f2092bea114": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.33,
+      "option_2": 0.67
+    },
+    "confidence": 0.34
+  },
+  "9c6f28cc8bd4010d9d27f12afd4af130a4326f8aa7dcbe3e030ffdf281635549": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.1,
+      "option_2": 0.86,
+      "option_3": 0.04
+    },
+    "confidence": 0.79
+  },
+  "cd4501ae4558da6543f990abf4e9727282c097eec94a26cd5455b5c9510d1603": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.19,
+      "option_2": 0.8,
+      "option_3": 0.01
+    },
+    "confidence": 0.7
+  },
+  "fae8b79dae418d942242974addbc28f637fb9b05047273d2ba996ee5accd7aa3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "6123d8bb456c4614e4c4340853e02d1f818e3cf70b49a25e813252672418ce48": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "18eb2942530ed478a913fead058e02f8c64823da1e83c995e07c02d7b3ab13d7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.71,
+      "option_2": 0.19,
+      "option_3": 0.1
+    },
+    "confidence": 0.56
+  },
+  "09e2310ac1ff91a903311cb2c5a43d1fa74015c371c3ed698455312c5371d7f8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.02,
+      "option_3": 0.01
+    },
+    "confidence": 0.95
+  },
+  "9d75bf1b3118de5926a51f4605be67bf257a61a595fd1b1ef100502f93a975f4": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.91,
+      "option_2": 0.09
+    },
+    "confidence": 0.82
+  },
+  "ad436ae92b6fda14afeb0233d0c5f8b81a09951c2c789fd341b51b3da70f52fb": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.05
+    },
+    "confidence": 0.9
+  },
+  "f5adbac7866600e72fd9df623aef3ea522b4964b5e910e08ca6150efb0d6cce6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ecaf0b9ee2e96469dd0f6b139d25df74dd2973603334599ce1e16176cf478f65": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "699f32298c3efdd59db74887e0c911d4f572eaa1aeae850586fe110e6cebec78": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "aabe8af05899ec28b01e5ed1750e4966e3e232ee19cd1b2eeca7b8381fe47024": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "513f314eb02c4b9344e70c872d245f4a88657af8e0812e8d8e49c3dd261282af": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.0,
+      "option_3": 0.02
+    },
+    "confidence": 0.97
+  },
+  "70ce7dea81bde29ace81ef4e19d8b6d15af1b89641ccd94ea7e154e00929340a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.92,
+      "option_2": 0.01,
+      "option_3": 0.07
+    },
+    "confidence": 0.88
+  },
+  "77dfee6c830b01f4c981d4acb64dd82603fa2782f26cf0057d99bed9217f88a8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "550ec21a683cba85ec8e089f98ce91a58eb3a4032552a2329c4f00d214316ef7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "c1d3856a46b821c859351a17eb99e3827a26b0a5dba678dafd97f68e41003fd9": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.35,
+      "option_2": 0.57,
+      "option_3": 0.08
+    },
+    "confidence": 0.35
+  },
+  "d65b5f84413ed33c8697653d3092e1cccc3fb7e54adb11d18faea1e4dda0b543": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.71,
+      "option_2": 0.26,
+      "option_3": 0.03
+    },
+    "confidence": 0.56
+  },
+  "b8fb4cad994f67136fc1cff254cc115dc7a75289c8a57a59c43c67a9e97466db": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "02bbb21cf48821399531e702b4d54392c45f37b6df8c63663948b1f9da55a763": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "494e2475991f827135925f964eb32086e5a2f7af88c1ca201bd502e75506f4f1": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.27,
+      "option_2": 0.0,
+      "option_3": 0.73
+    },
+    "confidence": 0.59
+  },
+  "dddb1e03d54a5691f67a0e0dad1b2c9abe8058d41551fad3e1c477d240a23559": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.0,
+      "option_3": 0.05
+    },
+    "confidence": 0.92
+  },
+  "01367ef275bce3c770eb677c7c09e6466ee795c8aa70cd5b556cd03128546459": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "f129993ff66cdae3bd2ea4031c6a013151249c3ce4348803877ebeac5ba82c83": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.31,
+      "option_2": 0.69
+    },
+    "confidence": 0.38
+  },
+  "d9658c1bbf14583e50d1ade21e540fcce4d3ac9c72b9833af7df8eecb3b2e5db": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.91
+    },
+    "confidence": 0.82
+  },
+  "b3fbb2211066b1d90f008707649d155f3dcb87f0aed1415c74d2f1cb8ba39351": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.32,
+      "option_2": 0.68
+    },
+    "confidence": 0.36
+  },
+  "665d3125451baac541f83f525c9808a8192dd2a8732e455d06b0a5d1bbcd3a5a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.48,
+      "option_2": 0.52
+    },
+    "confidence": 0.04
+  },
+  "52ae1474e9bbf0a0defcb0d9b656cf899e731623384e098ff0e3208260142a7f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.67,
+      "option_2": 0.33
+    },
+    "confidence": 0.34
+  },
+  "cc51a55455fbfebd5eaec23b80aa6761faf8b9191ddc0aaa28879a9fff82dd97": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "c63e98384f06ea95c96cb14bd40ea89cbf18ef1bcdb71d90f2b761e4d96b4a98": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "beb7af526a87fbf1d6f3ef1ff630ce04a33bfa3fb4ffa21c029781825f59ff5c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "13604dda871b27fe7b5fe105bce5e8d4446a828607bec2db00c483ffc72496a9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "32eec43ccc2f1ec39c6a72db9987581dde95e541885cd5f95d9486f22f245320": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "24d1355e037d730ce16948c4e196edf695632639449381f9f2f0c20d06a8ff37": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "d49cff549a14248ed5b4ae8844a5ae59f5a71c4b335a56d9a83b498c1d0b6303": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "8fde257f0242a65fe466502acc49b696b51e4cdd34888e50ad5c0c04ca7cf370": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.15,
+      "option_2": 0.85
+    },
+    "confidence": 0.7
+  },
+  "9f56ddd2dae3638357f5ccafd218ac36b3c450cd10f4c96846396ef0146992ae": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "81a317b146523e9987542bc4e0c7754c72119a6619284d87aee9c7bcfa56f25f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "5b135b573d83dc8eb34698c063b5491b0f9612e32a37397cccc27c712e424115": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "4a9edb4b25b3160850c9e6929bbf42c18bc5b24ce6b0f58980444aa01323dccc": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.1,
+      "option_2": 0.89,
+      "option_3": 0.01
+    },
+    "confidence": 0.83
+  },
+  "4bbe7ca23c4e52b7a6e6c78e88d31654c8a5c113463ce4982ddde44c39c19f42": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "24947ce839facc8d9d877142d7a2f8d486fa250c25580b044ca34d8891d671dd": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "87f42a77ef55e0d73f4c9433dd8a3e7bc71f069084dd19af95090331ca33a91f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "3b7d6a5335be75ba287ef224362809fd68463cd80f603bd1f5a4d0547b1a69c7": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "79106160af60739ce6e78af318bb8fc537f0fa1e7d6964ac95fde2634e6c3dfc": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "baa9352ce457ce59f9828351c0f31740ae5618698d638b61790895cb3f709aa5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.05
+    },
+    "confidence": 0.9
+  },
+  "7f1c9c29d6d5067568bfe27b9314d2b5dfbc2f0ced88a37537b798139ca3088c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "c6e9e611b4aca3f0a4664bcfc92805e24d8bd79fbc145a8a813bb60ac359b086": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "8e3fcd2334bd46922f88418ae923c46bf3172250ff23d9c98bc9124a881a6154": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.09,
+      "option_3": 0.06
+    },
+    "confidence": 0.77
+  },
+  "c351a0d6aa3e0ae20432439be456b0cf616c5b73149f7baad354f66497a09b71": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.7,
+      "option_2": 0.29,
+      "option_3": 0.01
+    },
+    "confidence": 0.55
+  },
+  "a176e707224344b0e23d75ff9973d79467e00a68b141b68354c900a9c2f113f4": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.25,
+      "option_2": 0.32,
+      "option_3": 0.43
+    },
+    "confidence": 0.14
+  },
+  "1193f85d4795623a48286c46e7dd9c3f65c111defca939e46524869eff424152": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.79,
+      "option_2": 0.03,
+      "option_3": 0.18
+    },
+    "confidence": 0.69
+  },
+  "4147483e73a0e91e7574cce5ab8de6e9e976bb02034d7bdf5e6847db6c99dbe1": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.4,
+      "option_2": 0.5,
+      "option_3": 0.1
+    },
+    "confidence": 0.25
+  },
+  "a4f71c12105ed349894306c4cfef59656f2574ceab81055c9c0c228ea1fbacd3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.87,
+      "option_2": 0.12,
+      "option_3": 0.01
+    },
+    "confidence": 0.8
+  },
+  "cd39a87b8e4c349c30fb59b48f6f297d0c219738e3c4058caf3049144fb74a3a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "10dae62ac3ff598cb26863a98d12b91f1aaee3d76384181e66587c772fadf179": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "7734934d615419c74b0f77af6342a218a5b9a1dd8005f86227b8bfc2789d7622": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "0e5900cc25a768c99f59fa916a126663c64aa3a44557e406a05cdc84170a576e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "22da50a740228d650d6f29ccd63649106ce52933156c1c0055e0d09ddcbb719d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.94,
+      "option_2": 0.02,
+      "option_3": 0.04
+    },
+    "confidence": 0.91
+  },
+  "0cfd65e7a3e457c1e2820c497d6abd2b5693de93700d3d8f9065553ac73aa8d1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.02,
+      "option_3": 0.03
+    },
+    "confidence": 0.92
+  },
+  "50f74d2c8482492f7e66e89942816a904d43998597a419706af518f7f1afbea0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.96,
+      "option_2": 0.04
+    },
+    "confidence": 0.92
+  },
+  "4a273fcd18dd8d0ed7414f5fd653eafa8667b64de4399fd69448f045ccb5ee0c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "0b00d6fdbdfe5214925e01c710e31410936b30623296170b4105d5b1cbbfe547": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "c2d650626bf648545da5fd0dba2f87b84bc53dc5850c7b3db72a4a59b8f66f8e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "5e97cae417a446806f79ee6f0578040c8b63e03b33403d9d4114a3dac95945b2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.0,
+      "option_3": 0.01
+    },
+    "confidence": 0.98
+  },
+  "4ca39b5c1d040736590ff2041e10c6d73977f17c368010d5aa7b2a2125466d07": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.01,
+      "option_3": 0.04
+    },
+    "confidence": 0.92
+  },
+  "1be67d26bd8a7aa3079283417331d139270b3d10d91a441e329838ac4b7dc41c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.62,
+      "option_2": 0.38
+    },
+    "confidence": 0.24
+  },
+  "5b65cbe0ca5aea8bfcd81efd595e8082b38dd3ef429fc164192881520d42d9f3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.72,
+      "option_2": 0.28
+    },
+    "confidence": 0.44
+  },
+  "4fefe4223bf5bba8dcbdc286d84ada2a55defcba19fb6945515900ea980e6e7a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e6ea57498c6459d3c3888a129e8fe6dfc65d2bd20474a59e8a98d059de4a982e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f266bc6217069f1f705631bd1c4daa6554f54aef1a0f5d869afd06a7da3c44d1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.62,
+      "option_2": 0.25,
+      "option_3": 0.13
+    },
+    "confidence": 0.43
+  },
+  "59fa075db8b0525bb241b8cb0fa9b2764e1556fc92bdefbd5abe7f915cbcb8df": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.02,
+      "option_3": 0.01
+    },
+    "confidence": 0.95
+  },
+  "5ab5b26d5c4af994bf3e95181d58e83026b9f4028c02145e10e6215ff9e13b69": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "3eac3d226d4be80380e8583de567a2bb7b527bbe47b1226dc735a9c374697e6e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.37,
+      "option_2": 0.63
+    },
+    "confidence": 0.26
+  },
+  "1163515b844a8bde5eac58cae32411fa2055e51c8a4631b9ea987d07fdd34a14": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "8131b08b681e8e163c67940711166d35588b95bd2f06657f52989fc24f22425e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "cba00828584aa9af5e1f79d40120b53a264475cd3e68757d6360381c3f694a87": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "6b2a08d2d53b618f7119c22f3fb7877141f41c8b0f30b4bff320df1ae2106990": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f344cc820f33c85a05a4f4900aeb1e8471881b5d87843f5c733f8866ab895381": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "da0d7ff2feae0651b93fb231aaabbcf7cea65967081ef05371536f4fd00e239b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a7be552ea6f2c4f3f50899fb3c8fe897d8eaf6a72e203e8732ac7f35f05a7152": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "ff92b7ca833f1f242ba3804495f6f28b8cb034055e548eed8b15702c6e19a897": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "040fc8238c98cac1bc44328b548a2044cf4539673b2fe91f04d52a0b1fb2c9da": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.7,
+      "option_2": 0.21,
+      "option_3": 0.09
+    },
+    "confidence": 0.55
+  },
+  "5c2d0cf48b2e290767c6508e7a05f42f666f6ccddea2eb070d69ab93082ac743": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.7,
+      "option_2": 0.22,
+      "option_3": 0.08
+    },
+    "confidence": 0.55
+  },
+  "bb940b9e3330b3ceea212165f00ae856548422ea76c6abc0a4bc03caffad469b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "df6828ac6996568fd1c589e902bf8d1bc80684b575fcc0837bd075243bca31ea": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4f74cc72b97b77c0e40eea4f129a9c2a8a189433b4faf7f85329f5ded0128fed": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.21,
+      "option_2": 0.17,
+      "option_3": 0.62
+    },
+    "confidence": 0.43
+  },
+  "a00cb01233846d6ecafc5c16fff4a560cb8448ac27e12e01c6338e60bdb202b7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.57,
+      "option_2": 0.07,
+      "option_3": 0.36
+    },
+    "confidence": 0.35
+  },
+  "2b70d936bb28931f005288a46003899404ff9eae59d29c89bae908be41e42a63": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98,
+      "option_3": 0.0
+    },
+    "confidence": 0.97
+  },
+  "cba45e9d06c3e5b65bbe8cba69f16f39c0e6f19881a0f22bce820d148996dd59": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.22,
+      "option_2": 0.77,
+      "option_3": 0.01
+    },
+    "confidence": 0.66
+  },
+  "b5b95141e5df78bf78e14b7cf0afebfd51cc26b227cbd1b199f6f3c95cc05090": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.94,
+      "option_2": 0.03,
+      "option_3": 0.03
+    },
+    "confidence": 0.91
+  },
+  "765a527a6b03297d4dd70ef3f857dd79ddeba806b3f681be7a209fb9d0ebb593": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.0,
+      "option_3": 0.01
+    },
+    "confidence": 0.98
+  },
+  "e1dd045f6fb89bfcc46b298cf85b1a3cfaa6998abe0e676c4794cd3fb54cb162": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.1,
+      "option_2": 0.88,
+      "option_3": 0.02
+    },
+    "confidence": 0.82
+  },
+  "e4ac50934b0c185242bd5bf7e7f11e34a80f603b1abc657beb3397dece334ade": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.59,
+      "option_2": 0.35,
+      "option_3": 0.06
+    },
+    "confidence": 0.38
+  },
+  "56f8305c1fc733413968d5b7ad38f953944d97c4570c1be616ef921f2c414e5c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.83,
+      "option_2": 0.17
+    },
+    "confidence": 0.66
+  },
+  "b8257c3d3f03ba6a8bc6faf770d01cfefffd8c9234e6a552a791055f16840e55": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "5996349ef1e6bf8530e588ecb0f2d8e8f98ddc26c235c48b16d6e109510c4f24": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.03,
+      "option_3": 0.02
+    },
+    "confidence": 0.92
+  },
+  "213bba4bf7d137f2203682a77a27c2d2732cf5162de34377286c4f5f41702b84": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "03e067cbadcacbd189574a6afd391472505afabbd29dac150856a3ef00ebaf1c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "242d2c21d5fe149ee82cbcb3daf3e7aeed1a5a5c4f5c65bed29bb9fe5b7277f6": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "1e4bda036e62b03d6ffdb15714222989f2c37a1d0dc3aa745d9d0ae4db4afea9": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.88,
+      "option_3": 0.11
+    },
+    "confidence": 0.82
+  },
+  "35b44a32c11a44d3427ea7eb482044cd0544202be6c78dcd11e97de00104002e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.15,
+      "option_2": 0.75,
+      "option_3": 0.1
+    },
+    "confidence": 0.62
+  },
+  "5d8a61e02369b3bbfb5330a304174a503ded3a045dfd9e93ed761074de401302": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a9d26b50f7c848e38fdf068e31eb05bd6d45bb6ac86b6e40a88447baa7c31b4b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b1093cbb05a6e5e980937bd0059998056462791ee5e1b5de7a3bab468161812e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.57,
+      "option_2": 0.43
+    },
+    "confidence": 0.14
+  },
+  "d7b41e8258d0f4f919d8f41dc7cb9567ef5d176ffec3321ef05f648663161de5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.77,
+      "option_2": 0.23
+    },
+    "confidence": 0.54
+  },
+  "2469e50977425444fff176e8739c2d73c44eb747dbd332c701e41c1c511b5570": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.38,
+      "option_2": 0.28,
+      "option_3": 0.34
+    },
+    "confidence": 0.07
+  },
+  "aa8931f1bf55b9bca76f4efd83198cb96b88331e1581f66b24dd74c086ac34c1": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.42,
+      "option_2": 0.52,
+      "option_3": 0.06
+    },
+    "confidence": 0.28
+  },
+  "94b2b25639f38139433e9d9b7d5fedbdd54325536f41361639d62421c7b282c5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9,
+      "option_2": 0.04,
+      "option_3": 0.06
+    },
+    "confidence": 0.85
+  },
+  "9e1c394734e48d5b32b85b8e2c7dd09bc10335db9226860754ff1fb208f18d9c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.01,
+      "option_3": 0.01
+    },
+    "confidence": 0.97
+  },
+  "b083f3f02e4e5992eb12deec67f492aab5afc2c98c13d49076e616bea6819dab": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "dae7afdeca6f288179c4658bda4d03747a2fca3e5792f95ae6692d6a98802a9e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "47a63de0fa0bcc10919052516f42790536bcd7eea28b0512f4f4881d39d8e424": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.89,
+      "option_2": 0.11
+    },
+    "confidence": 0.78
+  },
+  "9a4aa64452cb1b151fa340b5f788d8d06ffae5f5e85dfaa8dafad5bf6fef1e67": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "c99e67457c89f339c621fa9503dfa694f1639fb643f23779c4af324ca1ecddce": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.11,
+      "option_2": 0.03,
+      "option_3": 0.86
+    },
+    "confidence": 0.79
+  },
+  "db8b320bd53fc829a75d75f27886b062f609dae4ed824c2c0ffe07b33b927c78": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.7,
+      "option_2": 0.15,
+      "option_3": 0.15
+    },
+    "confidence": 0.55
+  },
+  "c6d99fc8eff9f1cc58f84f8110aa22a380202bf16962350d93fddf59bc20b063": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "605dae84cd8977bc32f998eedac676ddfde56397b1686e02593d0b025365259d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a16988e4ed79395caf1de867a07f37c06a2484612d385de75796aab7f50cb9c5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.94,
+      "option_2": 0.03,
+      "option_3": 0.03
+    },
+    "confidence": 0.91
+  },
+  "b499051c9dfa18b7643e2fc90c7ba228f4e52b7a8cb22780e5cd9add662bf422": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "77e617a5ff1e8cf9c058495cc8d6418f08a5037fc032adb0bf2148cf892a0bc0": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "c7806616891667696e34136a3a2ad4b19d79c5bee4afbff90ca241e26fd5e0d5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.07,
+      "option_2": 0.93
+    },
+    "confidence": 0.86
+  },
+  "e8470c3ecbe1283902820421e09f02dfcaf9f5dd1cbc5708651e266f20363381": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ff86a1ca4550512f6e5494db3746d12f80bd6e25eab2e0ad87af5920330eccef": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f3f9f3782cb319f38b2c0db8ac5c250d97c3434207fd1bea7ba7c0f4aa019925": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f2f62ab804213b1c77dbf4ef2a5469ced6d50506424a3ceeba1130a5856f6f7a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "58046e35d09f5c402f0fa82934341fd45fa872d6d8ac837a13a8eb1933082f46": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "5c49cf8dd64721f2fa63d4c5ac16be3c2bbe15f6912b8756a48dffad2a2c5d43": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ed0990da3df1965d0d38105f146d2ebce813edc53c6b2143ea6f10cffce735a0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.92,
+      "option_2": 0.01,
+      "option_3": 0.07
+    },
+    "confidence": 0.88
+  },
+  "98b9eddf65300f1a521ffd4c5f978b2f2d7d650bbd0d4b9ee1ac2c6d19b03ce1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.96,
+      "option_2": 0.01,
+      "option_3": 0.03
+    },
+    "confidence": 0.94
+  },
+  "39ff168f047dd4936a1b8beebd536d16d3b0e3b568b3b9aa1471208f3e2e928c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "89854268d150f0b4e1cb74ba833443d62a8c40c4390d617d2179f94cbc1f1136": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b2d25aa94b8a91e69d16a9f7c0eb6c0d5d346080cad6cd28666d0c08cd976440": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "bafa4202c845366bb4275b6ffa9b1fca6cd494031da5c40d5960329ff8e21239": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e45c5cb5d8e43ffc0e0750a4d465b8594cb3e8fb9b9964c52e1db5643a9cc57f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "9326067b98e1390b7b506e3ded1686c64cad25ecfdd9250435f4af99e62a0dea": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.14,
+      "option_2": 0.86
+    },
+    "confidence": 0.72
+  },
+  "3c2509439d6e72c94756876d5349b6f0115a89b7d219e93aa48c95f358af1c5e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.04,
+      "option_2": 0.96
+    },
+    "confidence": 0.92
+  },
+  "a0ec8e909f88dfdef862247efed346b1ae4a2ef85d7b112209442a26ba83e012": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.55,
+      "option_2": 0.45
+    },
+    "confidence": 0.1
+  },
+  "9edaa35c9b5396a9d89123f48b49d075af9f952662431cc806de12bae4cca743": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "a42e90bf4ccc595f7e19be37c8de5f8c270482e4600722f1cbc08497282ca802": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.12,
+      "option_2": 0.87,
+      "option_3": 0.01
+    },
+    "confidence": 0.8
+  },
+  "4be6ce596d0ef47669c3fadad8495d6d019716209adea1591a747df676bd408c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "8ad91efa5d8819f81dfe078a4c8e3cbd400243dd14d237bedb6c33e177a021e9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b4fea6f88ee3081191870fc2b93d651932668ef1a97ce982c9b182816fb417a3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "c0bec50c0cf4a3e4eaf6a84e09c19191026ff8d60b034c3cadf8eddd9ccd69e1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "af9541f6b17f6d2bc3a7ec8cdd94ace39402a054b870686cad91e3477aada85a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.8,
+      "option_2": 0.15,
+      "option_3": 0.05
+    },
+    "confidence": 0.7
+  },
+  "cfa246fdf9a71ed5a30571dae76971737d7476cdbc9601e0ed2419c5e0266e9a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.96,
+      "option_2": 0.03,
+      "option_3": 0.01
+    },
+    "confidence": 0.94
+  },
+  "58188aca323a6fe37b67d6e862a2051630659c0dadce43587f4f6c69d7fbdafc": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "315b726eb5a8ac400505e6538b048c790f3cc0a32792096824c190d84bb32021": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "65b8798af94e532bd33f29b1c907fab74d5136a25fe93e8de3c998079ba800ad": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.07,
+      "option_2": 0.9,
+      "option_3": 0.03
+    },
+    "confidence": 0.85
+  },
+  "508e78a8e245d513d5cd93f806c60505592fe58125b685979b3b87732104a05d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.21,
+      "option_2": 0.77,
+      "option_3": 0.02
+    },
+    "confidence": 0.66
+  },
+  "dafa20647a948000080f2dcd25cc70fd59e5e613301d61dcefb83b1386b06bc5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.91
+    },
+    "confidence": 0.82
+  },
+  "0b0bfc418883982fd3cc9624088eb3382d9ded7d4f93136de16228410a987bac": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.75,
+      "option_2": 0.25
+    },
+    "confidence": 0.5
+  },
+  "6b07539345c70c036039f97243a395ee2bba22c598be6719538647393d88a4ce": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.07
+    },
+    "confidence": 0.86
+  },
+  "93bad680df324d89bb96a76d6d7c1a26bc2f271730c9bc6952071210b68414c3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.93,
+      "option_2": 0.07
+    },
+    "confidence": 0.86
+  },
+  "25af87f7c925ae6a003ea16763aa2a07661fd0a08bc4b25305782bdbbb929378": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "485e4cc4555ac582005527875392cc02e4f0e12fe8df1a5fa70cfd0ef0dce59a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "885a9990a124a18d6ff74a684b415a75955f02535086465b76fadb159fe75539": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.81,
+      "option_2": 0.02,
+      "option_3": 0.16
+    },
+    "confidence": 0.72
+  },
+  "f9cd1e35cf5f486dc587d8d8fd6f27de3236bb279e88511f64df362673bd315d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.01,
+      "option_3": 0.02
+    },
+    "confidence": 0.95
+  },
+  "7c2359cc4b49930a4a6e80d149f12a005a7103578d7ebd93503bf4d7f873cce2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.69,
+      "option_2": 0.23,
+      "option_3": 0.08
+    },
+    "confidence": 0.53
+  },
+  "5f58f4a1ff6c7cf5a0f2d876b1a5154400c299293a1db8a3bc7760d0a0c7e873": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.83,
+      "option_2": 0.13,
+      "option_3": 0.04
+    },
+    "confidence": 0.74
+  },
+  "072930d788079c801e4814269eff13ff525fe95e922466f53dee18479a955636": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.0,
+      "option_3": 0.01
+    },
+    "confidence": 0.98
+  },
+  "97900588b0936f1acc9bde8a5f8ad2eab9f3152778e464ba3529a4726e517a7d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9299999999999999,
+      "option_2": 0.01,
+      "option_3": 0.06
+    },
+    "confidence": 0.89
+  },
+  "2844c656e0ae4fbc50481ac05abeb71d65858105bcd4d57a6f451793489b2be9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a247bff4049b97d68b5fe01089a187076ce502f7ec3a658a045a537fd7885d88": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ef3f30af6675092a029f8b918e03ffe33cd5d0b11178b6a5bc3f5f0230ff68c6": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "8379b57d890e0ce07de3dee206e1d13b39d3f8f8f3378abe480521d544a5e99a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "815bfa78dcc19da95f6134fd42878bd2bb6aa574f7bff5a89e4a3c0de3f4a28b": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.12,
+      "option_2": 0.87,
+      "option_3": 0.01
+    },
+    "confidence": 0.8
+  },
+  "ac38cc5b2c1bc3658a4f248bf5fd687ea32b4220c44238f8281639d30253d663": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.64,
+      "option_2": 0.32,
+      "option_3": 0.04
+    },
+    "confidence": 0.46
+  },
+  "d597e3cdfedf33e3f0955dbc06934b5fe710b849e7d04250841219acac810cec": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "8fa851021f7fab236572e8fb96b7893b23a2996f5610e0c80174b5477cdf41ae": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.13,
+      "option_2": 0.86,
+      "option_3": 0.01
+    },
+    "confidence": 0.79
+  },
+  "ecc7d15288bca2d32310a3c214fcabea26a298340d236b5f1722413e0d29c16e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "584610e7a6ff82860647f039bc34c99374c1683b9ac60018a4a7db323e4a23ba": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "367ce3376d163dc11b5460929c43dcd77930fa1049b8f4d717f797ea17ced278": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.2,
+      "option_2": 0.25,
+      "option_3": 0.55
+    },
+    "confidence": 0.33
+  },
+  "5f02e9c121252628b0aa325ad981df8dbfb9bb23aca297fc67205519bc282cb2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.89,
+      "option_2": 0.07,
+      "option_3": 0.04
+    },
+    "confidence": 0.83
+  },
+  "fd528521a22ede5355df4fa7e2fdf4d84e40ce9a5f507b18a5bfcc2b808d3cb8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "0b74f9742ff307a787c8a8d6ba7851906df7eb43bcd0e6d6679e95a4f69af936": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "94ea4f54bc0786bf72c4a134b7f5e27e1624383ec7193ea8fb19d826853a86bb": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b57d9f41fa01841a59c9d7eddbf3f066ef77da1c9767dd26a0ebce6f584a6051": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "adfe5857f27a69d2e219aebf5999efacd6720fa94ab5f46e205d3a600230c163": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.46,
+      "option_2": 0.51,
+      "option_3": 0.03
+    },
+    "confidence": 0.27
+  },
+  "9ce09bf405abed9e9be70eac307d970fa8a812a261d5d60f534f11c2a6b2bd81": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.8,
+      "option_2": 0.19,
+      "option_3": 0.01
+    },
+    "confidence": 0.7
+  },
+  "1854fa7fa31a00a3d35149547e891077d0582fbe794d332edf0f0b82139c36c2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "714c6dfd16c32080ef88e6ca1cf155d24950a4e6bc00d94a16b2ca201493c3ac": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "94c826544856f59d21514d7ab634b1320589498b5373d78487b441df6f667a8c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "5921819147a4757a0829d0334d841bce70c0b6196ac844fe880d7bc3a0bdb579": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "6926632b6ba8bb719c93b213b9661ccd699f5a8d2ee23e196fd412ac212f33a1": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.42,
+      "option_2": 0.02,
+      "option_3": 0.56
+    },
+    "confidence": 0.34
+  },
+  "8bfd2ee646dc4be1da88e9a202eb866e7a3226238ee48e79d1ca6e9e304c4e29": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.82,
+      "option_2": 0.05,
+      "option_3": 0.13
+    },
+    "confidence": 0.73
+  },
+  "657fdde97dece74694701ad6373138ee8c84b471df81217399091ade7c200bf4": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.43,
+      "option_2": 0.57
+    },
+    "confidence": 0.14
+  },
+  "e8b058ea9010c2f51e968b7c1d7b3e394665479b1238bcc7d744175cb44fedbc": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.74,
+      "option_2": 0.26
+    },
+    "confidence": 0.48
+  },
+  "44dac2b20e2b4284e4637510b7c695795389eea38ef1774b98358dd9ea304a7f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "d53628dd094216c02d8e6b1fefca7070f7ecbc676cef89c5bb3d886054273431": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "c7e57aab71e6efa9084ee1a27072245d57276af31eae7ce6ca1953dd05159db9": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.34,
+      "option_2": 0.25,
+      "option_3": 0.41
+    },
+    "confidence": 0.11
+  },
+  "f8c9bee27410f4051826db72528a67b54da505baec9c9cbda152fcde09ab69db": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.03,
+      "option_3": 0.12
+    },
+    "confidence": 0.77
+  },
+  "c100e3fb5a4df849e6a8afa2887e6b59b8999acdcb0a366bd3bda2f1536cbc7f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.78,
+      "option_2": 0.17,
+      "option_3": 0.05
+    },
+    "confidence": 0.67
+  },
+  "848732e53b2e736e977c5bcfce41b81caac7685d3c7d3dc9dfbe432bf8cf1ae6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "32ecbc5ff0ed25d1b34caf2d058077b7b3da0d224f85029863efddea725e778d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.1,
+      "option_2": 0.85,
+      "option_3": 0.05
+    },
+    "confidence": 0.77
+  },
+  "774e20875ec575a927499ef0896e0980b3b1997cee8697c84d76a92e64736fa8": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.34,
+      "option_2": 0.64,
+      "option_3": 0.02
+    },
+    "confidence": 0.46
+  },
+  "943059e0bb3e1c43d2d4b4b76fa1691b0d67a23f634b3358ccf4fc26cc27f3bc": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "2b9bf3a5b0cc157d29322cb17923fdc39134bb137f19afed89ee2aa546ede772": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "7277e48ca5fa19e50dde8d50c16540f2aea22a64f4bc0561d5ff14eb95d3339d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e10342cb1d60bc0e95a9c217f182986120ed28fbdf11f218f4403355190029a8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f9554da3d355dff1e30eeffeb5d38c54be59b37ad74a9a2ba08c415ff156109c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.73,
+      "option_2": 0.0,
+      "option_3": 0.27
+    },
+    "confidence": 0.59
+  },
+  "cbe2092c06a51c808066fbd94fb5863c2911a4b3bbd26753b656c3c018048ddd": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.0,
+      "option_3": 0.03
+    },
+    "confidence": 0.95
+  },
+  "a494777fbd9d724b40678f0dadef929ffe2f3b2c829fa003d725666c2857d6fa": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.65,
+      "option_2": 0.26,
+      "option_3": 0.09
+    },
+    "confidence": 0.48
+  },
+  "3d17ec4a8223cfe2fbd2f54869efa220e39abde3beff32bc4b4b774ee724d09c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.04,
+      "option_3": 0.01
+    },
+    "confidence": 0.92
+  },
+  "72a23d56c6aa80f6736ff1d428699e654ec8a3fd5db1033add572fee00880f7a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "ef1b22e8e1b524e0f492717c5d8f920c7200f665f24af830e2dfcbd8b8585be7": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.21,
+      "option_2": 0.79
+    },
+    "confidence": 0.58
+  },
+  "dab8f6280dd41fc57865eff7fc6d8d0e0bfdc15ac24e0970ab3058e1d509b2ca": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.12,
+      "option_2": 0.88
+    },
+    "confidence": 0.76
+  },
+  "7d0be621e87b915128327ce9b7765c67c511f7dbe30addf3e814f8028ddc40d8": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.35,
+      "option_2": 0.65
+    },
+    "confidence": 0.3
+  },
+  "8ba81ee6cd7a353b96f887ffd6502089bcfe1ffe2eef6ac888965d59d0baa698": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ed02657693e1f0d672a3de4276b9910999185c99ce9f6e8417a8491572cc4246": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "06e4b9e740a5df68e1ce07ae850801b7a96fc3d699e5a341adcc4ddecc1f8b86": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "2c14b24c8ddb9a19d1cca7bf3c9957bb80c42476c43e6f324b5b4669320fd1bd": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "bee08be43a8ae82d4fcdff94572b72f23512727564f1f70657374540ec1fddf2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ca6b63607fdb7ddba0d19a9420cf3acbf6b7cf72dc0b473f073c68e8289d2a92": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f6188b8c2fa87ba5232e0f412f8cdfda40f280fb29f67493bcdd450b5dc47354": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.17,
+      "option_2": 0.46,
+      "option_3": 0.37
+    },
+    "confidence": 0.19
+  },
+  "6053b944f1aedb08b49e7b11ca4ebef1f530dd08ed5418d1b855760efc1aa50a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.11,
+      "option_3": 0.04
+    },
+    "confidence": 0.77
+  },
+  "76ab6e9ea6b73ff6e8a41396c9a5f102a36ff739348be412ea8cdd4abefafe4c": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 0.08,
+      "option_3": 0.92
+    },
+    "confidence": 0.88
+  },
+  "e6e3255bcbc0849f9b92ecb544ed7029b99250b5323c1a68232a52948197a49f": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.19,
+      "option_2": 0.21,
+      "option_3": 0.6
+    },
+    "confidence": 0.4
+  },
+  "3a841990dfa4a8204913b63dc47d5ae208694040b1cf1f3e1da174e48d8b2986": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "6045d1e395499e33a505bc0cdc92a2a95af973ec942d91e1dc8357d17bc38a73": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "d8e2881ac97849d333a9229937672426f492b3a3988dc3c11546d4d48169ab42": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ba3e1c505f91186ed911da66893e799e246a5a0b3dc08619f0668b4523868acf": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e93c6e37a0cde092ac9583f8d0c840a94a0d802c50346a3a2df88aa32021c3ef": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "f9a4890cb2875d7efd25feb3449e9d868e1086a115796fadc1ba156277bacbbf": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.12,
+      "option_2": 0.87,
+      "option_3": 0.01
+    },
+    "confidence": 0.8
+  },
+  "8f38024e2f4adabe7c45fa759e84ba55393fbdcb014fd31e23f3fbe0336375e2": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.97,
+      "option_3": 0.01
+    },
+    "confidence": 0.95
+  },
+  "3654ee058fadcdb978cd1f834c28f5014f7850a0a6f4edefe755c8345b47db0c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.19,
+      "option_2": 0.8,
+      "option_3": 0.01
+    },
+    "confidence": 0.7
+  },
+  "8bc1cf613742c48f07a854d64dc32a0511809d10c112d7b63f46f36762b0205e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4d501db15cd2a38b4e5d633ea0bf4c7e987c3450cfefbaefebea4caa86c3f7f9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "bbc10932fb345166eb03867bfaa9e40e7bd93e185b3576d9c59f765cff51e3bd": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "ae856ecefd78c85709e4309ed610ced8d91e9ba685b4cd24422295ba87b8d722": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "33c341e0c1d0b58a6615c2e5c0d8dea4a1579398a9b0e8ecd54b1898e6072c99": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.74,
+      "option_2": 0.12,
+      "option_3": 0.14
+    },
+    "confidence": 0.61
+  },
+  "5c49a9638c22b99acae83ac8dd1f3f0c849f922fbd039305fea5a44c17c3bee1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.01,
+      "option_3": 0.01
+    },
+    "confidence": 0.97
+  },
+  "6a3819312e72b20b942d54217852c43a4f09db9a51e90e98730682f2d6d7cc2a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.08,
+      "option_2": 0.92
+    },
+    "confidence": 0.84
+  },
+  "d33458c26023930088288e621182e48f87da35015a9a801ac866aa4b3f9ff65f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.29,
+      "option_2": 0.71
+    },
+    "confidence": 0.42
+  },
+  "1cf35a38efa4f249514e03f448b2cc54a2f2c866effd8e46a683ecfd9da5e65c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "34f165b10ce3a20f9e8bfba8047297240e5590633a6557935b6f7a3b3d9229c5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "5a13ee0c63c84b99a0a0f4f103702186d60d1b61ee43b474066ea879177b0010": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "498307959d68b41dc74915721a718d5b70cc61bb51a71da4f24ee9f83e7c8ecc": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f469d5d2709374977d92e1c206504d1cfa40ab542a3cf4f661b25c24bcd74d73": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.67,
+      "option_2": 0.33
+    },
+    "confidence": 0.34
+  },
+  "89c5ba4c16a3b38fdc2378873ed552c7701ad4029331c687606d5b32c614b07c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.62,
+      "option_2": 0.38
+    },
+    "confidence": 0.24
+  },
+  "f5970cbd7918e90153d3c09daba577b0ab6261192e13a4c0e208373c3793048f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "85a02861ba1ac74177e6927cdfc99e3e2a50eb0741e04940b363224019c000d9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "07c0e96919103164d246e2cf190b35a58a8126f2d663e3384f7f3c74932953db": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.21,
+      "option_2": 0.0,
+      "option_3": 0.79
+    },
+    "confidence": 0.69
+  },
+  "51b80f13ddf494afdcea27dd6b058a6915d032c17f531dc1464e204451a7d05e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.84,
+      "option_2": 0.0,
+      "option_3": 0.16
+    },
+    "confidence": 0.76
+  },
+  "8752bc963a51cdb1b990f31ca6857ac6402a4824c9731dcf67929343d32ea56d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "7b95cb642c015c381907d3cb2ed2ce60c09a3db78789be31ded683a73a676ad4": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "6fa9c46bb88ead847240361906b0f631b761ea2c2692a95eb2d87393dc30d26e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f2fb35c4dbd57273b500c97702e9bee70e3f65fcee8770508c1810f483aca661": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.15,
+      "option_2": 0.85
+    },
+    "confidence": 0.7
+  },
+  "e74a12ff04fc8f7bb384a0258b177b239d7a8542d579c80e94ae1c89c8780c76": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.58,
+      "option_2": 0.1,
+      "option_3": 0.32
+    },
+    "confidence": 0.37
+  },
+  "5403aea4b131219039043de80ef3a66aeb123d335638dbdc3ffb5421a65d262b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.75,
+      "option_2": 0.16,
+      "option_3": 0.09
+    },
+    "confidence": 0.62
+  },
+  "4ed06c5b0da9891a1c42315ac031b6c7b5129bcf78dce8ba80c168e0c3401b60": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.47,
+      "option_2": 0.49,
+      "option_3": 0.04
+    },
+    "confidence": 0.23
+  },
+  "f6a61f9ebddeaf888a70a8f8b41fcde767414f912c8de5b0ad8cee244f903521": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.88,
+      "option_2": 0.11,
+      "option_3": 0.01
+    },
+    "confidence": 0.82
+  },
+  "008338d3afa2c3f306e758fe1d56e7c0144ad879382dda5d6cb7131e6d528b44": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9,
+      "option_2": 0.05,
+      "option_3": 0.05
+    },
+    "confidence": 0.85
+  },
+  "430e11e9e3accc5264610097e426f3ff837c42e49edd67344597c455f4a37fdc": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "ad3dac3d744d1877f54c5d28c5a0d006d5862c719b006cf42abcd46123fe4e2e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "9021f37d39becb580fe5930880fcfba2cfbfc6b8f3772e5b81f73fc16402ea85": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "16aa52677a619312afc720993c89a5829d69148adbbe24f0b738286ec8835bb5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.02,
+      "option_3": 0.01
+    },
+    "confidence": 0.95
+  },
+  "5909bc9d607a823162ec836d9aa502a4faa4962f5cc2908b6c932ffeab02983a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "2ed48855148a70cf64ed0d98bafd59d0129be018660dd4327710114a8c7b108d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9400000000000001,
+      "option_2": 0.06,
+      "option_3": 0.0
+    },
+    "confidence": 0.91
+  },
+  "9f5ecfd3b2bf33440f6ae357ab278962a81677654a0ef070bdf26fe5ad98b584": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "9927f3efbe69ca094696404b57cb70a1deeff7e74294973e6110b164f9a87c59": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.21,
+      "option_2": 0.76,
+      "option_3": 0.03
+    },
+    "confidence": 0.64
+  },
+  "0c88b340fb0994ea00d4269a4e253300d537316609fce8531e750139f89b79e5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.87,
+      "option_2": 0.12,
+      "option_3": 0.01
+    },
+    "confidence": 0.8
+  },
+  "8b6dcc908c997926f8c269103e90e38c6e4b457f33496a6079bd5dedaacfe54a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.72,
+      "option_2": 0.23,
+      "option_3": 0.05
+    },
+    "confidence": 0.58
+  },
+  "1b63276ddd8457a9794f9969fef44479a06190d741eb2e4493f90eebbc56368e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.5,
+      "option_2": 0.49,
+      "option_3": 0.01
+    },
+    "confidence": 0.25
+  },
+  "de62ba6a678ba75869d6ff4a62322d453245e51eb05fc1bb41efde47218c9cd3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.54,
+      "option_2": 0.38,
+      "option_3": 0.08
+    },
+    "confidence": 0.31
+  },
+  "d15613569cf22208123c432c1680867a8208c93a3014151d22988c8349d21ab7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9,
+      "option_2": 0.09,
+      "option_3": 0.01
+    },
+    "confidence": 0.85
+  },
+  "96c6367befcf177b68676fd78e52467f97bc5ecc64ae8c1bd3ae4b93869e754f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "5c8d088b5a8f1920dd6bb27dff3c1eff73b53b0bdff85c06a1d556135eb1ea65": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "0f2bb59cf7c746179303d824f6910357519eb33af5e571f4f47aa8aa9c0d6621": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.67,
+      "option_2": 0.33
+    },
+    "confidence": 0.34
+  },
+  "79626f358c333e1abc43489e3cfbe632192dc2208d68e1c1fcbdd18452916521": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.75,
+      "option_2": 0.25
+    },
+    "confidence": 0.5
+  },
+  "22112d0ab7e4ebdf54fbe0f1a49c0e713ae30659e5820a11366faac6379df3a2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "dff2053276623bd6c63ebfbe491bf565e83083ba4946aa927fefe749b307e1f3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "89a92d8757a903ab1e8560c30b0f1412de517a4856d65b4e5882533801dda6af": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.87,
+      "option_2": 0.13
+    },
+    "confidence": 0.74
+  },
+  "0371b24cb67f189b3e70dace9bc97fad06078fba1256685cb02cae4aa767acb2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.89,
+      "option_2": 0.11
+    },
+    "confidence": 0.78
+  },
+  "91dbbf863a04900052dae49bb16bff071e73f03472a98cdc53999766555dee7a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "1737d1b84667f5c16409c1c575f541a080577acba9bdf2bcbba3f22703caa8d3": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.45,
+      "option_2": 0.55
+    },
+    "confidence": 0.1
+  },
+  "b4ab81b7b6dacc03152a2c3d69c7673f1dea1ee76981162e414ebf889f460a52": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "1c9465b9e12e335e40fedd8c77d04b46e03fd5cb1378716534a32d2f6a5b8e34": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "ba05f64a93b5ca0f897e83309c8eba083f4d1eec1ff3157300f8a337f0b2a261": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02,
+      "option_3": 0.0
+    },
+    "confidence": 0.97
+  },
+  "c3a0a7d9061a05095335ba4b95185197bc5b6b169504e0c92dc6837b3a86fd7c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "d90b09a4f8513c78f1b35b9f9ff9c8aa4971ed1f0be1c273c289a3446dfd0144": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.51,
+      "option_2": 0.08,
+      "option_3": 0.41
+    },
+    "confidence": 0.27
+  },
+  "19c5d44e89bb9f335ee1c7091434ac2f16d84f5d8b406ed1adf74577acfe88a7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.74,
+      "option_2": 0.17,
+      "option_3": 0.09
+    },
+    "confidence": 0.61
+  },
+  "226a71b6211dfbbc3c8ddc7342493e58455fb4413f49142b2c8d0c701a0c7921": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ae69b99359ebeb32b8a71654fff98178f96615bb8e4b876da4de5b1e8185d218": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f33d818fd36fce0a95a1c09b3e490f2bcc1624e74c18d2899883736c42f7bc64": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "524ac6e962f5a3990f350491fe55104c7d77e6ce6a20661d0e83e368bb4338af": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "310df35cfebe0df836b13067538672583d6f6c623c458728413a5edf01685664": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.86,
+      "option_2": 0.14
+    },
+    "confidence": 0.72
+  },
+  "fc079eb9e344e532c6f4ee2041463cd196ecb98cdcabf066a183333c03072a2b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.92,
+      "option_2": 0.08
+    },
+    "confidence": 0.84
+  },
+  "d0346f645d4e3dc9b038af6284651a6dcf0794d9640c45d3253c0fd6133355da": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "8eff05e42b0cc1e22177755e46ab0c0a9da39abba82cd2998b8269bbce10b7d3": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.46,
+      "option_2": 0.54
+    },
+    "confidence": 0.08
+  },
+  "131b8bd4c29a95d9b9fde2652bf0bed401a8209bf76216172cfaa9866c041f0e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.63,
+      "option_2": 0.22,
+      "option_3": 0.15
+    },
+    "confidence": 0.45
+  },
+  "a86cb9fcb05c038f7b92cc1be97f52ecaaf05e93a0a0da16d7e96ecfee4cef18": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.04,
+      "option_3": 0.01
+    },
+    "confidence": 0.92
+  },
+  "02b8327e2a8cb9bbd39617bba48dc944defc1c65c9098fc70d33a39d1fc3f834": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "3fe3fa5824e00242944df252f66c77a9acb2e906044c4c9a2963bca598b1dc1d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ebf4e1184d7c4dbc3260d5d938440f6c74760bb53691bf6aa4adbb6ae2ed99aa": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02,
+      "option_3": 0.0
+    },
+    "confidence": 0.97
+  },
+  "ec808ef02cb9a582aaccf77c4ef12c14cae52e571d6d51802907b839236d96a9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "1ef1d2de31cb2f3c5a538222903623b3497d7b1b03cf6ef5c562876923eedebf": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.08,
+      "option_2": 0.92
+    },
+    "confidence": 0.84
+  },
+  "ac81296ebcc605ef3ecf6e230a8997ad800f46044d63aaa13ae937b1d6b8a480": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.39,
+      "option_2": 0.61
+    },
+    "confidence": 0.22
+  },
+  "6df5f4cc570690145f80932144d36c4014a28322d8579b2b5a5be999fd896e69": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "934f58bb9255f975237df78c00ebf45052d5df3cc3bec52bb9e4cc05b4d1ea57": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "07a35148d418d35e85251247a0b6b19f83bbf685d054b114dc4cfb6ee05d9e82": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e7f615fc155317686b31900a03b011e00ebae56eb3b0a15a3a22c7dcfb7baf1e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.04,
+      "option_2": 0.96
+    },
+    "confidence": 0.92
+  },
+  "2ece4c16218f1558c5d983b576157e494d8e764598b90daaca13c17b6d74616e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "16a27c0358dc1c581783e4a9b6b259b06e8172b55cb3c8a765554c58505468da": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "b46fc182014c6f4ab4fac33befa967636616dc558f7fab5202b512953ad14272": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.81,
+      "option_2": 0.19
+    },
+    "confidence": 0.62
+  },
+  "6efd56c9f1b48d9cc4a368540b38fae452313842e00be7e48c7f150b01dd988a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.05
+    },
+    "confidence": 0.9
+  },
+  "8144888c73d384c00b2cc5bc8fff78fc5ba28d32c4d7dcafcd5b71a6fbb156a6": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "35872992bd37c52ef72827f6f48e0cc8bbee3214726294fa2cd2d63b7cbfc591": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.19,
+      "option_2": 0.81,
+      "option_3": 0.0
+    },
+    "confidence": 0.72
+  },
+  "52f35f09605c5c9afb5a989f861a01a19b5ade8356fbd1bde10e5deee092b5f5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "22ebf57ee275d55d864bb8dd2212128fb990f1d712e4a22f8506fc8cf421ac7e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "db68d30a450dd1a73d9f36b15cfbc609084bcfd05dfb8d259dec7d9faf80c887": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4f0f12d88f87e42f986ae6601306e5f92cc23ac647b895de7a649d3e7d161122": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "8e8ad5345847231c0b1bfd65a07a88e581ce05393568898999249bcf0c7d4e6c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4a9c161a7ee481f31ebbdd622a15559f979b85a34e8bb95d9efd7f160813d5e7": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "7d572288ec60c059ffe1acce2be96d7be77487e6dc4cb1bd1ae3fb1c6bb21b9c": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "f151470ff35da70d1e626068fe1e5005de14a48dbbd24b89dceb62855dca607b": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.15,
+      "option_2": 0.85
+    },
+    "confidence": 0.7
+  },
+  "a6cb51f05d692fa47197c2ba4767c4b5275965ff0dbae4102de4fef0d7e84e07": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.06,
+      "option_2": 0.94
+    },
+    "confidence": 0.88
+  },
+  "2f039b4c474e2ae7ada5754e8e46a15e3aaa8ed2b618fa5cc8b455e07262d131": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.36,
+      "option_2": 0.64
+    },
+    "confidence": 0.28
+  },
+  "6659ca573226225e4648296482983c8b9323224187b7e56a2d51200e5f8da38e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "370d5e40448b4837c83da0d55404337efb7d06646569a3114089d2a5e0412321": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.04,
+      "option_2": 0.96
+    },
+    "confidence": 0.92
+  },
+  "88f14fcf04ed49f3c02b5e060fbbc0d51861c389ba6fba5dfa206024c6a05421": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "dc03cfbf1b5ea06d44dfcaa6991d0e5cf25301ce842aa560cf4c8048eff48d47": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.05,
+      "option_2": 0.95
+    },
+    "confidence": 0.9
+  },
+  "473fbfa4fa169c0ed09dab191bd4121a40033af36f2d0c864092e94d7ac44825": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "f4c49652f6109de35300f9a14b1ec85136bd00356a6620912b70192544a96bcd": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "fde7e7d9c8bfd5390d0ba1c98d9ddfda8b4d23bf5ebbafb79f75444e8e3784eb": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "e007d9996e0a8197d1a7dc65605442528e713ff8ce8684b2eca104f90a05cb15": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "4c76e56e5efcd95b44d7349e88744af8697e29d1bcb7f61b0fa118feac65e10d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "6dbb6630b83f1ee075c87aedf075ddc02ee46a930e6e6c23eb119367bd4665a3": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99
+    },
+    "confidence": 0.98
+  },
+  "87fb1a26158aac989b20bc2d4fdd70975b0fd7d4b96446ebeb398bf6b196dcb6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.84,
+      "option_2": 0.02,
+      "option_3": 0.14
+    },
+    "confidence": 0.76
+  },
+  "1975a536353fd9380a5573c7a78718193e871231482eb80716c638ed7e4dbc75": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.0,
+      "option_3": 0.02
+    },
+    "confidence": 0.97
+  },
+  "faa36d494bbcb4ee2421bad5afbb7b55f62349bebddb0f66bdffc9a595cb5f30": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.06,
+      "option_2": 0.12,
+      "option_3": 0.82
+    },
+    "confidence": 0.73
+  },
+  "bd6827653e00dc41a0720721bb6876712a7c0d7a35640398d9a22a77f4d86bb1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.61,
+      "option_2": 0.29,
+      "option_3": 0.1
+    },
+    "confidence": 0.41
+  },
+  "9ba70e30c111dc54963e7afb658c87fc1f837413f7c29a71132f2ddd20f4ff40": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b3cb1623667dacd401a1db0661da8997fda3773c1b3da60472dce38481e532ab": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "40bbd193a332bcda7ef91aeada2e608494c6db8266ee8b36c5ab525fc5366a96": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a80a2d224b4e7e29e3535ae595abc36ee2530a8f06c6fbf332c2fb0acb3a798a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "47fb60465fe80b860f151c978e50a655afa1814c006268c145299b740ea846fd": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "e8c53113f501d849c9fc065fe22bc03c2d49c250867133ad905740e54e346880": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.18,
+      "option_2": 0.8099999999999999,
+      "option_3": 0.01
+    },
+    "confidence": 0.71
+  },
+  "e28b87f41ed294120add7bd36b1599927c82b69a84e7458b96f5dc462e9312f6": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "25cbebe155c1f1a3fb0b85cc6cd1f64795be35fc9ab4096d18b33991bcecf723": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "1b8e0b7ccd1ea315376936677904849f93c49ce02e5734b9e7ae990a89658b25": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.62,
+      "option_2": 0.22,
+      "option_3": 0.16
+    },
+    "confidence": 0.43
+  },
+  "36d8e0c0d95f1d41cdf96b81e52e1c03a6e37ab360d1cd6e05ccdf8c0ced4c2c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9,
+      "option_2": 0.06,
+      "option_3": 0.04
+    },
+    "confidence": 0.85
+  },
+  "8cf5277ce386ff51c8c91234c6235e745a39eff9ce895f5f935b422e0c0c6166": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.84,
+      "option_2": 0.11,
+      "option_3": 0.05
+    },
+    "confidence": 0.76
+  },
+  "f18b90a256cd196643a5798945fb8d514d8d2a98ef1b0e71ea2abddaeba292c1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.02,
+      "option_3": 0.01
+    },
+    "confidence": 0.95
+  },
+  "7bcdb169cef0f47d3ad766e8388966b8fea2f7a78ef88e9df2d31c7d77a79d26": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "174bd678b538c5e87e7f86774760eb0c9b91398862314c77f930f3e1bfb62e15": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a5ce061c26bde207e01efddf1ae75c5f489fff81994dfc1fffeaeaef132aa47c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "4b93aa779c1c8c9aed368964bf15873866aff7998883fc34886349e2bfb57d6e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "0292ea75637989e57958701e22cf5edaea6f1df18720f8b7a4e03dc226d834e8": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "7eb4d62e16404d0b44f7a76be1604b0752d59f73df7cdd52573df306a9e94864": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.12,
+      "option_2": 0.88
+    },
+    "confidence": 0.76
+  },
+  "5c798a484118d97410885d06fff87df36e47c538c883db316d3682ef014efc2b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.05
+    },
+    "confidence": 0.9
+  },
+  "9d3ae8db1aac7e8e7d89f624f3833afe0260731460f1d8dd0cf7c3db93c50c33": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "e154bca93cc7610d30fcdf49155efaa770dd0ee7ff6bb6b6b91db13a76a244b0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.94,
+      "option_2": 0.06
+    },
+    "confidence": 0.88
+  },
+  "6861337865bc4adeb3fa906b4e7c286ee18f855b1468256905976585c05395ae": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.9,
+      "option_2": 0.1
+    },
+    "confidence": 0.8
+  },
+  "45f0f6e6bb363bcdabf6c62b67f5202a0c27b48896d04d0453b722e56562321e": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.1,
+      "option_3": 0.05
+    },
+    "confidence": 0.77
+  },
+  "75997c6507b54a4c2782a5912aa1d43d3232020ec2a5b13879f0b165b4f3e0b8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "b77a33c63d85c04c18edddbac159fa21d66051aea5c6acab57675e942b88539a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.0,
+      "option_3": 0.02
+    },
+    "confidence": 0.97
+  },
+  "4e03073ed1ce8cb3cfb8391ad1d9c98f9a85ab3271acb537a21687ca747a1014": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.0,
+      "option_3": 0.03
+    },
+    "confidence": 0.95
+  },
+  "36646c2928bd4af65fb8226957c074e2da2ad4499502d6f6855f64d3411bb9f5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.92,
+      "option_2": 0.07,
+      "option_3": 0.01
+    },
+    "confidence": 0.88
+  },
+  "87a2ff890ed71c061189abd0a62cd855271b80fac9558ffd00431d8f1c1adfa6": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.95,
+      "option_2": 0.02,
+      "option_3": 0.03
+    },
+    "confidence": 0.92
+  },
+  "863fbb80b9a29b101bdf9f7c1336d2592a00d786a1acd29a1b5423325eb90783": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "84e10c14e53094dbf1bb8c5ccc2b8eda7637a8656fd6c85748865feafa709a68": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "80a636fcf38e59636713c23396bd6b1f04fa6202922c410c94411348c84110f5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.14,
+      "option_2": 0.85,
+      "option_3": 0.01
+    },
+    "confidence": 0.77
+  },
+  "650bed2fb982aa051e628696275766cea506a4c18b9562818d72fa3ba179f172": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.15,
+      "option_3": 0.0
+    },
+    "confidence": 0.77
+  },
+  "9014f3fb365f471932715a181321d49d6a4d5d84adda1b328c63b9f10f784477": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.06,
+      "option_2": 0.94
+    },
+    "confidence": 0.88
+  },
+  "8868bc2d568e8e540c9beb2296e0c8f7f120cd356f61fca41fe638fd75faf5fa": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.35,
+      "option_2": 0.65
+    },
+    "confidence": 0.3
+  },
+  "09bdb7a37314e661749983743b80c76e42edfdddd43be20068a1b3e8d0b1beec": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "54607f777134de7bdd6232a73dc8a21bf97850d421e6df028b023bce2e204c0c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "37c2a4c379afa97a34fee1794bc20f7c5383e9fedfa973f0b73f10f7f959096f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.04,
+      "option_2": 0.96
+    },
+    "confidence": 0.92
+  },
+  "413900fb26cea6041f75f18d38f4c0c341a273fcea7b768ded06eb7faa32b65d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.33,
+      "option_2": 0.67
+    },
+    "confidence": 0.34
+  },
+  "379bfd11ba2aec38781e1f0de1de77d9f7621f72f3f86d0833e375f4371d2198": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "0bc942978cd2d29fcfad67eceaf267b3d65919d114b8f374dfef61ff5338938f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "c7852c922463c89a4848d584f556becd7c4342a05c367bb090aeeccad1ee7543": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "d451fcd6132e040e709a14311d55aecaa688255ae829cbd6296f015c94d1ca50": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0
+    },
+    "confidence": 1.0
+  },
+  "c8a68e43921c1adc53d3cfe0f5abe1a647ef996252ce1184a1a1458dee131908": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.13,
+      "option_2": 0.87
+    },
+    "confidence": 0.74
+  },
+  "b2f95246addaa62a5f28f2e22cdd9e12da52cfbe0277f9a909501743ae237f1a": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.39,
+      "option_2": 0.61
+    },
+    "confidence": 0.22
+  },
+  "6b1d34df513487bc457b27046343a12fcf32ae6ad0df0a8aab7012d26995d53d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "239ebfdaae66b49a9dca561c4b578362e8f8eaccae815ed483b26e1d708cde6d": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "d8c50345fb60452227c2a5291ae315bf477de3fec3a766355c51770748a5812c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "e13b84bef249ccc67935d65d577da643a7257d320dd42d3bedabd920d808ea1f": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "35360cf878f3eae7ed61d550d82b6d0726beb73be28c4242a5dccd5e58a04d91": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "ecb7b16aac6fde2d82d7708f0868975548e5972512d885552b50e3cc602e3646": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "1c380214122333d0ae6270f630da758a0d5a0d824c6d4f8a68463f78bd87416f": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.08,
+      "option_2": 0.88,
+      "option_3": 0.04
+    },
+    "confidence": 0.82
+  },
+  "561fef1409fad15ec41b6f2394053eaee999730e26d5830f31d10c838d3f2d56": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.28,
+      "option_2": 0.71,
+      "option_3": 0.01
+    },
+    "confidence": 0.56
+  },
+  "6d6db8dc667f323e00828bd71fcfdc255e27ac58d37c95b9bab3e82f9cb06d71": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "6dd7cac3d5bcc0996258f7fa818d078b72217c7662fe57ff4d5c7df828716438": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "952a398587e9178c58642492f710b81367ce0932716bc558c362dfc52e187376": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.25,
+      "option_2": 0.71,
+      "option_3": 0.04
+    },
+    "confidence": 0.56
+  },
+  "6bcb43c238a223dd71ffef40b95b1cc5ad44a48f753f30fe9769e518f1f3cf9a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.89,
+      "option_2": 0.1,
+      "option_3": 0.01
+    },
+    "confidence": 0.83
+  },
+  "93d3512e681b35f1f6af6a5a577f99fba419891750534be4c98925c835859c70": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.0,
+      "option_3": 0.01
+    },
+    "confidence": 0.98
+  },
+  "dc3803e9b47c8c7b8191098366f06eea271fdb515e0554eaef85b693f28e5920": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0,
+      "option_2": 0.0,
+      "option_3": 0.0
+    },
+    "confidence": 1.0
+  },
+  "067832837ddc0208fa5253c27591ae8d146c336e17322ad1fe852d710bfd2c34": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.37,
+      "option_2": 0.3,
+      "option_3": 0.33
+    },
+    "confidence": 0.06
+  },
+  "97c82a9e66f371b1edf87b7615e7092a1fbcc06c7228963b1359a22887a25aa9": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.46,
+      "option_2": 0.47,
+      "option_3": 0.07
+    },
+    "confidence": 0.2
+  },
+  "ed8cdc2fd4dd4d5c4c53af67149b226169848da6b2138078a6f1fccdc4958bd4": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.01,
+      "option_2": 0.99,
+      "option_3": 0.0
+    },
+    "confidence": 0.98
+  },
+  "25eb1d5c643e4d001b00c3b8aadb42df6ec1d3b30618ed46156f1a5cec60dc40": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.16,
+      "option_2": 0.83,
+      "option_3": 0.01
+    },
+    "confidence": 0.74
+  },
+  "d04b7ff13d669927f711d97a456186c04c05b657b85335bdcaa05a997e0a832c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.88,
+      "option_2": 0.12
+    },
+    "confidence": 0.76
+  },
+  "e5e84f9e93588adf00371f65abd617a7e5b7879669c6754ab5307f55bafd1b52": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.02
+    },
+    "confidence": 0.96
+  },
+  "c1a89f34c9001c00b73e1e61e457da1b0499205cb6c9d7cdd4daed6af07b2f04": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.96,
+      "option_2": 0.02,
+      "option_3": 0.02
+    },
+    "confidence": 0.94
+  },
+  "cdb6e867a725af8d088cc632127d5dccce5d9b68aa58fc0790571224823502f1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.0,
+      "option_3": 0.01
+    },
+    "confidence": 0.98
+  },
+  "32aacca6f57f9000c4c8d6ad562620aa461a8b80d57889702b656dfbe08a72a3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "b23d108d71567129f6b34e39bc47fe25d0e7d73641f3bdef6dffa2722905f40c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ed6604822cb47b398b7998c4472d2d04cafc23022e279c9d0f5ae0e49a0d67a3": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "ad0617808c5e6622270fea70605aac10f979c19fbf9ff9d724c751c2299fb3e1": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "30684d1aff84a6fc5a02845a44389f17f7191359ac380f75b9ef39d108040322": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.4,
+      "option_2": 0.6
+    },
+    "confidence": 0.2
+  },
+  "52bbbd52ad1593ccd48dd5f5ca2f1684bba9bbc201a6228576b5d9630b89911a": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.82,
+      "option_2": 0.18
+    },
+    "confidence": 0.64
+  },
+  "9362731f826d9a12073ecda63f7649ba7b1ac35cdc9f940d1459c0bbbe302ae4": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.87,
+      "option_2": 0.09,
+      "option_3": 0.04
+    },
+    "confidence": 0.8
+  },
+  "12481ee22d17937054815479dba52ebe2b725b2acebc6bfffeeea39c114e64b9": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.01,
+      "option_3": 0.01
+    },
+    "confidence": 0.97
+  },
+  "9596921f0b3d13e33c50d926ba04697661a367c7f287f24e33ed1be7000bca69": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.82,
+      "option_2": 0.18
+    },
+    "confidence": 0.64
+  },
+  "9f7d8604586fed0b963ce427ee821d1100285df650ba59da3fbb37246273f701": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.99,
+      "option_2": 0.01
+    },
+    "confidence": 0.98
+  },
+  "92a143f7602a102ec1729017504ee3e300e57e27adc2a04e63afacd27c90c3c4": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "faf86ebd7bb643d732b832cc0375e918a106aa259917b9a850d81dcc502a90d8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "cb404fd3708d846bd2c0c7810fa4b8d6e04768030fe2db7896d93cba5b06e019": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "1b0a0b0ba84daae86116063dbfeeb1ae3a664f860210b3f3ecc900182bd820a0": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "2e205921570e1c9228e07cc33e2a637918b0ef7ea75dd8c00081e27d7af2dd77": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.53,
+      "option_2": 0.47
+    },
+    "confidence": 0.06
+  },
+  "d6d83f2924cf25302e3a19510c25fc0c015e8b661f6ea3ae39a645fe6246e164": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.85,
+      "option_2": 0.15
+    },
+    "confidence": 0.7
+  },
+  "e7e9f0c75b93c7805de798b27586290cb336a6c6ed0f887dd9ab0fa9d83943d7": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "56f51847dc67bfd68a84adbb1d350f9d131afa9faea4d4a96736b4e22b76460e": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.2,
+      "option_2": 0.8
+    },
+    "confidence": 0.6
+  },
+  "697ad6b1c33eb620e4f888b23582a681693cd781b436f9dfddd09a0b835d001c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "292fdb43cc7e024528341548b7f23d065187f0b653424763d025297af94b3376": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "0eadd62ce9f9063cb6728ddb672bd413da1ac902bec0bf183e54f10b8ae0dfc8": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.81,
+      "option_2": 0.01,
+      "option_3": 0.18
+    },
+    "confidence": 0.72
+  },
+  "1306c0d437395987809bc35e2700938116ead8e6dda6505523efbd153f676fd5": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.01,
+      "option_3": 0.02
+    },
+    "confidence": 0.95
+  },
+  "2e4496a2af2a4bf9fa108f652209c78c8b2c5681505ee9e1bbf0d498a28fe743": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.02,
+      "option_2": 0.98
+    },
+    "confidence": 0.96
+  },
+  "ff5ab1509e5fe1b5dc8a184fa698c87745db85b4f64b9e6a665dd9d95f49acf3": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.11,
+      "option_2": 0.89
+    },
+    "confidence": 0.78
+  },
+  "cd8d3d72b3f2773b52ccf43a7ab27ae8ff44361789308cd93713877ede227695": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.94,
+      "option_2": 0.06
+    },
+    "confidence": 0.88
+  },
+  "44ad2aa057c130c8559f70fb2cdb0eed4a7477032e5961fbd3da73d2c9476be2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.97,
+      "option_2": 0.03
+    },
+    "confidence": 0.94
+  },
+  "69d265d1fdae4c14787e3f444b776870e63a8aef1bee9ce1cc3f2d3721118e8d": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "d26f04c13ac7db405d0123b40141a86b01486328dfbc3c009d7664db1e10d9f5": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "47e5d244d964db8f42a50cf3567b637befabf041b1e82145b24db05b8ff18e20": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.78,
+      "option_2": 0.08,
+      "option_3": 0.14
+    },
+    "confidence": 0.67
+  },
+  "931604367b750084abc796cff1190e0edd1d5b4480ec86d402380015b93e2775": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 0.98,
+      "option_2": 0.01,
+      "option_3": 0.01
+    },
+    "confidence": 0.97
+  },
+  "fdce08b20498edf90ec7e295d831febb8a4cbcf02d9eaeaaea60ad781e5527c3": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "3bafc4931aa3e74b90110c36416377eda1fca72de772ee9aa327aaf22925b311": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.09,
+      "option_2": 0.91
+    },
+    "confidence": 0.82
+  },
+  "f9106780c22cc9f4d3edd0a0561c8f86a7d274c07d8123de6f8daafd07ab2e43": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.06,
+      "option_2": 0.94
+    },
+    "confidence": 0.88
+  },
+  "7e3b5d82429cdb89ec9816ad0592a4dc15ada38ee074e7bbb41144fb2b45accf": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.24,
+      "option_2": 0.76
+    },
+    "confidence": 0.52
+  },
+  "b096a7c347f82ee6cd8a0d50456602e6cf919b84f2e5c4263b0c6fb66be97153": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "294371c66988727a9b9c951b9789c67b53f482d5c6449461cde4e2307d11e69b": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "bd18770eaa2a6de59176e1ed2b7b99587ca0a147f501c69dc1a3228ac2a1c41f": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.15,
+      "option_2": 0.39,
+      "option_3": 0.45999999999999996
+    },
+    "confidence": 0.19
+  },
+  "c16b6426604a4f53eea0b30e8247fb40752f65f195717e2958f18477aa8d425b": {
+    "choice": "option_3",
+    "probabilities": {
+      "option_1": 0.16,
+      "option_2": 0.16,
+      "option_3": 0.68
+    },
+    "confidence": 0.52
+  },
+  "762ed9ae7cacb22472c3aa128f680ff3508b71df9223a6c3cbd6c1124666ab65": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "a61b618a5fd4d6e0f1ac23201e201aad84b3442a872765b5cb87d92c1303604c": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "3f76b67c42220205282f9988d531734bf6c9d18dacef3fd62fa68db399286925": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.0,
+      "option_2": 1.0
+    },
+    "confidence": 1.0
+  },
+  "19a8f7737dba7ff8089d95b88cd9c55ce3897a6f72b349fe96c6fd4830874640": {
+    "choice": "option_2",
+    "probabilities": {
+      "option_1": 0.03,
+      "option_2": 0.97
+    },
+    "confidence": 0.94
+  },
+  "a3b150676ae3653e19813aad535576f86f5e2ce12a397c7750dd9d4ce61c6eb2": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  },
+  "63a6e6ecd4a2c7e43b48a3c94b6b9bd91236eb5e87002d4b01031154cadb6160": {
+    "choice": "option_1",
+    "probabilities": {
+      "option_1": 1.0
+    },
+    "confidence": 1.0
+  }
+}

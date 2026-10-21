@@ -1,0 +1,77 @@
+{
+  "n": 400,
+  "apriori_hit1": 0.63,
+  "apriori_hit3": 0.83,
+  "coverage": 1.0,
+  "semantic_api_failures": 0,
+  "semantic_hit1": 0.5875,
+  "semantic_hybrid_hit1": 0.6225,
+  "semantic_rescue": 78,
+  "semantic_damage": 61,
+  "semantic_conditional_accuracy": 0.7078,
+  "apriori_api_failures": 0,
+  "apriori_hybrid_hit1": 0.655,
+  "apriori_rescue": 67,
+  "apriori_damage": 33,
+  "apriori_conditional_accuracy": 0.759,
+  "groups": {
+    "family:bbq->sausages": {
+      "n": 66,
+      "apriori_hit1": 0.7273,
+      "apriori_hit3": 0.8788,
+      "semantic_hit1": 0.6212
+    },
+    "family:bread+milk->butter": {
+      "n": 67,
+      "apriori_hit1": 0.2836,
+      "apriori_hit3": 0.5075,
+      "semantic_hit1": 0.3582
+    },
+    "family:bun+filling->mayo": {
+      "n": 67,
+      "apriori_hit1": 0.6269,
+      "apriori_hit3": 1.0,
+      "semantic_hit1": 0.5075
+    },
+    "family:cereal+milk->yogurt": {
+      "n": 67,
+      "apriori_hit1": 0.7761,
+      "apriori_hit3": 0.806,
+      "semantic_hit1": 0.791
+    },
+    "family:flour+milk->eggs": {
+      "n": 66,
+      "apriori_hit1": 0.5303,
+      "apriori_hit3": 0.9242,
+      "semantic_hit1": 0.5152
+    },
+    "family:pasta+sauce->cheese": {
+      "n": 67,
+      "apriori_hit1": 0.8358,
+      "apriori_hit3": 0.8657,
+      "semantic_hit1": 0.7313
+    },
+    "kind:cold": {
+      "n": 112,
+      "apriori_hit1": 0.7679,
+      "apriori_hit3": 0.7946,
+      "semantic_hit1": 0.7946
+    },
+    "kind:mixed": {
+      "n": 246,
+      "apriori_hit1": 0.5285,
+      "apriori_hit3": 0.8211,
+      "semantic_hit1": 0.4756
+    },
+    "kind:seen": {
+      "n": 42,
+      "apriori_hit1": 0.8571,
+      "apriori_hit3": 0.9762,
+      "semantic_hit1": 0.6905
+    }
+  },
+  "hybrid_alpha": 0.5,
+  "new_paid_calls": 560,
+  "frequent_itemsets": 620,
+  "rules": 213
+}
